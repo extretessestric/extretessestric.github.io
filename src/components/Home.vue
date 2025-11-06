@@ -24,26 +24,19 @@
           </div>
           <div class="text-center pb-4">
             <button
+              class="btn btn-outline-secondary mx-2"
+              @click="open('gmail')"
+              v-tooltip.bottom="'Mail'"
+            >
+              <i class="fas fa-envelope"></i>
+            </button>
+            <button
               class="btn btn-outline-secondary mx-2 "
               @click="open('linkedin')"
               v-tooltip.bottom="'LinkedIn'"
             >
               <i class="fab fa-linkedin"></i>
-            </button>
-            <button
-              class="btn btn-outline-secondary mx-2"
-              @click="open('github')"
-              v-tooltip.bottom="'GitHub'"
-            >
-              <i class="fab fa-github"></i>
-            </button>
-            <button
-              class="btn btn-outline-secondary mx-2"
-              @click="open('angellist')"
-              v-tooltip.bottom="'AngelList'"
-            >
-              <i class="fab fa-angellist"></i>
-            </button>
+            </button>                       
             <button
               class="btn btn-outline-secondary mx-2"
               @click="open('resume')"

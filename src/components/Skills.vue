@@ -20,7 +20,7 @@
       <br />
       <div class="row">
         <div
-          class="col-xl-4 col-bg-4 col-md-4 col-sm-12 text-center pb-5 px-4"
+          class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-12 text-center pb-5 px-4"
           v-for="(skill, idx) in skills"
           :key="skill.title"
           data-aos="fade-up"
@@ -38,7 +38,14 @@
             width="50%"
             :class="{ pgray: !nightMode, 'bg-secondary': nightMode }"
           />
-          <span class="title3">{{ skill.info.join(", ") }}</span>
+           <span
+                  class="mx-1 badge p-2 mb-2"
+                  v-for="s in skill.info"
+                  :key="s"
+                  :class="{ 'bg-dark2': nightMode }"
+                  >{{ s }}
+            </span>
+          <!-- <span class="title3">{{ skill.info.join(", ") }}</span> -->
         </div>
       </div>
     </div>
@@ -81,6 +88,16 @@ export default {
 .title3 {
   font-size: 16px;
   font-weight: 400;
+}
+
+.badge {
+  background-color: rgb(211, 227, 233);
+  transition: all 0.5s;
+  font-weight: 500;
+}
+
+.bg-dark2 {
+  background-color: #3c4148 !important;
 }
 
 .fa {

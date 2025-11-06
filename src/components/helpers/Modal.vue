@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="modal-mask">
-      <div class="modal-wrapper">
+      <div class="modal-wrapper" @click.self="$emit('close')">
         <div
           class="modal-container"
           :class="{
@@ -30,13 +30,7 @@
               :class="{ pgray: !nightMode, 'bg-secondary': nightMode }"
             />
           </div>
-          <div class="modal-body my-0 pb-0 px-4 pt-0">
-            <div
-              class="mb-2 date"
-              :class="{ 'text-light': nightMode, pbgray: nightMode }"
-            >
-              <span>{{ portfolio.date }} • {{ portfolio.category }}</span>
-            </div>
+          <div class="modal-body my-0 pb-0 px-4 pt-0">            
             <div class="pb-1 bheight">
               <span
                 class="badge mr-2 mb-2"
@@ -49,11 +43,7 @@
 
             <div style="text-align: justify;">
               <span v-html="portfolio.description"></span>
-            </div>
-            <hr />
-            <div>
-              <Gallery :images="portfolio.pictures" />
-            </div>
+            </div>           
           </div>
 
           <div class="text-center pb-3">
@@ -61,10 +51,9 @@
               class="mt-1 mb-3"
               :class="{ pgray: !nightMode, 'bg-secondary': nightMode }"
             />
-            <button class="btn w-25 mr-3" @click="open(portfolio.github)">
-              github
-            </button>
-            <button class="btn w-25" @click="$emit('close')">close</button>
+            <button class="btn w-25 mr-3" @click="open(portfolio.link)">
+              Visit
+            </button>            
           </div>
         </div>
       </div>
@@ -73,15 +62,10 @@
 </template>
 
 <script>
-import Carousel from "./Carousel";
-import Gallery from "./Gallery";
 
 export default {
   name: "Modal",
-  components: {
-    Carousel,
-    Gallery,
-  },
+  components: {},
   props: {
     showModal: {
       type: Boolean,

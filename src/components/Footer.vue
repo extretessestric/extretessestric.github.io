@@ -6,32 +6,29 @@
           class="col-xl-6 col-bg-6 col-md-6 col-sm-12 pbelow"
           style="color: white;"
         >
-          <span>© 2020 Copyright: Hrishikesh Paul</span>
+          <span>© 2025 Copyright: Gaurav Jain</span>
         </div>
 
         <div class="col-xl-6 col-bg-6 col-md-6 col-sm-12">
           <div class="text-center">
             <button
+              class="btn btn-outline-secondary mx-2"
+              @click="open('gmail')"
+              v-tooltip.top="'Mail'"
+            >
+              <i class="fas fa-envelope"></i>
+            </button>
+            <button
               class="btn btn-outline-secondary mx-2 "
               @click="open('linkedin')"
+              v-tooltip.top="'LinkedIn'"
             >
               <i class="fab fa-linkedin"></i>
-            </button>
-            <button
-              class="btn btn-outline-secondary mx-2"
-              @click="open('github')"
-            >
-              <i class="fab fa-github"></i>
-            </button>
-            <button
-              class="btn btn-outline-secondary mx-2"
-              @click="open('angellist')"
-            >
-              <i class="fab fa-angellist"></i>
-            </button>
+            </button>                        
             <button
               class="btn btn-outline-secondary mx-2"
               @click="open('resume')"
+              v-tooltip.top = "'Resume'"
             >
               <i class="fa fa-file"></i>
             </button>

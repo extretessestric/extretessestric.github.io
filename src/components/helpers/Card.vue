@@ -48,8 +48,8 @@
           <button
             href="#"
             class="btn-sm btn btn-outline-secondary no-outline ml-4"
-            v-if="portfolio.visit"
-            @click.prevent="open(portfolio.visit)"
+            v-if="portfolio.link"
+            @click.prevent="open(portfolio.link)"
           >
             visit website
           </button>
