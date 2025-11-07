@@ -1,7 +1,7 @@
 let info = {
   name: "Gaurav Jain",
   logo_name: "GJ",
-  flat_picture: require("./src/assets/potrait.svg"),
+  flat_picture: require("./src/assets/potrait.png"),
   config: {
     use_cookies: true,
     navbar: {
