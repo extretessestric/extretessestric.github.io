@@ -47,8 +47,7 @@ export default {
   data() {
     return {
       linkedin: info.links.linkedin,
-      github: info.links.github,
-      angellist: info.links.angellist,
+      gmail: info.links.gmail,
       resume: info.links.resume,
     };
   },
@@ -58,11 +57,8 @@ export default {
         case "linkedin":
           window.open(this.linkedin, "_blank");
           break;
-        case "github":
-          window.open(this.github, "_blank");
-          break;
-        case "angellist":
-          window.open(this.angellist, "_blank");
+        case "gmail":
+          window.open(this.gmail, "_blank");
           break;
         case "resume":
           window.open(this.resume, "_blank");
