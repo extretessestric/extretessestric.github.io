@@ -6,7 +6,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "deploy": "git branch -D gh-pages; git push origin --delete gh-pages; Remove-Item -Recurse -Force node_modules/gh-pages/.cache; npm run build && gh-pages -d dist --branch gh-pages"
+    "deploy": "node deploy.js"
   },
   "dependencies": {
     "@chenfengyuan/vue-carousel": "^1.0.5",
