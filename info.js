@@ -227,7 +227,7 @@ let info = {
           img: require("./src/assets/portfolio/carmaldn.png")
         }
       ],
-      technologies: ["React", "JSP", "Java", "Postgres", "AWS"],     
+      technologies: ["React", "JSP", "Java", "Postgres", "AWS", "Trello"],     
       link:
         "https://carmaldn.com",      
       description:
@@ -240,7 +240,7 @@ let info = {
           img: require("./src/assets/portfolio/franchisedirect.png")
         }
       ],
-      technologies: ["Java", "Brightspot", "Postgres", "AWS"],          
+      technologies: ["Java", "Brightspot", "Postgres", "AWS", "JIRA"],          
       link: "https://www.franchisedirect.com/",
       description:
         "Franchise Direct's goal is to provide a reliable, authoritative platform where entrepreneurs can connect with franchisors seeking investors. In support of this objective, our mission is to be the leading online resource for franchise opportunities and the knowledge center of choice for anyone seeking information on the franchise industry."
@@ -252,7 +252,7 @@ let info = {
           img: require("./src/assets/portfolio/ngasce.png")
         }
       ],
-      technologies: ["React", "Java Spring Boot", "Mysql", "AWS", "Redis"],
+      technologies: ["React", "Java Spring Boot", "Mysql", "AWS", "Redis", "Trello"],
       link:
         "https://studentzone-ngasce.nmims.edu/",      
       description:
@@ -265,35 +265,35 @@ let info = {
           img: require("./src/assets/portfolio/scallopx.png")
         }
       ],
-      technologies: ["Node", "Vue", "Express", "MongoDB", "Heroku"],      
-      link: "https://",
+      technologies: ["React", "Java Spring Boot", "Postgres", "AWS", "Blockchain", "DeFi", "JIRA"],      
+      link: "https://scallopx.com",
       description:
-        "No Q, is a revolutionary tool which allows for both employers and students to skip the hassle seen in modern day career fairs. For the students, there is an intuitive profile builder where you can add things like education, skills, certifications, honors, and experiences. No Q is not only good for students, but employers as well! A common problem at modern career fairs is the number of unqualified candidates who waste their time when they could be chatting with someone else. With No Q, only the students who meet the positions’ criteria will be able to apply, and from there the recruiter can invite them to talk in more detail at the career fair through our intuitive messaging system."
+        "Scallop and E Money Network together represent our vision for the future of finance. By combining a user-friendly banking and crypto app with a MiCA-compliant modular Layer 1 blockchain, we bridge the gap between traditional systems and the world of digital assets. This is where BankFi meets PayFi."
     },
     {
-      name: "CAaaRMA",
+      name: "ArealYou.ai",
       pictures: [
         {
-          img: require("./src/assets/portfolio/carmaldn.png")
+          img: require("./src/assets/portfolio/arealyou.png")
         }
       ],
-      technologies: ["React", "JSP", "Java", "Postgres", "AWS"],
+      technologies: ["React", "Python (Django)", "OpenCV", "Mysql", "AWS", "JIRA"],
       link:
-        "https://carmaldn.com",      
+        "https://arealyou.ai",      
       description:
-        "CARMA is an Online Vegan Marketplace, bringing UK fashion, beauty and lifestyle brands together onto one platform to make shopping vegan, ethically and sustainably easy."
+        "Arealyou.ai is an AI-driven personal care startup that analyzes skin and hair via video scanning to deliver personalized insights. It identifies hair type, color, length, age, scalp health, and premature greying percentage for customized care recommendations."
     },
     {
-      name: "Franchiaase Direct",
+      name: "SCAN Health Plan",
       pictures: [
         {
-          img: require("./src/assets/portfolio/noq/logo.png")
+          img: require("./src/assets/portfolio/scanhealth.png")
         }
       ],
-      technologies: ["Node", "Vue", "Express", "MongoDB", "Heroku"],      
-      link: "https:///",
+      technologies: ["React", "Python", ".Net Core", "Azure Functions", "Azure DevOps", "OCR / ICR"],      
+      link: "https://www.scanhealthplan.com/",
       description:
-        "No Q, is a revolutionary tool which allows for both employers and students to skip the hassle seen in modern day career fairs. For the students, there is an intuitive profile builder where you can add things like education, skills, certifications, honors, and experiences. No Q is not only good for students, but employers as well! A common problem at modern career fairs is the number of unqualified candidates who waste their time when they could be chatting with someone else. With No Q, only the students who meet the positions’ criteria will be able to apply, and from there the recruiter can invite them to talk in more detail at the career fair through our intuitive messaging system."
+        "SCAN Health Plan is a nonprofit Medicare Advantage provider focused on delivering senior-centered healthcare services. It offers plans with $0 primary care, prescription drug coverage, dental/vision, telehealth, chronic care support, and specialized plans for diverse older adult communities—empowering seniors to stay healthy and independent."
     },
   ]  
 };

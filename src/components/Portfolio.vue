@@ -50,7 +50,7 @@ export default {
       portfolio_info: [],
       showModal: false,      
       modal_info: {},      
-      number: 6,
+      number: 3,
       showBtn: "show more",
       shower: 0,
       data: [
