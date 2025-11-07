@@ -24,7 +24,6 @@ const routes = [
 
 const router = new VueRouter({
   mode:'history',
-  base: "/portfolio/",
   routes // short for `routes: routes`
 })
 
