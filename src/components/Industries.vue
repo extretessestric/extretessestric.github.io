@@ -1,5 +1,9 @@
 <template>
-  <div :class="{ 'bg-white': !nightMode, 'bg-dark': nightMode }" class="p-st">
+  <div :class="{
+      'bg-light': !nightMode,
+      'bg-dark2': nightMode,
+      'text-light': nightMode,
+    }" class="p-st">
     <div class="container py-4">
       <div
         class="text-center"
@@ -10,7 +14,7 @@
         <span
           class="title text-center"
           :class="{ pgray: !nightMode, 'text-light': nightMode }"
-          >skills.</span
+          >industries.</span
         >
       </div>
       <hr
@@ -20,9 +24,9 @@
       <br />
       <div class="row">
         <div
-          class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-12 text-center pb-5 px-4"
-          v-for="(skill, idx) in skills"
-          :key="skill.title"
+          class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12 text-center pb-5 px-4"
+          v-for="(industry, idx) in industries"
+          :key="industry.title"
           data-aos="fade-up"
           data-aos-offset="10"
           data-aos-delay="30"
@@ -32,22 +36,23 @@
           data-aos-mirror="true"
           data-aos-once="true"
         >
-          <div class="bg-div"><i :class="skill.icon"></i></div>
-          <div class="title2 pt-2">{{ skill.title }}</div>
+          <div class="bg-div"><i :class="industry.icon"></i></div>
+          <div class="title2 pt-2">{{ industry.title }}</div>
           <hr
             width="50%"
             :class="{ pgray: !nightMode, 'bg-secondary': nightMode }"
           />
            <span
                   class="mx-1 badge p-2 mb-2"
-                  v-for="s in skill.info"
-                  :key="s"
-                  :class="{ 'bg-dark2': nightMode }"
-                  >{{ s }}
-            </span>
-          <!-- <span class="title3">{{ skill.info.join(", ") }}</span> -->
+                  v-for="d in industry.domains"
+                  :class="{                    
+                    'bg-dark': nightMode,                    
+                    }"
+                  :key="d"                  
+                  >{{ d }}
+            </span>          
         </div>
-      </div>
+      </div>  
     </div>
   </div>
 </template>
@@ -56,7 +61,7 @@
 import info from "../../info";
 
 export default {
-  name: "Skills",
+  name: "Industries",
   props: {
     nightMode: {
       type: Boolean,
@@ -64,7 +69,7 @@ export default {
   },
   data() {
     return {
-      skills: info.skills,
+      industries: info.industries,
     };
   },
 };
@@ -97,7 +102,7 @@ export default {
 }
 
 .bg-dark2 {
-  background-color: #3c4148 !important;
+  background-color: #2f3132 !important;
 }
 
 .fa {

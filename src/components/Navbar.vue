@@ -50,6 +50,15 @@
                 >skills</a
               >
             </li>
+            <li class="nav-item mx-2">
+              <a
+                class="nav-link"
+                href="/industries"
+                @click.prevent="$emit('scroll', 'industries')"
+                :class="{ 'text-light': nightMode }"
+                >industires</a
+              >
+            </li>
             <li class="nav-item mx-2 ">
               <a
                 class="nav-link"

@@ -5,6 +5,7 @@
       <Home :nightMode="nightMode" />
       <About id="about" :nightMode="nightMode" />
       <Skills id="skills" :nightMode="nightMode" />
+      <Industries id="industries" :nightMode="nightMode" />
       <Portfolio id="portfolio" :nightMode="nightMode" />      
       <Footer :nightMode="nightMode" />
     </div>
@@ -16,6 +17,7 @@ import Navbar from "./components/Navbar.vue";
 import Home from "./components/Home";
 import About from "./components/About";
 import Skills from "./components/Skills";
+import Industries from "./components/Industries";
 import Portfolio from "./components/Portfolio";
 import Footer from "./components/Footer";
 
@@ -28,6 +30,7 @@ export default {
     Home,
     About,
     Skills,
+    Industries,
     Portfolio,
     Footer,
   },
@@ -43,7 +46,7 @@ export default {
     }
   },
   mounted() {
-    ["about", "contact", "skills", "portfolio"].forEach((l) => {
+    ["about", "contact", "skills", "industries", "portfolio"].forEach((l) => {
       if (window.location.href.includes(l)) {
         var elementPosition = document.getElementById(l).offsetTop;
         window.scrollTo({ top: elementPosition - 35, behavior: "smooth" });

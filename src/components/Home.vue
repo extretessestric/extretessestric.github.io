@@ -1,7 +1,7 @@
 <template>
   <div
     :class="{ 'bg-white': !nightMode, 'bg-dark': nightMode }"
-    class="pt-5 p-st"
+    class="p-st"
   >
     <div
       class="container"

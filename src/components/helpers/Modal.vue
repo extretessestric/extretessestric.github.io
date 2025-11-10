@@ -30,7 +30,7 @@
               :class="{ pgray: !nightMode, 'bg-secondary': nightMode }"
             />
           </div>
-          <div class="modal-body my-0 pb-0 px-4 pt-0">            
+          <div class="modal-body my-0 pb-3 px-4 pt-0">            
             <div class="pb-1 bheight">
               <span
                 class="badge mr-2 mb-2"
@@ -46,12 +46,14 @@
             </div>           
           </div>
 
-          <div class="text-center pb-3">
+          <div class="text-center pb-3" v-if="portfolio.link">
             <hr
               class="mt-1 mb-3"
               :class="{ pgray: !nightMode, 'bg-secondary': nightMode }"
             />
-            <button class="btn w-25 mr-3" @click="open(portfolio.link)">
+            <button class="btn w-25 mr-3"               
+              @click.prevent="open(portfolio.link)"
+            >
               Visit
             </button>            
           </div>

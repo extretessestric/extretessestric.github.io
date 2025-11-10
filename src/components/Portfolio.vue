@@ -1,8 +1,5 @@
 <template>
-  <div class="py-4 p-st" :class="{
-      'bg-light': !nightMode,
-      'bg-dark2': nightMode,
-      'text-light': nightMode,
+  <div class="py-4 p-st" :class="{ 'bg-white': !nightMode, 'bg-dark': nightMode 
     }">
     <div class="container">
       <div class="text-center" data-aos="fade" data-aos-once="true" data-aos-duration="1000">
@@ -50,7 +47,7 @@ export default {
       portfolio_info: [],
       showModal: false,      
       modal_info: {},      
-      number: 3,
+      number: 6,
       showBtn: "show more",
       shower: 0,
       data: [
@@ -97,7 +94,7 @@ export default {
     },
     showMore() {
       if (this.number != this.folio_info.length) {
-        this.number += 3;
+        this.number += 6;
 
         window.scrollBy({
           top: document.getElementsByClassName("smcard")[0].clientHeight,

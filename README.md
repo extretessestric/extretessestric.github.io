@@ -10,7 +10,7 @@ These are the local dependencies that are needed for development,
 
 Get this repo to your local machine using,
 ```shell
-$ git clone https://github.com/extretessestric/portfolio.git
+$ git clone https://github.com/extretessestric/extretessestric.github.io
 ```
 
 ### Setup 
