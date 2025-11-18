@@ -676,32 +676,33 @@ let info = {
         "including eCOA, telehealth virtual visits and multi-channel patient engagement."
     },
     {
-      name: "Forest Department of Himachal Pradesh",
+      name: "WORKPLACE21",
       pictures: [
         {
-          img: require("./src/assets/portfolio/forest.png")
+          img: require("./src/assets/portfolio/wp21.png")
         }
       ],
-      technologies: ["React", "Java", "Flutter", "Mysql", "AWS"],      
-      link: "https://hpforest.gov.in/",
+      technologies: ["React", "Java", "Mysql", "AWS", "JIRA", "Confluence"],      
+      link: "https://heyvicky.com/",
       description:
-        "This project aims to digitize and location tag all forest nurseries in the state with Custom Web & Mobile Application. " +
-        "This streamlined record-keeping and reporting, enhancing data accuracy and accessibility. Our efforts have significantly improved operational efficiencency"
+        "WP21 is instrumental in helping organizations and professionals unleash high performance and grow faster by helping professionals and " +
+        "teams learn and develop conveniently, quickly, and effectively."
     },
     {
-      name: "Forest Department of Himachal Pradesh",
+      name: "Imagine Cup (Microsoft)",
       pictures: [
         {
-          img: require("./src/assets/portfolio/forest.png")
+          img: require("./src/assets/portfolio/imaginecup.png")
         }
       ],
-      technologies: ["React", "Java", "Flutter", "Mysql", "AWS"],      
-      link: "https://hpforest.gov.in/",
+      technologies: [".Net", "SQL", "AWS"],      
+      link: "https://imaginecup.microsoft.com/",
       description:
-        "This project aims to digitize and location tag all forest nurseries in the state with Custom Web & Mobile Application. " +
-        "This streamlined record-keeping and reporting, enhancing data accuracy and accessibility. Our efforts have significantly improved operational efficiencency"
+        "Project to improve their image among students by engaging them in a global technology competition. Support millions of registered users, " +
+        "Handle millions of page hits per day, Support 32+ different roles, Run 15+ competitions simultaneously, Include all functionality needed to run the competitions online"
     },
   ]  
 };
+
 
 export default info;
