@@ -9,7 +9,10 @@ let info = {
     }
   },
   description:
-    "💼 10 years in the game and still making tech chaos look classy. 🚀 I don’t just manage projects — I make them behave. 💡 Across every flavor of tech, I’ve streamlined it, scaled it, and shipped it. ⏰ Deadlines respect me. 💰 Budgets stay in line. ✅ Results? Always delivered.",
+    "💼10 years in the game and still making tech chaos look classy. <br />" + 
+    "🚀I don’t just manage projects — I make them behave. <br />" +
+    "💡Across every flavor of tech, I’ve streamlined it, scaled it, and shipped it. <br />" +
+    "⏰Deadlines respect me. 💰Budgets stay in line. ✅Results? Always delivered.",
   links: {
     linkedin: "https://www.linkedin.com/in/extretessestric/",
     gmail: "mailto:jigerjain4.gj@gmail.com",
@@ -545,6 +548,158 @@ let info = {
         "broadband solutions. It aims to empower local governance with access to e-services, agriculture, banking, insurance, and education portals, improving transparency " +
         "and citizen engagement. The initiative ensures real-time communication between state headquarters and village administrations, promoting inclusive digital growth and " +
         "rural empowerment at the grassroots level."
+    },
+    {
+      name: "EduSpark",
+      pictures: [
+        {
+          img: require("./src/assets/portfolio/eduspark.png")
+        }
+      ],
+      technologies: ["React", "Flutter", "Java", "Mysql", "GCP", "LMS"],      
+      link: "https://eduspark.world/",
+      description:
+        "EduSpark is a professional online learning platform designed by educators to empower school leaders and teachers with high-impact, evidence-based courses. " +
+        "The platform offers interactive lessons, real-time progress analytics, and a portfolio system to showcase professional development. <br />" +
+        "With subscription tiers and pay-per-course options, EduSpark fits the needs of individual educators and full school teams alike. <br />" +
+        "Its mission is to shift professional learning from content consumption to actionable classroom impact, fostering learning networks and measurable growth."
+    },
+    {
+      name: "RNS.ID",
+      pictures: [
+        {
+          img: require("./src/assets/portfolio/rns.png")
+        }
+      ],
+      technologies: ["VueJS", "Smart Contract (Solana)", "Blockchain", "NodeJS", "MongoDB", "AWS", "MetaMask", "Jenkins", "Docker & Kubernetes"],      
+      link: "https://rns.id/",
+      description:
+        "RNS.ID is a blockchain-native digital identity platform backed by the sovereign nation of the Republic of Palau, offering a physical government-issued ID along with an on-chain Legal Decentralised Identity (LDID) token. " +
+        "The platform enables cross-border digital residency—letting applicants from 80+ countries gain KYC-ready identity credentials without relocating. " +
+        "RNS.ID leverages zero-knowledge proofs and multi-chain compatibility (currently Ethereum and planning Solana) to maintain user privacy while enabling trusted verifications. " +
+        "Ideal for freelancers, digital nomads and Web3 users, it offers global access to virtual government services, reduced tax jurisdiction, and a next-gen identity model for the metaverse era."
+    },
+    {
+      name: "SimplifyPI",
+      pictures: [
+        {
+          img: require("./src/assets/portfolio/simplifypi.png")
+        }
+      ],
+      technologies: ["Angular", "Java", "Mysql", "AWS", "Lombok", "JUnit", "OpenCV"],      
+      link: "https://simplifypi.com/",
+      description:
+        "SimplifyPI is your leading solution for Personal Injury Case Management. " +
+        "Our Case Management Software is designed to empower attorneys and providers by reducing time spent on administrative tasks and increasing transparency for lienholders."
+    },
+    {
+      name: "BigShip",
+      pictures: [
+        {
+          img: require("./src/assets/portfolio/bigship.png")
+        }
+      ],
+      technologies: ["Angular", ".Net Core", "PHP", "Flutter", "SQL", "On-Prem Server", "Redis", "Kafka", "Jenkins", "Docker & Kubernetes"],      
+      link: "https://bigship.in/",
+      description:
+        "Bigship is India’s first business hub that offers you solutions for all your eCommerce business needs. This is a robust platform for " +
+        "a best-in-class shipping experience for all the social sellers, marketplace sellers, shop owners and high-volume eCommerces. Focus on growing " +
+        "your business while we help you keep your costs and tasks in line. Keep connected and make us a part of your success story."
+    },
+    {
+      name: "Vitality Living College",
+      pictures: [
+        {
+          img: require("./src/assets/portfolio/vlc.png")
+        }
+      ],
+      technologies: ["CRM", "LMS", "Emotional Freedom Technique (EFT)", "Energy Flow Program", "Lead Generation", "Content Development"],      
+      link: "https://vitalitylivingcollege.info/",
+      description:
+        "Vitality Living College® is a global learning organisation with satellites worldwide, conducting seminars in stress relief, emotional well-being, " +
+        "communication, confidence and spiritual realisation along with creating practitioners, coaches and trainers of EFT, NLP, Hypnosis, Timeline, Journey work, " +
+        "Inner Child, Past Life Regression and Breakthrough Coaching. It is the only global college of its kind dedicated to leadership and personal development, " +
+        "emotional well-being and spiritual growth."
+    },
+    {
+      name: "BE-AgSmart – eKrishi AI-driven Digital Agriculture Platform, Bharat Electronics Limited",
+      pictures: [
+        {
+          img: require("./src/assets/portfolio/ekrishi.png")
+        }
+      ],
+      technologies: ["React", "Java", "Flutter", "VirtualBox", "MongoDB"],      
+      link: "",
+      description:
+        "A web- and mobile-based AI-driven digital agriculture platform developed for Bharat Electronics Limited (BEL) called BE-AgSmart – eKrishi. " +
+        "It automates Farmer Producer Organization (FPO) operations and empowers farmers with smart tools such as IoT sensors, weather data, " +
+        "and GIS services to enhance productivity, streamline farm management, and drive sustainable agriculture."
+    },
+    {
+      name: "AyurVidya - All India Institute of Ayurveda",
+      pictures: [
+        {
+          img: require("./src/assets/portfolio/ayurvidya.png")
+        }
+      ],
+      technologies: ["React", "PHP", "SQL", "AWS"],      
+      link: "https://ayurvidya.aiia.gov.in/",
+      description:
+        "The Ayurvidya is an e-learning project, aims to create a digital platform that hosts a wide range of service-oriented online courses " +
+        "through our state-of-the-art Learning Management System (LMS). The technical content for these courses is meticulously curated and encompasses " +
+        "a diverse range of learning materials."
+    },
+    {
+      name: "Forest Department of Himachal Pradesh",
+      pictures: [
+        {
+          img: require("./src/assets/portfolio/forest.png")
+        }
+      ],
+      technologies: ["React", "Java", "Flutter", "Mysql", "AWS"],      
+      link: "https://hpforest.gov.in/",
+      description:
+        "This project aims to digitize and location tag all forest nurseries in the state with Custom Web & Mobile Application. " +
+        "This streamlined record-keeping and reporting, enhancing data accuracy and accessibility. Our efforts have significantly improved operational efficiency."
+    },
+    {
+      name: "Thread Research",
+      pictures: [
+        {
+          img: require("./src/assets/portfolio/thread.png")
+        }
+      ],
+      technologies: ["React", "Java", "Flutter", "Mysql", "AWS", "ERP"],      
+      link: "https://www.threadresearch.com/",
+      description:
+        "THREAD Research offers a fully configurable, no-code platform and professional services to support decentralized, hybrid and site-based clinical trials, " +
+        "including eCOA, telehealth virtual visits and multi-channel patient engagement."
+    },
+    {
+      name: "Forest Department of Himachal Pradesh",
+      pictures: [
+        {
+          img: require("./src/assets/portfolio/forest.png")
+        }
+      ],
+      technologies: ["React", "Java", "Flutter", "Mysql", "AWS"],      
+      link: "https://hpforest.gov.in/",
+      description:
+        "This project aims to digitize and location tag all forest nurseries in the state with Custom Web & Mobile Application. " +
+        "This streamlined record-keeping and reporting, enhancing data accuracy and accessibility. Our efforts have significantly improved operational efficiencency"
+    },
+    {
+      name: "Forest Department of Himachal Pradesh",
+      pictures: [
+        {
+          img: require("./src/assets/portfolio/forest.png")
+        }
+      ],
+      technologies: ["React", "Java", "Flutter", "Mysql", "AWS"],      
+      link: "https://hpforest.gov.in/",
+      description:
+        "This project aims to digitize and location tag all forest nurseries in the state with Custom Web & Mobile Application. " +
+        "This streamlined record-keeping and reporting, enhancing data accuracy and accessibility. Our efforts have significantly improved operational efficiencency"
     },
   ]  
 };

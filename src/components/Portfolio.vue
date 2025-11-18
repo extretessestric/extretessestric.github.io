@@ -47,7 +47,7 @@ export default {
       portfolio_info: [],
       showModal: false,      
       modal_info: {},      
-      number: 6,
+      number: 9,
       showBtn: "show more",
       shower: 0,
       data: [
@@ -94,7 +94,7 @@ export default {
     },
     showMore() {
       if (this.number != this.folio_info.length) {
-        this.number += 6;
+        this.number += 9;
 
         window.scrollBy({
           top: document.getElementsByClassName("smcard")[0].clientHeight,
