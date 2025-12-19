@@ -163,7 +163,7 @@
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\nlet info = {\n  name: \"Gaurav Jain\",\n  logo_name: \"GJ\",\n  flat_picture: __webpack_require__(/*! ./src/assets/potrait.png */ \"./src/assets/potrait.png\"),\n  config: {\n    use_cookies: true,\n    navbar: {\n      blur: false\n    }\n  },\n  description: \"💼10 years in the game and still making tech chaos look classy. <br />\" + \"🚀I don’t just manage projects — I make them behave. <br />\" + \"💡Across every flavor of tech, I’ve streamlined it, scaled it, and shipped it. <br />\" + \"⏰Deadlines respect me. 💰Budgets stay in line. ✅Results? Always delivered.\",\n  links: {\n    linkedin: \"https://www.linkedin.com/in/extretessestric/\",\n    gmail: \"mailto:jigerjain4.gj@gmail.com\",\n    resume: \"https://drive.google.com/file/d/198XsD0zvUgpiR90vBbeGA97PSiaqSx1i/view?usp=sharing\"\n  },\n  education: [{\n    name: \"Jai Hind College\",\n    place: \"Mumbai, Maharashtra, India\",\n    date: \"2016 - 2019\",\n    degree: \"Bachelor of Science in Information Technology (B.Sc. I.T.\",\n    score: \"9.57/10\",\n    description: \"\",\n    skills: [\"Artificial Intelligence\", \"Networking\", \"Software Engineering\", \"Algorithms\", \"Computer Vision\", \"IoT\", \"OS\"]\n  }, {\n    name: \"Shankar Narayan College\",\n    place: \"Mumbai, Maharashtra, India\",\n    date: \"2014 - 2016\",\n    degree: \"HSC\",\n    score: \"76%\",\n    description: \"\",\n    skills: [\"Commerce\"]\n  }, {\n    name: \"Om Swami Vivekanand High School\",\n    place: \"Mumbai, Maharashtra, India\",\n    date: \"2014\",\n    degree: \"SSC\",\n    score: \"72%\",\n    description: \"\",\n    skills: [\"Schooling\"]\n  }],\n  experience: [{\n    name: \"Technoark Solutions\",\n    place: \"Mumbai, Maharashtra, India\",\n    date: \"Jan, 2019 - Present\",\n    position: \"CTO cum Sr. Technical Project / Product / Program Manager\",\n    description: \"Started in the code, ended in the C-suite. Built, planned, shipped, led — one decade, every role, same result: execution done right.\",\n    skills: [\"MERN\", \"MEAN\", \"VueJs\", \"HTML/CSS/JS\", \"Java\", \"Python\", \".Net\", \"Go\", \"React Native\", \"Flutter\", \"AWS\", \"Azure\", \"GCP\", \"Oracle\", \"SQL\", \"MySQL\", \"PostgreSQL\", \"SQLite\", \"Firebase\", \"Docker\", \"Kubernetes\", \"Jenkins\"]\n  }],\n  skills: [{\n    title: \"Leadership & Management\",\n    info: [\"Effective communication\", \"Business Process Analysis and Optimization\", \"Data Migration and Integration\", \"SAP Customization and Configuration\", \"End-User Training and Documentation\", \"Ownership skill\", \"Team leadership\", \"Stakeholder management\", \"Complex decision making\", \"Problem solving and Troubleshooting\", \"E-governance & Security Compliances\", \"Liquidity, Risk & Compliance\"],\n    icon: \"fas fa-group\"\n  }, {\n    title: \"Project / Product / Program Management\",\n    info: [\"Microsoft Projects\", \"SAP Activate Methodology\", \"Aha!\", \"Agile\", \"Scrum\", \"Waterfall\", \"Kanban\", \"Treasury Project Delivery\", \"JIRA\", \"Trello\", \"Basecamp\", \"Asana\", \"ClickUp\", \"Notion\", \"Taskade\", \"Confluence\", \"Monday.com\", \"Miro\", \"Radar\"],\n    icon: \"fas fa-user-circle\"\n  }, {\n    title: \"Technical Skills (Web/Mobile/Cloud) \",\n    info: [\"Angular\", \"ReactJS\", \"React Native\", \"GoLang\", \"Rust\", \"Bash Scripting\", \"Powershell\", \"Blockchain\", \"Web3\", \"VueJS\", \"PHP (Laravel)\", \"JS/HTML5/CSS3\", \"JSP\", \"JSON/XML\", \"Python (Django / Flask / FastAPI)\", \"NodeJS (NestJS / Express)\", \"Java (Spring Boot / MVC)\", \"Kotlin\", \"Cordova\", \"Flutter (Dart)\", \".Net (C# / Core)\", \"AWS\", \"Azure\", \"Jenkins\", \"R\", \"Google Cloud Platform\", \"SQL\", \"MySQL\", \"PostgreSQL\", \"SQLite\", \"MongoDB\", \"Oracle\", \"AI/ML\", \"IoT\"],\n    icon: \"fas fa-laptop-code\"\n  }, {\n    title: \"Tools\",\n    info: [\"WordPress\", \"Shopify\", \"Magento\", \"Drupal\", \"Salesforce\", \"HubSpot\", \"Zoho CRM\", \"Microsoft Dynamic 360 CRM\", \"AEM\", \"Microsoft Office Suite\", \"SharePoint\", \"Adobe Suite\", \"Figma\", \"Visio\", \"Miro\", \"Balsamiq\", \"Draw.io\", \"Microsoft Office\", \"Advanced Excel\", \"Mettle\", \"Slack\", \"Microsoft Teams\", \"Skype\", \"Zoom API Integration\", \"UIDAI Aadhaar Integration\", \"Linux\", \"Unix\", \"Stripe\", \"PayU\", \"Razorpay\", \"Braintree\", \"PayPal\", \"Alipay\", \"Paytm\", \"R\", \"Google Analytics\", \"Mixpanel\", \"Amplitude\", \"Power BI\", \"Tableau\", \"Apache Tomcat\", \"Redis\", \"Solr\", \"Firebase\", \"Elastic Search\", \"Kafka\", \"Spark\", \"Camel\", \"Cassandra\"],\n    icon: \"fa fa-tools\"\n  }],\n  industries: [{\n    title: \"IT & Operations\",\n    icon: \"fas fa-gears\",\n    domains: [\"IT Service & Product Management\", \"Digital / Website Business Analysis\", \"Web Accessibility\", \"ERP Embedded Systems (IoT)\", \"Supply Chain Management\", \"Inventory Management\"]\n  }, {\n    title: \"E-Commerce & Business Models\",\n    icon: \"fas fa-shopping-cart\",\n    domains: [\"E-Commerce Platform\", \"Inventory Management\", \"Sales / E-Commerce Business Models\", \"B2B (Business-to-Business)\", \"B2C (Business-to-Consumer)\", \"C2B (Consumer-to-Business)\", \"C2C (Consumer-to-Consumer)\", \"D2C (Direct-to-Consumer)\", \"B2G (Business-to-Government)\", \"G2C (Government-to-Consumer)\", \"B2B2C (Business-to-Business-to-Consumer)\", \"Product-as-a-Service (PaaS)\", \"Software-as-a-Service (SaaS)\", \"Infrastructure-as-a-Service (IaaS)\", \"Retailer / Manufacturing\", \"Subscription\", \"Affiliate\", \"Freelance\"]\n  }, {\n    title: \"Enterprise Systems & Management\",\n    icon: \"fas fa-sitemap\",\n    domains: [\"ERP (Enterprise Resource Planning)\", \"CRM (Customer Relationship Management)\", \"CMS (Content Management System)\", \"LMS (Learning Management System)\", \"HRM (Human Resource Management)\", \"SAP (Manufacturing)\", \"SAP (Retail)\", \"SAP (Telecommunication)\", \"SAP (Consumer Goods)\", \"SAP (Pharmaceuticals)\", \"SAP (Utilities)\", \"SAP (Public Sector)\"]\n  }, {\n    title: \"Specialized Industry Verticals\",\n    icon: \"fas fa-industry\",\n    domains: [\"Healthcare (HealthTech / Pharmaceutical)\", \"Healthcare (Medical [Insurance / Device])\", \"FMCG (Fast-Moving Consumer Goods)\", \"Interior Design\", \"LegalTech\", \"EdTech\", \"RegTech / InsurTech\", \"FinTech (BaaS / BFSI / DeFi)\", \"AdTech\", \"RealTech / PropTech\", \"AgriTech\", \"AtmosTech\"]\n  }, {\n    title: \"Public & Non-Commercial Sectors\",\n    icon: \"fas fa-landmark\",\n    domains: [\"Government Sector\", \"Non-Profit Organizations\"]\n  }],\n  portfolio: [{\n    name: \"CARMA\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/carmaldn.png */ \"./src/assets/portfolio/carmaldn.png\")\n    }],\n    technologies: [\"React\", \"JSP\", \"Java\", \"Postgres\", \"AWS\", \"Trello\"],\n    link: \"https://carmaldn.com\",\n    description: \"CARMA is an Online Vegan Marketplace, bringing UK fashion, beauty and lifestyle brands together onto one platform to make shopping vegan, ethically and sustainably easy.\"\n  }, {\n    name: \"Franchise Direct\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/franchisedirect.png */ \"./src/assets/portfolio/franchisedirect.png\")\n    }],\n    technologies: [\"Java\", \"Brightspot\", \"Postgres\", \"AWS\", \"JIRA\"],\n    link: \"https://www.franchisedirect.com/\",\n    description: \"Franchise Direct's goal is to provide a reliable, authoritative platform where entrepreneurs can connect with franchisors seeking investors. \" + \"In support of this objective, our mission is to be the leading online resource for franchise opportunities and the knowledge center of choice \" + \"for anyone seeking information on the franchise industry.\"\n  }, {\n    name: \"NGA-SCE\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/ngasce.png */ \"./src/assets/portfolio/ngasce.png\")\n    }],\n    technologies: [\"React\", \"Java Spring Boot\", \"Mysql\", \"AWS\", \"Redis\", \"Trello\"],\n    link: \"https://studentzone-ngasce.nmims.edu/\",\n    description: \"NGASCE stands for NMIMS Global Access – School for Continuing Education, a part of Narsee Monjee Institute of Management Studies (NMIMS) \" + \"that offers distance and online programs. It focuses on providing quality management education to students who cannot attend full-time programs, \" + \"with a variety of diploma, certificate, and master's level courses. The institution uses technology to deliver its programs and caters to working \" + \"professionals who want to enhance their skills and knowledge. \"\n  }, {\n    name: \"Scallop\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/scallopx.png */ \"./src/assets/portfolio/scallopx.png\")\n    }],\n    technologies: [\"React\", \"Java Spring Boot\", \"Postgres\", \"AWS\", \"Blockchain\", \"DeFi\", \"JIRA\"],\n    link: \"https://scallopx.com\",\n    description: \"Scallop and E Money Network together represent our vision for the future of finance. By combining a user-friendly banking and crypto app with a \" + \"MiCA-compliant modular Layer 1 blockchain, we bridge the gap between traditional systems and the world of digital assets. This is where BankFi meets PayFi.\"\n  }, {\n    name: \"ArealYou.ai\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/arealyou.png */ \"./src/assets/portfolio/arealyou.png\")\n    }],\n    technologies: [\"React\", \"Python (Django)\", \"OpenCV\", \"Mysql\", \"AWS\", \"JIRA\"],\n    link: \"https://arealyou.ai\",\n    description: \"Arealyou.ai is an AI-driven personal care startup that analyzes skin and hair via video scanning to deliver personalized insights. \" + \"It identifies hair type, color, length, age, scalp health, and premature greying percentage for customized care recommendations.\"\n  }, {\n    name: \"SCAN Health Plan\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/scanhealth.png */ \"./src/assets/portfolio/scanhealth.png\")\n    }],\n    technologies: [\"React\", \"Python\", \".Net Core\", \"Azure Functions\", \"Azure DevOps\", \"OCR / ICR\"],\n    link: \"https://www.scanhealthplan.com/\",\n    description: \"SCAN Health Plan is a nonprofit Medicare Advantage provider focused on delivering senior-centered healthcare services. It offers plans with $0 primary care, \" + \"prescription drug coverage, dental/vision, telehealth, chronic care support, and specialized plans for diverse older adult communities—empowering seniors to \" + \"stay healthy and independent.\"\n  }, {\n    name: \"MHCET\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/mhcet.png */ \"./src/assets/portfolio/mhcet.png\")\n    }],\n    technologies: [\"React\", \"Java\", \"Mysql\", \"On-prem Data Center\"],\n    link: \"https://cetcell.mahacet.org/\",\n    description: \"The Government of Maharashtra has established State Common Entrance Test Cell as per Section 10 of the Maharashtra Unaided Private Professional \" + \"Educational Institutions (Regulation of Admissions and Fees) Act, 2015. The CET Cell conducts various entrance exams for Admission to Professional \" + \"courses in the state of Maharashtra, India. <br /> <br /> Its primary purpose is to facilitate the admission process for Professional courses such as \" + \"Engineering, Management, Pharmacy, Agriculture, law, Medical, AYUSH & Fine Arts .\"\n  }, {\n    name: \"DMF - Career Counselling (Pathadarshi)\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/dmf.png */ \"./src/assets/portfolio/dmf.png\")\n    }],\n    technologies: [\"Angular\", \"Java\", \"Mysql\", \"On-prem Data Center\"],\n    link: \"https://pathadarshi.dmfkeonjhar.in/\",\n    description: \"Career counselling and life skills education are indispensable \" + \"components in the educational framework, crucial for fostering comprehensive development. In a nation like India, characterized by a plethora of \" + \"career options and a dynamically changing job market, the imperative for career counselling has escalated to guide students in making judicious \" + \"decisions based on their unique strengths. Concurrently, life skills education, an integral facet of the National Education Policy's (NEP) \" + \"emphasis on holistic development, seeks to endow students with vital skills such as critical thinking and proficient communication, preparing them for \" + \"both personal and professional triumphs. The NEP's acknowledgment of the significance of vocational education and life skills aligns seamlessly with the \" + \"imperative to alleviate academic stress, enhance adaptability to technological advancements, and encourage entrepreneurship. Collectively, the roles of \" + \"career counselling and life skills education aim to contribute significantly to crafting a wellrounded educational milieu that not only caters to academic \" + \"pursuits but also nurtures the diverse talents and aspirations of the district's youth. The project aims to implement a transformative initiative, \" + \"the Career Counselling and Life Skills Program, set to benefit a substantial student community in the district of Kendujhar, Odisha.\"\n  }, {\n    name: \"Swachh Bharat Mission - DDM, ELoader, Tricycle\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/sbm.png */ \"./src/assets/portfolio/sbm.png\")\n    }],\n    technologies: [\"React\", \"Java\", \"Mysql\", \"On-prem Data Center\"],\n    link: \"https://swachhbharatmission.ddws.gov.in/\",\n    description: \"A digital initiative under the Swachh Bharat Mission to streamline urban waste collection and management. <br />\" + \"<li>DDM (Dustbin Distribution Management): <br/>\" + \"Digitized the end-to-end process of dustbin allocation and tracking across municipal zones to ensure efficient waste resource distribution.</li>\" + \"<li>ELoader: <br />\" + \"Developed a procurement and tracking system for garbage collector vehicles (e-loaders) to optimize fleet operations and real-time monitoring.</li>\" + \"<li>Tricycle (E-Rickshaw Module): <br />\" + \"Enabled digital tracking and scheduling of tricycle-based waste collection, improving collection efficiency and accountability at ward level.</li>\"\n  }, {\n    name: \"StudentKare\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/studentkare.png */ \"./src/assets/portfolio/studentkare.png\")\n    }],\n    technologies: [\"VueJS\", \"NodeJS\", \"Postgres\", \"On-prem Data Center\"],\n    link: \"https://www.studentkare.com/\",\n    description: \"StudentKare is a dedicated e-marketplace for school essentials: uniforms, books, stationery, and more.<br />\" + \"With 14+ years of experience serving schools, students, and parents, we offer a trusted platform for effortless online ordering, quality products, and reliable delivery.\"\n  }, {\n    name: \"ARA (Admission Regulatory Authority)\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/ara.png */ \"./src/assets/portfolio/ara.png\")\n    }],\n    technologies: [\"React\", \"Java\", \"Mysql\", \"On-prem Data Center\"],\n    link: \"https://maha-ara.org/\",\n    description: \"The Admission Regulatory Authority (ARA) project is a centralized system designed to simplify and improve the college admissions process across a \" + \"variety of educational sectors, including technical, medical, higher education, agriculture, and fine arts. Its goal is to ensure that admissions are \" + \"transparent, well-regulated, and easily manageable for all involved.\"\n  }, {\n    name: \"Digital MSME & IKC - NSIC\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/nsic.png */ \"./src/assets/portfolio/nsic.png\")\n    }],\n    technologies: [\"React\", \"Java\", \"Postgres\", \"On-prem Data Center\"],\n    link: \"https://www.nsic.co.in/\",\n    description: \"Digital MSME Portal & ERP Suite:<br />\" + \"A government-backed digital ecosystem enabling MSMEs to adopt ERP, website, and mobile solutions for business automation. \" + \"The platform supports multilingual access, GST compliance, and cloud-based ERP modules (Sales, HR, Finance, CRM). \" + \"It empowers enterprises to streamline operations, enhance productivity, and transition smoothly into digital workflows.\"\n  }, {\n    name: \"Skill Development Center - MIDC\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/sdc.png */ \"./src/assets/portfolio/sdc.png\")\n    }],\n    technologies: [\"React\", \"Java\", \"Postgres\", \"On-prem Data Center\", \"SDC - Civil\", \"Hardware\", \"Command Center\"],\n    link: \"\",\n    description: \"The establishment of a Skill Development Centre (SDC) is envisioned as a proactive measure to address the critical need for skilled professionals \" + \"across Food Industry to offer skilling programs leading to certification, placement , capacity building and entrepreneurship focusing on the Food Processing Industry.\"\n  }, {\n    name: \"Telemedicine Services - NHM, MP Govt.\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/telemedicine.png */ \"./src/assets/portfolio/telemedicine.png\")\n    }],\n    technologies: [\"React\", \"Flutter\", \"Java\", \"MongoDB\", \"On-prem Data Center\", \"Hardware Kiosk\", \"IoT Kits\"],\n    link: \"\",\n    description: \"This project establishes a statewide telemedicine network under the Hub-and-Spoke model, connecting 6 medical colleges (hubs) with \" + \"1,206 Primary Health Centers (spokes) across Madhya Pradesh. It enables real-time video consultations between specialists and rural doctors, \" + \"covering general medicine, gynecology, pediatrics, and cardiology. The system integrates a cloud-based telemedicine platform, digital health records, \" + \"and e-prescriptions to deliver quality healthcare remotely, reduce patient travel, and ensure efficient specialist access through centralized monitoring and management\"\n  }, {\n    name: \"HMIS - MP Govt.\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/hmis.png */ \"./src/assets/portfolio/hmis.png\")\n    }],\n    technologies: [\"React\", \"Java\", \"Mysql\", \"On-prem Data Center\", \"Command Center\"],\n    link: \"\",\n    description: \"This project aims to develop and implement a statewide Hospital Management Information System (HMIS) integrated with the Ayushman Bharat Digital Mission (ABDM). \" + \"It includes modules like registration, billing, OPD/IPD, pharmacy, lab, radiology, asset, and inventory management, along with EHR, citizen portal, \" + \"and mobile apps for patients and staff. The solution establishes a Command & Control Center, integrates IoT medical devices, and ensures interoperability with \" + \"national health standards (FHIR, HL7, DICOM). The system strengthens data-driven governance, real-time performance monitoring, and efficient healthcare delivery \" + \"across all public health facilities in Madhya Pradesh\"\n  }, {\n    name: \"Disaster & Rescue Management - Uttrakhand Govt.\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/drm.png */ \"./src/assets/portfolio/drm.png\")\n    }],\n    technologies: [\"React\", \"Java\", \"Mysql\", \"On-prem Data Center\", \"Command Center\", \"Drones\", \"Hub & Spoke\", \"AI/ML\", \"GIS\", \"LiDAR\"],\n    link: \"\",\n    description: \"A smart disaster response system leveraging drone technology for real-time monitoring, assessment, and rescue during landslides and cloudbursts in Uttarakhand. \" + \"The solution integrates AI-driven analytics, GIS mapping, and a Command & Control Center for live coordination and damage reporting. Drones equipped with thermal and \" + \"LiDAR sensors provide aerial surveillance, victim detection, and infrastructure assessment, enabling faster decisions, improved rescue accuracy, and reduced response time.\"\n  }, {\n    name: \"Digitization for Grassroot Governance\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/grassroot.png */ \"./src/assets/portfolio/grassroot.png\")\n    }],\n    technologies: [\"React\", \"Java\", \"Mysql\", \"On-prem Data Center\", \"Command Center\", \"Hub & Spoke\", \"VSAT\"],\n    link: \"\",\n    description: \"This project focuses on bridging the digital divide across Gram Panchayats in Maharashtra by enabling reliable internet connectivity through VSAT, 4G, and \" + \"broadband solutions. It aims to empower local governance with access to e-services, agriculture, banking, insurance, and education portals, improving transparency \" + \"and citizen engagement. The initiative ensures real-time communication between state headquarters and village administrations, promoting inclusive digital growth and \" + \"rural empowerment at the grassroots level.\"\n  }, {\n    name: \"EduSpark\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/eduspark.png */ \"./src/assets/portfolio/eduspark.png\")\n    }],\n    technologies: [\"React\", \"Flutter\", \"Java\", \"Mysql\", \"GCP\", \"LMS\"],\n    link: \"https://eduspark.world/\",\n    description: \"EduSpark is a professional online learning platform designed by educators to empower school leaders and teachers with high-impact, evidence-based courses. \" + \"The platform offers interactive lessons, real-time progress analytics, and a portfolio system to showcase professional development. <br />\" + \"With subscription tiers and pay-per-course options, EduSpark fits the needs of individual educators and full school teams alike. <br />\" + \"Its mission is to shift professional learning from content consumption to actionable classroom impact, fostering learning networks and measurable growth.\"\n  }, {\n    name: \"RNS.ID\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/rns.png */ \"./src/assets/portfolio/rns.png\")\n    }],\n    technologies: [\"VueJS\", \"Smart Contract (Solana)\", \"Blockchain\", \"NodeJS\", \"MongoDB\", \"AWS\", \"MetaMask\", \"Jenkins\", \"Docker & Kubernetes\"],\n    link: \"https://rns.id/\",\n    description: \"RNS.ID is a blockchain-native digital identity platform backed by the sovereign nation of the Republic of Palau, offering a physical government-issued ID along with an on-chain Legal Decentralised Identity (LDID) token. \" + \"The platform enables cross-border digital residency—letting applicants from 80+ countries gain KYC-ready identity credentials without relocating. \" + \"RNS.ID leverages zero-knowledge proofs and multi-chain compatibility (currently Ethereum and planning Solana) to maintain user privacy while enabling trusted verifications. \" + \"Ideal for freelancers, digital nomads and Web3 users, it offers global access to virtual government services, reduced tax jurisdiction, and a next-gen identity model for the metaverse era.\"\n  }, {\n    name: \"SimplifyPI\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/simplifypi.png */ \"./src/assets/portfolio/simplifypi.png\")\n    }],\n    technologies: [\"Angular\", \"Java\", \"Mysql\", \"AWS\", \"Lombok\", \"JUnit\", \"OpenCV\"],\n    link: \"https://simplifypi.com/\",\n    description: \"SimplifyPI is your leading solution for Personal Injury Case Management. \" + \"Our Case Management Software is designed to empower attorneys and providers by reducing time spent on administrative tasks and increasing transparency for lienholders.\"\n  }, {\n    name: \"BigShip\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/bigship.png */ \"./src/assets/portfolio/bigship.png\")\n    }],\n    technologies: [\"Angular\", \".Net Core\", \"PHP\", \"Flutter\", \"SQL\", \"On-Prem Server\", \"Redis\", \"Kafka\", \"Jenkins\", \"Docker & Kubernetes\"],\n    link: \"https://bigship.in/\",\n    description: \"Bigship is India’s first business hub that offers you solutions for all your eCommerce business needs. This is a robust platform for \" + \"a best-in-class shipping experience for all the social sellers, marketplace sellers, shop owners and high-volume eCommerces. Focus on growing \" + \"your business while we help you keep your costs and tasks in line. Keep connected and make us a part of your success story.\"\n  }, {\n    name: \"Vitality Living College\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/vlc.png */ \"./src/assets/portfolio/vlc.png\")\n    }],\n    technologies: [\"CRM\", \"LMS\", \"Emotional Freedom Technique (EFT)\", \"Energy Flow Program\", \"Lead Generation\", \"Content Development\"],\n    link: \"https://vitalitylivingcollege.info/\",\n    description: \"Vitality Living College® is a global learning organisation with satellites worldwide, conducting seminars in stress relief, emotional well-being, \" + \"communication, confidence and spiritual realisation along with creating practitioners, coaches and trainers of EFT, NLP, Hypnosis, Timeline, Journey work, \" + \"Inner Child, Past Life Regression and Breakthrough Coaching. It is the only global college of its kind dedicated to leadership and personal development, \" + \"emotional well-being and spiritual growth.\"\n  }, {\n    name: \"BE-AgSmart – eKrishi AI-driven Digital Agriculture Platform, Bharat Electronics Limited\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/ekrishi.png */ \"./src/assets/portfolio/ekrishi.png\")\n    }],\n    technologies: [\"React\", \"Java\", \"Flutter\", \"VirtualBox\", \"MongoDB\"],\n    link: \"\",\n    description: \"A web- and mobile-based AI-driven digital agriculture platform developed for Bharat Electronics Limited (BEL) called BE-AgSmart – eKrishi. \" + \"It automates Farmer Producer Organization (FPO) operations and empowers farmers with smart tools such as IoT sensors, weather data, \" + \"and GIS services to enhance productivity, streamline farm management, and drive sustainable agriculture.\"\n  }, {\n    name: \"AyurVidya - All India Institute of Ayurveda\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/ayurvidya.png */ \"./src/assets/portfolio/ayurvidya.png\")\n    }],\n    technologies: [\"React\", \"PHP\", \"SQL\", \"AWS\"],\n    link: \"https://ayurvidya.aiia.gov.in/\",\n    description: \"The Ayurvidya is an e-learning project, aims to create a digital platform that hosts a wide range of service-oriented online courses \" + \"through our state-of-the-art Learning Management System (LMS). The technical content for these courses is meticulously curated and encompasses \" + \"a diverse range of learning materials.\"\n  }, {\n    name: \"Forest Department of Himachal Pradesh\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/forest.png */ \"./src/assets/portfolio/forest.png\")\n    }],\n    technologies: [\"React\", \"Java\", \"Flutter\", \"Mysql\", \"AWS\"],\n    link: \"https://hpforest.gov.in/\",\n    description: \"This project aims to digitize and location tag all forest nurseries in the state with Custom Web & Mobile Application. \" + \"This streamlined record-keeping and reporting, enhancing data accuracy and accessibility. Our efforts have significantly improved operational efficiency.\"\n  }, {\n    name: \"Thread Research\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/thread.png */ \"./src/assets/portfolio/thread.png\")\n    }],\n    technologies: [\"React\", \"Java\", \"Flutter\", \"Mysql\", \"AWS\", \"ERP\"],\n    link: \"https://www.threadresearch.com/\",\n    description: \"THREAD Research offers a fully configurable, no-code platform and professional services to support decentralized, hybrid and site-based clinical trials, \" + \"including eCOA, telehealth virtual visits and multi-channel patient engagement.\"\n  }, {\n    name: \"WORKPLACE21\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/wp21.png */ \"./src/assets/portfolio/wp21.png\")\n    }],\n    technologies: [\"React\", \"Java\", \"Mysql\", \"AWS\", \"JIRA\", \"Confluence\"],\n    link: \"https://heyvicky.com/\",\n    description: \"WP21 is instrumental in helping organizations and professionals unleash high performance and grow faster by helping professionals and \" + \"teams learn and develop conveniently, quickly, and effectively.\"\n  }, {\n    name: \"Imagine Cup (Microsoft)\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/imaginecup.png */ \"./src/assets/portfolio/imaginecup.png\")\n    }],\n    technologies: [\".Net\", \"SQL\", \"AWS\"],\n    link: \"https://imaginecup.microsoft.com/\",\n    description: \"Project to improve their image among students by engaging them in a global technology competition. Support millions of registered users, \" + \"Handle millions of page hits per day, Support 32+ different roles, Run 15+ competitions simultaneously, Include all functionality needed to run the competitions online\"\n  }]\n};\n/* harmony default export */ __webpack_exports__[\"default\"] = (info);\n\n//# sourceURL=webpack:///./info.js?");
+eval("__webpack_require__.r(__webpack_exports__);\nlet info = {\n  name: \"Gaurav Jain\",\n  logo_name: \"GJ\",\n  flat_picture: __webpack_require__(/*! ./src/assets/potrait.png */ \"./src/assets/potrait.png\"),\n  config: {\n    use_cookies: true,\n    navbar: {\n      blur: false\n    }\n  },\n  description: \"💼10+ years in the game and still making tech chaos look classy. <br />\" + \"🚀I don’t just manage projects — I make them behave. <br />\" + \"💡Across every flavor of tech, I’ve streamlined it, scaled it, and shipped it. <br />\" + \"⏰Deadlines respect me. 💰Budgets stay in line. ✅Results? Always delivered.\",\n  links: {\n    linkedin: \"https://www.linkedin.com/in/extretessestric/\",\n    gmail: \"mailto:jigerjain4.gj@gmail.com\",\n    resume: \"https://drive.google.com/file/d/1e_ZawaNQ6FmOxEHcxYQZVRqwMj-aeL7C/view?usp=sharing\"\n  },\n  education: [{\n    name: \"Jai Hind College\",\n    place: \"Mumbai, Maharashtra, India\",\n    date: \"2016 - 2019\",\n    degree: \"Bachelor of Science in Information Technology (B.Sc. I.T.\",\n    score: \"9.57/10\",\n    description: \"\",\n    skills: [\"Artificial Intelligence\", \"Networking\", \"Software Engineering\", \"Algorithms\", \"Computer Vision\", \"IoT\", \"OS\"]\n  }, {\n    name: \"Shankar Narayan College\",\n    place: \"Mumbai, Maharashtra, India\",\n    date: \"2014 - 2016\",\n    degree: \"HSC\",\n    score: \"76%\",\n    description: \"\",\n    skills: [\"Commerce\"]\n  }, {\n    name: \"Om Swami Vivekanand High School\",\n    place: \"Mumbai, Maharashtra, India\",\n    date: \"2014\",\n    degree: \"SSC\",\n    score: \"72%\",\n    description: \"\",\n    skills: [\"Schooling\"]\n  }],\n  experience: [{\n    name: \"Technoark Solutions\",\n    place: \"Mumbai, Maharashtra, India\",\n    date: \"Jan, 2019 - Present\",\n    position: \"CTO cum Sr. Technical Project / Product / Program Manager\",\n    description: \"Started in the code, ended in the C-suite. Built, planned, shipped, led — one decade, every role, same result: execution done right.\",\n    skills: [\"MERN\", \"MEAN\", \"VueJs\", \"HTML/CSS/JS\", \"Java\", \"Python\", \".Net\", \"Go\", \"React Native\", \"Flutter\", \"AWS\", \"Azure\", \"GCP\", \"Oracle\", \"SQL\", \"MySQL\", \"PostgreSQL\", \"SQLite\", \"Firebase\", \"Docker\", \"Kubernetes\", \"Jenkins\"]\n  }],\n  skills: [{\n    title: \"Leadership & Management\",\n    info: [\"Effective communication\", \"Business Process Analysis and Optimization\", \"Data Migration and Integration\", \"SAP Customization and Configuration\", \"End-User Training and Documentation\", \"Ownership skill\", \"Team leadership\", \"Stakeholder management\", \"Complex decision making\", \"Problem solving and Troubleshooting\", \"E-governance & Security Compliances\", \"Liquidity, Risk & Compliance\"],\n    icon: \"fas fa-group\"\n  }, {\n    title: \"Project / Product / Program Management\",\n    info: [\"Microsoft Projects\", \"SAP Activate Methodology\", \"Aha!\", \"Agile\", \"Scrum\", \"Waterfall\", \"Kanban\", \"Treasury Project Delivery\", \"JIRA\", \"Trello\", \"Basecamp\", \"Asana\", \"ClickUp\", \"Notion\", \"Taskade\", \"Confluence\", \"Monday.com\", \"Miro\", \"Radar\"],\n    icon: \"fas fa-user-circle\"\n  }, {\n    title: \"Technical Skills (Web/Mobile/Cloud) \",\n    info: [\"Angular\", \"ReactJS\", \"React Native\", \"GoLang\", \"Rust\", \"Bash Scripting\", \"Powershell\", \"Blockchain\", \"Web3\", \"VueJS\", \"PHP (Laravel)\", \"JS/HTML5/CSS3\", \"JSP\", \"JSON/XML\", \"Python (Django / Flask / FastAPI)\", \"NodeJS (NestJS / Express)\", \"Java (Spring Boot / MVC)\", \"Kotlin\", \"Cordova\", \"Flutter (Dart)\", \".Net (C# / Core)\", \"AWS\", \"Azure\", \"Jenkins\", \"R\", \"Google Cloud Platform\", \"SQL\", \"MySQL\", \"PostgreSQL\", \"SQLite\", \"MongoDB\", \"Oracle\", \"AI/ML\", \"IoT\"],\n    icon: \"fas fa-laptop-code\"\n  }, {\n    title: \"Tools\",\n    info: [\"WordPress\", \"Shopify\", \"Magento\", \"Drupal\", \"Salesforce\", \"HubSpot\", \"Zoho CRM\", \"Microsoft Dynamic 360 CRM\", \"AEM\", \"Microsoft Office Suite\", \"SharePoint\", \"Adobe Suite\", \"Figma\", \"Visio\", \"Miro\", \"Balsamiq\", \"Draw.io\", \"Microsoft Office\", \"Advanced Excel\", \"Mettle\", \"Slack\", \"Microsoft Teams\", \"Skype\", \"Zoom API Integration\", \"UIDAI Aadhaar Integration\", \"Linux\", \"Unix\", \"Stripe\", \"PayU\", \"Razorpay\", \"Braintree\", \"PayPal\", \"Alipay\", \"Paytm\", \"R\", \"Google Analytics\", \"Mixpanel\", \"Amplitude\", \"Power BI\", \"Tableau\", \"Apache Tomcat\", \"Redis\", \"Solr\", \"Firebase\", \"Elastic Search\", \"Kafka\", \"Spark\", \"Camel\", \"Cassandra\"],\n    icon: \"fa fa-tools\"\n  }],\n  industries: [{\n    title: \"IT & Operations\",\n    icon: \"fas fa-gears\",\n    domains: [\"IT Service & Product Management\", \"Digital / Website Business Analysis\", \"Web Accessibility\", \"ERP Embedded Systems (IoT)\", \"Supply Chain Management\", \"Inventory Management\"]\n  }, {\n    title: \"E-Commerce & Business Models\",\n    icon: \"fas fa-shopping-cart\",\n    domains: [\"E-Commerce Platform\", \"Inventory Management\", \"Sales / E-Commerce Business Models\", \"B2B (Business-to-Business)\", \"B2C (Business-to-Consumer)\", \"C2B (Consumer-to-Business)\", \"C2C (Consumer-to-Consumer)\", \"D2C (Direct-to-Consumer)\", \"B2G (Business-to-Government)\", \"G2C (Government-to-Consumer)\", \"B2B2C (Business-to-Business-to-Consumer)\", \"Product-as-a-Service (PaaS)\", \"Software-as-a-Service (SaaS)\", \"Infrastructure-as-a-Service (IaaS)\", \"Retailer / Manufacturing\", \"Subscription\", \"Affiliate\", \"Freelance\"]\n  }, {\n    title: \"Enterprise Systems & Management\",\n    icon: \"fas fa-sitemap\",\n    domains: [\"ERP (Enterprise Resource Planning)\", \"CRM (Customer Relationship Management)\", \"CMS (Content Management System)\", \"LMS (Learning Management System)\", \"HRM (Human Resource Management)\", \"SAP (Manufacturing)\", \"SAP (Retail)\", \"SAP (Telecommunication)\", \"SAP (Consumer Goods)\", \"SAP (Pharmaceuticals)\", \"SAP (Utilities)\", \"SAP (Public Sector)\"]\n  }, {\n    title: \"Specialized Industry Verticals\",\n    icon: \"fas fa-industry\",\n    domains: [\"Healthcare (HealthTech / Pharmaceutical)\", \"Healthcare (Medical [Insurance / Device])\", \"FMCG (Fast-Moving Consumer Goods)\", \"Interior Design\", \"LegalTech\", \"EdTech\", \"RegTech / InsurTech\", \"FinTech (BaaS / BFSI / DeFi)\", \"AdTech\", \"RealTech / PropTech\", \"AgriTech\", \"AtmosTech\"]\n  }, {\n    title: \"Public & Non-Commercial Sectors\",\n    icon: \"fas fa-landmark\",\n    domains: [\"Government Sector\", \"Non-Profit Organizations\"]\n  }],\n  portfolio: [{\n    name: \"CARMA\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/carmaldn.png */ \"./src/assets/portfolio/carmaldn.png\")\n    }],\n    technologies: [\"React\", \"JSP\", \"Java\", \"Postgres\", \"AWS\", \"Trello\"],\n    link: \"https://carmaldn.com\",\n    description: \"CARMA is an Online Vegan Marketplace, bringing UK fashion, beauty and lifestyle brands together onto one platform to make shopping vegan, ethically and sustainably easy.\"\n  }, {\n    name: \"Franchise Direct\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/franchisedirect.png */ \"./src/assets/portfolio/franchisedirect.png\")\n    }],\n    technologies: [\"Java\", \"Brightspot\", \"Postgres\", \"AWS\", \"JIRA\"],\n    link: \"https://www.franchisedirect.com/\",\n    description: \"Franchise Direct's goal is to provide a reliable, authoritative platform where entrepreneurs can connect with franchisors seeking investors. \" + \"In support of this objective, our mission is to be the leading online resource for franchise opportunities and the knowledge center of choice \" + \"for anyone seeking information on the franchise industry.\"\n  }, {\n    name: \"NGA-SCE\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/ngasce.png */ \"./src/assets/portfolio/ngasce.png\")\n    }],\n    technologies: [\"React\", \"Java Spring Boot\", \"Mysql\", \"AWS\", \"Redis\", \"Trello\"],\n    link: \"https://studentzone-ngasce.nmims.edu/\",\n    description: \"NGASCE stands for NMIMS Global Access – School for Continuing Education, a part of Narsee Monjee Institute of Management Studies (NMIMS) \" + \"that offers distance and online programs. It focuses on providing quality management education to students who cannot attend full-time programs, \" + \"with a variety of diploma, certificate, and master's level courses. The institution uses technology to deliver its programs and caters to working \" + \"professionals who want to enhance their skills and knowledge. \"\n  }, {\n    name: \"Curated Medical\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/curatedmedical.png */ \"./src/assets/portfolio/curatedmedical.png\")\n    }],\n    technologies: [\"Shopify\", \"PHP\", \"SQL\", \"Path(PM Tool)\"],\n    link: \"https://curatedmed.com/\",\n    description: \"Curated Medical takes pride in providing top-tier aesthetic treatments for both men and women. \" + \"Our unwavering commitment to excellence, coupled with our founder’s expertise, creates an environment where quality meets luxury. \" + \"In this inspiring space, each client is warmly guided towards a transformative path to feeling beautiful — inside and out.\"\n  }, {\n    name: \"Pillows.com\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/pillows.png */ \"./src/assets/portfolio/pillows.png\")\n    }],\n    technologies: [\"Shopify\", \"PHP\", \"SQL\", \"Path(PM Tool)\"],\n    link: \"https://pillows.com/\",\n    description: \"Pillows.com is specifically focused on bringing luxury bedding into homes around the United States at reasonable prices.<br />\" + \"We only feature products found in luxury hotels and resorts around the world and are constantly adding and updating our inventory \" + \"to best meet the needs of our customers. Craig and Abby each have over 10 years of mail order retail experience and, along with the Pillows.com team, \" + \"are dedicated to giving you the service you deserve! All of our products are kept in a smoke free environment.\"\n  }, {\n    name: \"KUPA INC.\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/kupainc.png */ \"./src/assets/portfolio/kupainc.png\")\n    }],\n    technologies: [\"Shopify\", \"PHP\", \"SQL\", \"Path(PM Tool)\"],\n    link: \"https://kupainc.com/\",\n    description: \"KUPA Inc is the leading manufacturer of Electric Nail Files and Nail Drills in the Nail Industry.\"\n  }, {\n    name: \"The Shed\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/theshed.png */ \"./src/assets/portfolio/theshed.png\")\n    }],\n    technologies: [\"VueJs\", \"Java Spring boot\", \"AWS\", \"MySQL\", \"JIRA\"],\n    link: \"http://www.ished.com/\",\n    description: \"The Shed is the first online consumer goods rental marketplace that provides one-click rental and delivery across categories ranging from tools \" + \"to recreation to carpet cleaners. The Shed has built a platform with a new commerce model that enables manufacturers, retailers, entrepreneurs and \" + \"existing rental businesses to actively participate in the sharing economy and capture more revenue than just wholesale. We are changing \" + \"the rental industry experience for consumers and businesses for good!\"\n  }, {\n    name: \"LeXi AI\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/lexiai.png */ \"./src/assets/portfolio/lexiai.png\")\n    }],\n    technologies: [\"ReactJS\", \"Python + FastAPI\", \"OpenAI\", \"LLM\", \"NLP\", \"MongoDB\"],\n    link: \"https://www.lexiai.legal/\",\n    description: \"LeXi AI is a legal intelligence platform that combines AI-powered tools for both contract lifecycle management (CLM) and litigation preparation. \" + \"It includes two modules: LeXi Desk (for contracts) and LeXi LiTT (for litigation).\"\n  }, {\n    name: \"GoDecor\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/godecor.png */ \"./src/assets/portfolio/godecor.png\")\n    }],\n    technologies: [\"ReactJS\", \"Shopify\", \"PHP\", \"PostgreSQL\", \"JIRA\"],\n    link: \"https://godecor.app/\",\n    description: \"GoDecor is a design-forward company dedicated to transforming spaces and elevating lifestyles through innovative interior and exterior design solutions. \" + \"We blend aesthetics with functionality to create personalized environments that reflect our client’s unique tastes and preferences. \" + \"Whether you’re looking for smart space optimization, eco-friendly designs, or the latest trends, GoDecor offers tailored solutions to turn your vision into reality.\"\n  }, {\n    name: \"Hunnit\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/hunnit.png */ \"./src/assets/portfolio/hunnit.png\")\n    }],\n    technologies: [\"WooCommerce\", \"PHP\", \"MySQL\", \"JIRA\"],\n    link: \"https://hunnit.com/\",\n    description: \"Hunnit is an Indian fashion & apparel brand focused on sustainable activewear and lifestyle clothing. The name comes from “100%”—symbolizing quality and \" + \"commitment to comfort, style, and performance in everyday and activewear pieces. Their products are designed to merge fashion with comfort and \" + \"are sold primarily through their online store.\"\n  }, {\n    name: \"Walkent\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/walkent.png */ \"./src/assets/portfolio/walkent.png\")\n    }],\n    technologies: [\"Shopify\", \"PHP\", \"PostgreSQL\", \"Google Analytics\", \"JIRA\"],\n    link: \"https://www.walkent.com/\",\n    description: \"Walkent is an Indian direct-to-consumer (D2C) brand specializing in bags and accessories. Their product range includes backpacks, laptop bags, sling bags, \" + \"travel bags, and everyday carry gear designed for both style and functionality.\"\n  }, {\n    name: \"Eterna Health\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/eterna.png */ \"./src/assets/portfolio/eterna.png\")\n    }],\n    technologies: [\"Shopify\", \"PHP\", \"PostgreSQL\", \"Asana\"],\n    link: \"https://tryeterna.com/\",\n    description: \"Intelligent products that support the aging process head-on.\"\n  }, {\n    name: \"Moraze Cosmetics\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/moraze.png */ \"./src/assets/portfolio/moraze.png\")\n    }],\n    technologies: [\"Shopify\", \"PHP\", \"MySQL\", \"Meta Pixels\", \"Asana\"],\n    link: \"https://morazecosmetics.com/\",\n    description: \"Moraze Cosmetics is an Indian beauty and makeup brand that focuses on color cosmetics and skincare products with an emphasis on nourishing, skin-friendly formulas. \" + \"The brand’s product range includes items like lipsticks, matte liquid lipsticks, nail polish, eyeliners, makeup kits, and \" + \"other beauty essentials designed to be long-lasting, vegan, cruelty-free, and suitable for everyday use.\"\n  }, {\n    name: \"Scallop\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/scallopx.png */ \"./src/assets/portfolio/scallopx.png\")\n    }],\n    technologies: [\"React\", \"Java Spring Boot\", \"Postgres\", \"AWS\", \"Blockchain\", \"DeFi\", \"JIRA\"],\n    link: \"https://scallopx.com\",\n    description: \"Scallop and E Money Network together represent our vision for the future of finance. By combining a user-friendly banking and crypto app with a \" + \"MiCA-compliant modular Layer 1 blockchain, we bridge the gap between traditional systems and the world of digital assets. This is where BankFi meets PayFi.\"\n  }, {\n    name: \"ArealYou.ai\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/arealyou.png */ \"./src/assets/portfolio/arealyou.png\")\n    }],\n    technologies: [\"React\", \"Python (Django)\", \"OpenCV\", \"Mysql\", \"AWS\", \"JIRA\"],\n    link: \"https://arealyou.ai\",\n    description: \"Arealyou.ai is an AI-driven personal care startup that analyzes skin and hair via video scanning to deliver personalized insights. \" + \"It identifies hair type, color, length, age, scalp health, and premature greying percentage for customized care recommendations.\"\n  }, {\n    name: \"SCAN Health Plan\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/scanhealth.png */ \"./src/assets/portfolio/scanhealth.png\")\n    }],\n    technologies: [\"React\", \"Python\", \".Net Core\", \"Azure Functions\", \"Azure DevOps\", \"OCR / ICR\"],\n    link: \"https://www.scanhealthplan.com/\",\n    description: \"SCAN Health Plan is a nonprofit Medicare Advantage provider focused on delivering senior-centered healthcare services. It offers plans with $0 primary care, \" + \"prescription drug coverage, dental/vision, telehealth, chronic care support, and specialized plans for diverse older adult communities—empowering seniors to \" + \"stay healthy and independent.\"\n  }, {\n    name: \"MHCET\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/mhcet.png */ \"./src/assets/portfolio/mhcet.png\")\n    }],\n    technologies: [\"React\", \"Java\", \"Mysql\", \"On-prem Data Center\"],\n    link: \"https://cetcell.mahacet.org/\",\n    description: \"The Government of Maharashtra has established State Common Entrance Test Cell as per Section 10 of the Maharashtra Unaided Private Professional \" + \"Educational Institutions (Regulation of Admissions and Fees) Act, 2015. The CET Cell conducts various entrance exams for Admission to Professional \" + \"courses in the state of Maharashtra, India. <br /> <br /> Its primary purpose is to facilitate the admission process for Professional courses such as \" + \"Engineering, Management, Pharmacy, Agriculture, law, Medical, AYUSH & Fine Arts .\"\n  }, {\n    name: \"DMF - Career Counselling (Pathadarshi)\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/dmf.png */ \"./src/assets/portfolio/dmf.png\")\n    }],\n    technologies: [\"Angular\", \"Java\", \"Mysql\", \"On-prem Data Center\"],\n    link: \"https://pathadarshi.dmfkeonjhar.in/\",\n    description: \"Career counselling and life skills education are indispensable \" + \"components in the educational framework, crucial for fostering comprehensive development. In a nation like India, characterized by a plethora of \" + \"career options and a dynamically changing job market, the imperative for career counselling has escalated to guide students in making judicious \" + \"decisions based on their unique strengths. Concurrently, life skills education, an integral facet of the National Education Policy's (NEP) \" + \"emphasis on holistic development, seeks to endow students with vital skills such as critical thinking and proficient communication, preparing them for \" + \"both personal and professional triumphs. The NEP's acknowledgment of the significance of vocational education and life skills aligns seamlessly with the \" + \"imperative to alleviate academic stress, enhance adaptability to technological advancements, and encourage entrepreneurship. Collectively, the roles of \" + \"career counselling and life skills education aim to contribute significantly to crafting a wellrounded educational milieu that not only caters to academic \" + \"pursuits but also nurtures the diverse talents and aspirations of the district's youth. The project aims to implement a transformative initiative, \" + \"the Career Counselling and Life Skills Program, set to benefit a substantial student community in the district of Kendujhar, Odisha.\"\n  }, {\n    name: \"Swachh Bharat Mission - DDM, ELoader, Tricycle\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/sbm.png */ \"./src/assets/portfolio/sbm.png\")\n    }],\n    technologies: [\"React\", \"Java\", \"Mysql\", \"On-prem Data Center\"],\n    link: \"https://swachhbharatmission.ddws.gov.in/\",\n    description: \"A digital initiative under the Swachh Bharat Mission to streamline urban waste collection and management. <br />\" + \"<li>DDM (Dustbin Distribution Management): <br/>\" + \"Digitized the end-to-end process of dustbin allocation and tracking across municipal zones to ensure efficient waste resource distribution.</li>\" + \"<li>ELoader: <br />\" + \"Developed a procurement and tracking system for garbage collector vehicles (e-loaders) to optimize fleet operations and real-time monitoring.</li>\" + \"<li>Tricycle (E-Rickshaw Module): <br />\" + \"Enabled digital tracking and scheduling of tricycle-based waste collection, improving collection efficiency and accountability at ward level.</li>\"\n  }, {\n    name: \"StudentKare\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/studentkare.png */ \"./src/assets/portfolio/studentkare.png\")\n    }],\n    technologies: [\"VueJS\", \"NodeJS\", \"Postgres\", \"On-prem Data Center\"],\n    link: \"https://www.studentkare.com/\",\n    description: \"StudentKare is a dedicated e-marketplace for school essentials: uniforms, books, stationery, and more.<br />\" + \"With 14+ years of experience serving schools, students, and parents, we offer a trusted platform for effortless online ordering, quality products, and reliable delivery.\"\n  }, {\n    name: \"ARA (Admission Regulatory Authority)\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/ara.png */ \"./src/assets/portfolio/ara.png\")\n    }],\n    technologies: [\"React\", \"Java\", \"Mysql\", \"On-prem Data Center\"],\n    link: \"https://maha-ara.org/\",\n    description: \"The Admission Regulatory Authority (ARA) project is a centralized system designed to simplify and improve the college admissions process across a \" + \"variety of educational sectors, including technical, medical, higher education, agriculture, and fine arts. Its goal is to ensure that admissions are \" + \"transparent, well-regulated, and easily manageable for all involved.\"\n  }, {\n    name: \"Digital MSME & IKC - NSIC\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/nsic.png */ \"./src/assets/portfolio/nsic.png\")\n    }],\n    technologies: [\"React\", \"Java\", \"Postgres\", \"On-prem Data Center\"],\n    link: \"https://www.nsic.co.in/\",\n    description: \"Digital MSME Portal & ERP Suite:<br />\" + \"A government-backed digital ecosystem enabling MSMEs to adopt ERP, website, and mobile solutions for business automation. \" + \"The platform supports multilingual access, GST compliance, and cloud-based ERP modules (Sales, HR, Finance, CRM). \" + \"It empowers enterprises to streamline operations, enhance productivity, and transition smoothly into digital workflows.\"\n  }, {\n    name: \"Skill Development Center - MIDC\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/sdc.png */ \"./src/assets/portfolio/sdc.png\")\n    }],\n    technologies: [\"React\", \"Java\", \"Postgres\", \"On-prem Data Center\", \"SDC - Civil\", \"Hardware\", \"Command Center\"],\n    link: \"\",\n    description: \"The establishment of a Skill Development Centre (SDC) is envisioned as a proactive measure to address the critical need for skilled professionals \" + \"across Food Industry to offer skilling programs leading to certification, placement , capacity building and entrepreneurship focusing on the Food Processing Industry.\"\n  }, {\n    name: \"Telemedicine Services - NHM, MP Govt.\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/telemedicine.png */ \"./src/assets/portfolio/telemedicine.png\")\n    }],\n    technologies: [\"React\", \"Flutter\", \"Java\", \"MongoDB\", \"On-prem Data Center\", \"Hardware Kiosk\", \"IoT Kits\"],\n    link: \"\",\n    description: \"This project establishes a statewide telemedicine network under the Hub-and-Spoke model, connecting 6 medical colleges (hubs) with \" + \"1,206 Primary Health Centers (spokes) across Madhya Pradesh. It enables real-time video consultations between specialists and rural doctors, \" + \"covering general medicine, gynecology, pediatrics, and cardiology. The system integrates a cloud-based telemedicine platform, digital health records, \" + \"and e-prescriptions to deliver quality healthcare remotely, reduce patient travel, and ensure efficient specialist access through centralized monitoring and management\"\n  }, {\n    name: \"HMIS - MP Govt.\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/hmis.png */ \"./src/assets/portfolio/hmis.png\")\n    }],\n    technologies: [\"React\", \"Java\", \"Mysql\", \"On-prem Data Center\", \"Command Center\"],\n    link: \"\",\n    description: \"This project aims to develop and implement a statewide Hospital Management Information System (HMIS) integrated with the Ayushman Bharat Digital Mission (ABDM). \" + \"It includes modules like registration, billing, OPD/IPD, pharmacy, lab, radiology, asset, and inventory management, along with EHR, citizen portal, \" + \"and mobile apps for patients and staff. The solution establishes a Command & Control Center, integrates IoT medical devices, and ensures interoperability with \" + \"national health standards (FHIR, HL7, DICOM). The system strengthens data-driven governance, real-time performance monitoring, and efficient healthcare delivery \" + \"across all public health facilities in Madhya Pradesh\"\n  }, {\n    name: \"Disaster & Rescue Management - Uttrakhand Govt.\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/drm.png */ \"./src/assets/portfolio/drm.png\")\n    }],\n    technologies: [\"React\", \"Java\", \"Mysql\", \"On-prem Data Center\", \"Command Center\", \"Drones\", \"Hub & Spoke\", \"AI/ML\", \"GIS\", \"LiDAR\"],\n    link: \"\",\n    description: \"A smart disaster response system leveraging drone technology for real-time monitoring, assessment, and rescue during landslides and cloudbursts in Uttarakhand. \" + \"The solution integrates AI-driven analytics, GIS mapping, and a Command & Control Center for live coordination and damage reporting. Drones equipped with thermal and \" + \"LiDAR sensors provide aerial surveillance, victim detection, and infrastructure assessment, enabling faster decisions, improved rescue accuracy, and reduced response time.\"\n  }, {\n    name: \"Digitization for Grassroot Governance\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/grassroot.png */ \"./src/assets/portfolio/grassroot.png\")\n    }],\n    technologies: [\"React\", \"Java\", \"Mysql\", \"On-prem Data Center\", \"Command Center\", \"Hub & Spoke\", \"VSAT\"],\n    link: \"\",\n    description: \"This project focuses on bridging the digital divide across Gram Panchayats in Maharashtra by enabling reliable internet connectivity through VSAT, 4G, and \" + \"broadband solutions. It aims to empower local governance with access to e-services, agriculture, banking, insurance, and education portals, improving transparency \" + \"and citizen engagement. The initiative ensures real-time communication between state headquarters and village administrations, promoting inclusive digital growth and \" + \"rural empowerment at the grassroots level.\"\n  }, {\n    name: \"EduSpark\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/eduspark.png */ \"./src/assets/portfolio/eduspark.png\")\n    }],\n    technologies: [\"React\", \"Flutter\", \"Java\", \"Mysql\", \"GCP\", \"LMS\"],\n    link: \"https://eduspark.world/\",\n    description: \"EduSpark is a professional online learning platform designed by educators to empower school leaders and teachers with high-impact, evidence-based courses. \" + \"The platform offers interactive lessons, real-time progress analytics, and a portfolio system to showcase professional development. <br />\" + \"With subscription tiers and pay-per-course options, EduSpark fits the needs of individual educators and full school teams alike. <br />\" + \"Its mission is to shift professional learning from content consumption to actionable classroom impact, fostering learning networks and measurable growth.\"\n  }, {\n    name: \"RNS.ID\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/rns.png */ \"./src/assets/portfolio/rns.png\")\n    }],\n    technologies: [\"VueJS\", \"Smart Contract (Solana)\", \"Blockchain\", \"NodeJS\", \"MongoDB\", \"AWS\", \"MetaMask\", \"Jenkins\", \"Docker & Kubernetes\"],\n    link: \"https://rns.id/\",\n    description: \"RNS.ID is a blockchain-native digital identity platform backed by the sovereign nation of the Republic of Palau, offering a physical government-issued ID along with an on-chain Legal Decentralised Identity (LDID) token. \" + \"The platform enables cross-border digital residency—letting applicants from 80+ countries gain KYC-ready identity credentials without relocating. \" + \"RNS.ID leverages zero-knowledge proofs and multi-chain compatibility (currently Ethereum and planning Solana) to maintain user privacy while enabling trusted verifications. \" + \"Ideal for freelancers, digital nomads and Web3 users, it offers global access to virtual government services, reduced tax jurisdiction, and a next-gen identity model for the metaverse era.\"\n  }, {\n    name: \"SimplifyPI\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/simplifypi.png */ \"./src/assets/portfolio/simplifypi.png\")\n    }],\n    technologies: [\"Angular\", \"Java\", \"Mysql\", \"AWS\", \"Lombok\", \"JUnit\", \"OpenCV\"],\n    link: \"https://simplifypi.com/\",\n    description: \"SimplifyPI is your leading solution for Personal Injury Case Management. \" + \"Our Case Management Software is designed to empower attorneys and providers by reducing time spent on administrative tasks and increasing transparency for lienholders.\"\n  }, {\n    name: \"BigShip\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/bigship.png */ \"./src/assets/portfolio/bigship.png\")\n    }],\n    technologies: [\"Angular\", \".Net Core\", \"PHP\", \"Flutter\", \"SQL\", \"On-Prem Server\", \"Redis\", \"Kafka\", \"Jenkins\", \"Docker & Kubernetes\"],\n    link: \"https://bigship.in/\",\n    description: \"Bigship is India’s first business hub that offers you solutions for all your eCommerce business needs. This is a robust platform for \" + \"a best-in-class shipping experience for all the social sellers, marketplace sellers, shop owners and high-volume eCommerces. Focus on growing \" + \"your business while we help you keep your costs and tasks in line. Keep connected and make us a part of your success story.\"\n  }, {\n    name: \"Vitality Living College\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/vlc.png */ \"./src/assets/portfolio/vlc.png\")\n    }],\n    technologies: [\"CRM\", \"LMS\", \"Emotional Freedom Technique (EFT)\", \"Energy Flow Program\", \"Lead Generation\", \"Content Development\"],\n    link: \"https://vitalitylivingcollege.info/\",\n    description: \"Vitality Living College® is a global learning organisation with satellites worldwide, conducting seminars in stress relief, emotional well-being, \" + \"communication, confidence and spiritual realisation along with creating practitioners, coaches and trainers of EFT, NLP, Hypnosis, Timeline, Journey work, \" + \"Inner Child, Past Life Regression and Breakthrough Coaching. It is the only global college of its kind dedicated to leadership and personal development, \" + \"emotional well-being and spiritual growth.\"\n  }, {\n    name: \"BE-AgSmart – eKrishi AI-driven Digital Agriculture Platform, Bharat Electronics Limited\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/ekrishi.png */ \"./src/assets/portfolio/ekrishi.png\")\n    }],\n    technologies: [\"React\", \"Java\", \"Flutter\", \"VirtualBox\", \"MongoDB\"],\n    link: \"\",\n    description: \"A web- and mobile-based AI-driven digital agriculture platform developed for Bharat Electronics Limited (BEL) called BE-AgSmart – eKrishi. \" + \"It automates Farmer Producer Organization (FPO) operations and empowers farmers with smart tools such as IoT sensors, weather data, \" + \"and GIS services to enhance productivity, streamline farm management, and drive sustainable agriculture.\"\n  }, {\n    name: \"AyurVidya - All India Institute of Ayurveda\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/ayurvidya.png */ \"./src/assets/portfolio/ayurvidya.png\")\n    }],\n    technologies: [\"React\", \"PHP\", \"SQL\", \"AWS\"],\n    link: \"https://ayurvidya.aiia.gov.in/\",\n    description: \"The Ayurvidya is an e-learning project, aims to create a digital platform that hosts a wide range of service-oriented online courses \" + \"through our state-of-the-art Learning Management System (LMS). The technical content for these courses is meticulously curated and encompasses \" + \"a diverse range of learning materials.\"\n  }, {\n    name: \"Forest Department of Himachal Pradesh\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/forest.png */ \"./src/assets/portfolio/forest.png\")\n    }],\n    technologies: [\"React\", \"Java\", \"Flutter\", \"Mysql\", \"AWS\"],\n    link: \"https://hpforest.gov.in/\",\n    description: \"This project aims to digitize and location tag all forest nurseries in the state with Custom Web & Mobile Application. \" + \"This streamlined record-keeping and reporting, enhancing data accuracy and accessibility. Our efforts have significantly improved operational efficiency.\"\n  }, {\n    name: \"Thread Research\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/thread.png */ \"./src/assets/portfolio/thread.png\")\n    }],\n    technologies: [\"React\", \"Java\", \"Flutter\", \"Mysql\", \"AWS\", \"ERP\"],\n    link: \"https://www.threadresearch.com/\",\n    description: \"THREAD Research offers a fully configurable, no-code platform and professional services to support decentralized, hybrid and site-based clinical trials, \" + \"including eCOA, telehealth virtual visits and multi-channel patient engagement.\"\n  }, {\n    name: \"WORKPLACE21\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/wp21.png */ \"./src/assets/portfolio/wp21.png\")\n    }],\n    technologies: [\"React\", \"Java\", \"Mysql\", \"AWS\", \"JIRA\", \"Confluence\"],\n    link: \"https://heyvicky.com/\",\n    description: \"WP21 is instrumental in helping organizations and professionals unleash high performance and grow faster by helping professionals and \" + \"teams learn and develop conveniently, quickly, and effectively.\"\n  }, {\n    name: \"Imagine Cup (Microsoft)\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/imaginecup.png */ \"./src/assets/portfolio/imaginecup.png\")\n    }],\n    technologies: [\".Net\", \"SQL\", \"AWS\"],\n    link: \"https://imaginecup.microsoft.com/\",\n    description: \"Project to improve their image among students by engaging them in a global technology competition. Support millions of registered users, \" + \"Handle millions of page hits per day, Support 32+ different roles, Run 15+ competitions simultaneously, Include all functionality needed to run the competitions online\"\n  }, {\n    name: \"Adored Vintage\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/adoredvintage.png */ \"./src/assets/portfolio/adoredvintage.png\")\n    }],\n    technologies: [\"Shopify\", \"Preact\", \"Google Analytics\", \"Envoy\", \"PayPal\", \"MasterCard\", \"USPS\"],\n    link: \"https://www.adoredvintage.com/\",\n    description: \"Adored Vintage is a women’s ecommerce apparel brand based in Portland, Oregon, USA. It was founded in 2012 by Rodellee Bas and started as \" + \"an online vintage clothing shop that curates and sells romantic, vintage-inspired clothing and accessories for modern women. \" + \"The brand blends nostalgic silhouettes with contemporary styling and offers items such as dresses, tops, and accessories that evoke timeless, feminine fashion.\"\n  }, {\n    name: \"Jumia Uganda\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/jumia.png */ \"./src/assets/portfolio/jumia.png\")\n    }],\n    technologies: [\"ReactJS\", \"Java\", \"Oracle\", \"Apache\", \"Webtrekk\", \"LiveChat / Zopim\", \"WebEngage\", \"Cedexis\"],\n    link: \"https://www.jumia.ug/\",\n    description: \"Jumia Uganda is the Ugandan branch of Jumia Group, one of Africa’s largest e-commerce marketplaces. It operates an online shopping platform where users can buy \" + \"a wide variety of products — including electronics, fashion, home appliances, beauty items, and more — with options like cash on delivery and digital payments. <br />\" + \"Jumia is often referred to as the “Amazon of Africa,” and serves as a marketplace connecting consumers with sellers, supported by logistics services for delivery and \" + \"digital payment options like JumiaPay to facilitate online transactions.\"\n  }, {\n    name: \"Sorta Club\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/sorta.png */ \"./src/assets/portfolio/sorta.png\")\n    }],\n    technologies: [\"Shopify\", \"PHP\", \"Google Analytics\", \"GCP\", \"MySQL\", \"ClickUp\"],\n    link: \"https://sorta.club/\",\n    description: \"Sorta Club is an Indian fashion and lifestyle brand offering streetwear-inspired apparel and accessories for men and women. The brand describes its style \" + \"as “unisex luxury hustlewear,” creating bold, expressive pieces like t-shirts, hoodies, bomber jackets, cargos, socks, and accessories that appeal to \" + \"<i>creative hustlers and individualistic youth.</i>\"\n  }, {\n    name: \"Simply Herbal\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/simplyherbal.png */ \"./src/assets/portfolio/simplyherbal.png\")\n    }],\n    technologies: [\"WooCommerce\", \"JavaScript\", \"Google Analytics\", \"WordPress Hosted\", \"Razorpay\", \"MySQL\", \"Asana\"],\n    link: \"https://simplyherbal.in/\",\n    description: \"Simply Herbal is an Indian wellness and natural health supplements brand founded in 2016 in Indore, Madhya Pradesh by Yuvraj Soni. \" + \"The company focuses on producing and selling herbal and plant-based health, wellness, skin care, hair care, and nutritional supplement products that aim to harness \" + \"the benefits of natural ingredients such as vitamins, minerals, herbs, and botanical extracts. The brand emphasizes natural, vegan, non-GMO, and chemical-free \" + \"formulations for daily health and beauty needs.\"\n  }, {\n    name: \"Pet's Choice Supply\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/petschoice.png */ \"./src/assets/portfolio/petschoice.png\")\n    }],\n    technologies: [\"Shopify\", \"Liquid\", \"JavaScript\", \"Google Analytics\", \"Shopify Hosted\", \"PayU\", \"PostgreSQL\", \"JIRA\"],\n    link: \"http://petschoicesupply.com/\",\n    description: \"Pet’s Choice Supply is a U.S.-based online pet supplies retailer offering a wide range of products for pet owners and professionals. \" + \"The store’s catalog includes items such as pet doors, grooming equipment, cages, crates, veterinary equipment, training supplies, and \" + \"other accessories catering to dogs, cats, and other animals.\"\n  }, {\n    name: \"Aqualogica\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/aqualogica.png */ \"./src/assets/portfolio/aqualogica.png\")\n    }],\n    technologies: [\"Day.js\", \"Handlebars\", \"Cloudfare\", \"Google Tag Manager\", \"Chatwoot\", \"MySQL\", \"JIRA\"],\n    link: \"https://aqualogica.in/\",\n    description: \"Aqualogica is an Indian skincare and personal-care brand known for hydration-focused, science-driven formulations specifically designed for Indian skin and climate. \" + \"The brand emphasizes lightweight, toxin-free products enriched with natural ingredients (like papaya, coconut water, niacinamide, and hyaluronic acid), and \" + \"its formulations are built around Unique Water Lock Technology™ to deeply hydrate skin. The product range includes face washes, serums, moisturizers, sunscreens, and \" + \"other skincare essentials.\"\n  }, {\n    name: \"Allpha\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/allpha.png */ \"./src/assets/portfolio/allpha.png\")\n    }],\n    technologies: [\"JavaScript\", \"Bootstrap\", \"Custom CMS\", \"NodeJs\", \"AWS\", \"SQL\", \"JIRA\"],\n    link: \"https://allpha.org/\",\n    description: \"Allpha is a health and wellness platform that provides online health consultations and resources for both mental and physical health. \" + \"The service aims to offer 24/7 access to expert healthcare support, including personalized healthcare advice and curated health content. \" + \"The site also features training courses and educational resources related to general health and mental wellbeing.\"\n  }, {\n    name: \"Exotic Gas House\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/exoticgashouse.png */ \"./src/assets/portfolio/exoticgashouse.png\")\n    }],\n    technologies: [\"Custom CMS\", \"PHP\", \"Google Analytics\", \"MySQL\", \"Notion\"],\n    link: \"https://www.exoticgashouse.com/\",\n    description: \"Exotic Gas House is a family-owned online cannabis dispensary based in Los Angeles, California, USA. The store sells a variety of cannabis products such as \" + \"vape cartridges, edibles, CBD products, concentrates, tinctures, flowers, and vaporizers, targeting customers looking to buy premium cannabis products online.\"\n  }, {\n    name: \"Paper ID\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/paperid.png */ \"./src/assets/portfolio/paperid.png\")\n    }],\n    technologies: [\"Angular\", \"GoLang\", \"Apache\", \"Mautic / Ahrefs\", \"Google Cloud\", \"Vertex AI\"],\n    link: \"https://www.paper.id/\",\n    description: \"Paper.id is a Indonesian fintech SaaS (Software-as-a-Service) platform that helps small and medium enterprises (SMEs) digitize invoicing, payments, and \" + \"financial workflows. It enables businesses to create digital invoices, send them via email/WhatsApp/SMS, and collect payments using 30+ payment methods including \" + \"credit cards, bank transfers, e-wallets, QR codes, and marketplace payments. It also offers features like automatic payment reminders, reconciliation, \" + \"accounting reports, stock management, and supplier portals—effectively helping companies manage receivables, payables, and cash flow in one place.\"\n  }, {\n    name: \"Haladoc\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/haladoc.png */ \"./src/assets/portfolio/haladoc.png\")\n    }],\n    technologies: [\"Angular\", \"Java Spring Boot\", \"Apache\", \"Native iOS & Android\", \"Kafka & Airflow\", \"New Relic\", \"NLP\", \"AWS\"],\n    link: \"https://www.halodoc.com/\",\n    description: \"Halodoc is one of Indonesia’s largest digital health tech platforms, offering telemedicine and online healthcare services that connect patients with licensed doctors, \" + \"pharmacies, and lab services. It enables video/voice/text consultations, medicine delivery, lab test booking, and health information all in one place — aiming to \" + \"simplify access to medical care across Indonesia.\"\n  }, {\n    name: \"Green Future Project\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/greenfutureproject.png */ \"./src/assets/portfolio/greenfutureproject.png\")\n    }],\n    technologies: [\"JavaScript\", \"Java Spring Boot\", \"AWS\", \"PostgreSQL\", \"JIRA\"],\n    link: \"https://greenfutureproject.com/\",\n    description: \"Green Future Project (GFP) is an Italian climate-tech and sustainability solutions company that helps businesses on their environmental, social, and governance (ESG) and \" + \"decarbonisation journeys. It provides a cloud-based platform + consultancy to help companies measure, monitor, and reduce their CO₂ emissions, implement sustainability \" + \"strategies, track progress in real time, and communicate environmental impact to stakeholders. GFP also offers solutions such as carbon footprint monitoring, ESG analytics, \" + \"carbon credits & biodiversity tokens, employee engagement, and training services. The company is B Corp certified and works with clients across industries including \" + \"luxury brands, education, and energy sectors.\"\n  }, {\n    name: \"Fairatmos\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/fairatmos.png */ \"./src/assets/portfolio/fairatmos.png\")\n    }],\n    technologies: [\"ReactJS\", \"Python\", \"GCP\", \"Google Earth Engine\", \"BigQuery\", \"Vertex AI\", \"MongoDB\", \"JIRA\"],\n    link: \"https://www.fairatmos.com/\",\n    description: \"Fairatmos is a climate-tech company and carbon project developer based in Jakarta, Indonesia that helps landowners, developers, and corporates discover, develop, and \" + \"deliver high-quality nature-based carbon offset projects at scale. They focus on forest restoration, biodiversity conservation, peatland protection, and other \" + \"carbon solutions across Southeast Asia, with a strong technology and remote-sensing foundation.\"\n  }, {\n    name: \"Solelands\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/solelands.png */ \"./src/assets/portfolio/solelands.png\")\n    }],\n    technologies: [\"Unity\", \"JavaScript\", \"NodeJs\", \"MongoDB\", \"AWS\", \"Google Analytics\", \"Github Actions\", \"JIRA\"],\n    link: \"https://www.solelands.com/\",\n    description: \"Solelands is an immersive game-based learning platform designed for children that combines education with interactive gaming mechanics. The platform lets kids \" + \"explore virtual worlds, solve quests, and develop life skills, creativity, problem-solving ability, virtues, and applied competencies through play-based challenges. \" + \"It’s intended to help children love learning and prepare them with future-ready skills in a safe, engaging environment. The company behind it is Sole Technologies Pte Ltd, \" + \"headquartered in Singapore with operations in Indonesia. Founded around 2022, it has a small team and has received backing from investors including East Ventures.\"\n  }, {\n    name: \"Louise Life\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/louise.png */ \"./src/assets/portfolio/louise.png\")\n    }],\n    technologies: [\"JavaScript\", \"Python\", \"AI/ML\", \"AWS\", \"Google Analytics\", \"Jenkins\", \"JIRA\"],\n    link: \"https://louise.life/\",\n    description: \"Louise Life (operated by Louise Life Inc), is a reproductive intelligence and healthcare platform focused on transforming fertility care and reproductive medicine. \" + \"It aims to connect and streamline reproductive health data, workflows, and clinical decision-making by integrating clinical, operational, and biological data into \" + \"a unified system. The platform supports clinics, healthcare professionals, life sciences/payers, and patients with tools to automate tasks, improve outcomes, and \" + \"drive real-time insights during fertility treatment journeys. It emphasizes creating an adaptive system that learns from multimodal data to enhance precision in \" + \"reproductive care and discovery.\"\n  }, {\n    name: \"Edufarmers\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/edufarmers.png */ \"./src/assets/portfolio/edufarmers.png\")\n    }],\n    technologies: [\"JavaScript\", \"WordPress\", \"PHP\", \"MySQL\", \"AWS\"],\n    link: \"https://www.edufarmers.org/\",\n    description: \"EduFarmers is a community and education platform for farmers, focused on agricultural learning, training, and sustainable farming practices to help farmers \" + \"improve productivity and livelihoods through digital resources and guidance.\"\n  }, {\n    name: \"Happy Skin Cosmetics\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/happyskin.png */ \"./src/assets/portfolio/happyskin.png\")\n    }],\n    technologies: [\"JavaScript\", \"Shopify\", \"PHP\", \"MySQL\", \"AWS\"],\n    link: \"https://happyskincosmetics.com/\",\n    description: \"Happy Skin Cosmetics is a Philippines-based beauty and skincare brand that offers makeup and skincare products formulated for modern lifestyles, \" + \"often with a focus on skin-friendly ingredients and inclusive shade ranges.\"\n  }, {\n    name: \"Buy It Carl\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/buyitcarl.png */ \"./src/assets/portfolio/buyitcarl.png\")\n    }],\n    technologies: [\"JavaScript\", \"Shopify\", \"PHP\", \"MySQL\", \"AWS\"],\n    link: \"https://buyitcarl.com/\",\n    description: \"BuyItCarl appears to be an e-commerce retail site selling various consumer products (electronics, accessories, home goods, etc.) \" + \"online — typically a small direct-to-consumer online store.\"\n  }, {\n    name: \"Xtreeme Tech\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/xtreeme.png */ \"./src/assets/portfolio/xtreeme.png\")\n    }],\n    technologies: [\"JavaScript\", \"Python\", \"AI/ML\", \"MongoDB\", \"AWS\", \"Docker\"],\n    link: \"https://xtreemetech.com/\",\n    description: \"Xtreeme Tech is an AI solutions and software development company specializing in custom AI chatbots, voice caller systems, automation, machine learning solutions, \" + \"and web/app development services to help businesses improve efficiency and growth.\"\n  }, {\n    name: \"Kidoriman\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/kidoriman.png */ \"./src/assets/portfolio/kidoriman.png\")\n    }],\n    technologies: [\"JavaScript\", \"Shopify\", \"Mixpanel\", \"MySQL\", \"AWS\"],\n    link: \"https://kidoriman.com/\",\n    description: \"Kidoriman is a kids footwear brand/store offering a range of children’s shoes and related products online, focusing on comfort, style, and quality for \" + \"kids’ active lifestyles. (Inferred from the site’s product catalog and positioning.)\"\n  }, {\n    name: \"ElevenFlo\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/elevenflo.png */ \"./src/assets/portfolio/elevenflo.png\")\n    }],\n    technologies: [\"ReactJs\", \"Anthropic Claude\", \"Google Gemini\", \"OpenAI\", \"Agent Ochestration\", \"ElasticSearch\", \"AWS\", \"MongoDB\"],\n    link: \"https://elevenflo.com/\",\n    description: \"ElevenFlo is an agentic AI platform for Chapter 11 intelligence, built to help restructuring professionals and companies navigate U.S. \" + \"bankruptcy (Chapter 11) with tools like document analysis, docket search, AI research, and productivity helpers powered by agentic/autonomous AI.\"\n  }, {\n    name: \"Cofetti.ai\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/cofetti.png */ \"./src/assets/portfolio/cofetti.png\")\n    }],\n    technologies: [\"JavaScript\", \"Python\", \"OpenAI\", \"Managed DB\", \"AWS\"],\n    link: \"https://cofetti.ai/\",\n    description: \"Cofetti.ai is an AI-powered web app for creating and sending personalized greeting cards and invitations using natural language prompts — \" + \"letting users describe images and messages and generate tailored cards automatically.\"\n  }, {\n    name: \"Acuitey Solutions\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/acuitey.png */ \"./src/assets/portfolio/acuitey.png\")\n    }],\n    technologies: [\"JavaScript\", \"Wordpress\", \"PHP\", \"MySQL\", \"AWS\", \"Amplitude\"],\n    link: \"https://acuiteysolutions.com/\",\n    description: \"Acuitey Solutions is an EdTech and IT services company offering expert-led online courses, live classes, corporate training, and \" + \"custom software/IT consulting solutions to help businesses and individuals upskill and adopt technology effectively.\"\n  }, {\n    name: \"Waayu\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/waayu.png */ \"./src/assets/portfolio/waayu.png\")\n    }],\n    technologies: [\"React Native\", \"Java Spring Boot\", \"WEbSockets\", \"ONDC\", \"GIS\", \"MongoDB\", \"AWS\", \"Amplitude\"],\n    link: \"https://waayu.app/\",\n    description: \"Waayu is an Indian zero-commission food delivery and restaurant-empowerment platform, \" + \"letting restaurants accept orders without commissions and offering customers affordable delivery via app and now also WhatsApp ordering.\"\n  }, {\n    name: \"Lovers AI\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/loversai.png */ \"./src/assets/portfolio/loversai.png\")\n    }],\n    technologies: [\"JavaScript\", \"OpenAI / Gemini / Midjourney\", \"PHP\", \"MySQL\", \"AWS\", \"Google Analytics\"],\n    link: \"https://www.theloversai.co.in/\",\n    description: \"The Lovers AI (found at theloversai.co.in) appears to be an Indian brand/venture using AI to enhance experiences around love, relationships, weddings, and/or \" + \"intimate shopping, often described as connecting couples with vendors or offering discreet product experiences. Specific public info about the company’s mission \" + \"and exact offerings is limited from the website itself.\"\n  }, {\n    name: \"CPV - Auto\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/cpvauto.png */ \"./src/assets/portfolio/cpvauto.png\")\n    }],\n    technologies: [\"ReactJs\", \"Python\", \"AI/ML\", \"OCR + NLP\", \"MongoDB\", \"AWS\", \"Google Analytics\"],\n    link: \"https://www.cpvauto.com/\",\n    description: \"CPV Auto is a cloud-based Data-as-a-Service platform that uses AI/ML to automate the digitization of paper batch records and unstructured pharma/biopharma data \" + \"into structured, searchable, GxP-compliant digital formats for analysis and quality control.\"\n  }, {\n    name: \"RuutIQ\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/ruutiq.png */ \"./src/assets/portfolio/ruutiq.png\")\n    }],\n    technologies: [\"JavaScript\", \"React Native\", \"NodeJs\", \"MongoDB\", \"AWS\", \"GraphQL\", \"ERP / CRM\", \"AI/ML\"],\n    link: \"https://www.ruutiq.com/\",\n    description: \"RuutIQ is a cloud-based sales force automation and operations platform designed to help distribution-focused businesses (especially in food & beverage) \" + \"streamline orders, deliveries, demand planning, and field operations with real-time tracking, AI-driven forecasting, and ERP integrations.\"\n  }, {\n    name: \"BarrierBreak\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/barrierbreak.png */ \"./src/assets/portfolio/barrierbreak.png\")\n    }],\n    technologies: [\"JavaScript\", \"A11yNow\", \"A11yInspect\", \"AI-Powered Solutions\", \"Web Accessibility\", \"VPAT / ACR\", \"WCAG / ADA / EAA / RPWD\"],\n    link: \"https://www.barrierbreak.com/\",\n    description: \"BarrierBreak is a global digital accessibility leader and based in India that helps organizations make digital products truly accessible and inclusive for people with \" + \"disabilities. It combines AI-powered automation with human expertise to provide end-to-end accessibility services — from automated and manual accessibility testing to \" + \"remediation, compliance reporting (like VPAT/ACR), consulting, and training. BarrierBreak’s solutions support compliance with global standards such as WCAG, ADA, \" + \"Section 508 and EAA, ensuring digital experiences are usable by everyone, regardless of ability. The company serves clients across multiple countries and has been \" + \"recognized as a Representative Vendor in the 2025 Gartner® Market Guide for Digital Accessibility.\"\n  }, {\n    name: \"BwanguBwangu\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/bwangu.png */ \"./src/assets/portfolio/bwangu.png\")\n    }],\n    technologies: [\"Flutter\", \"NextJs\", \"NodeJs\", \"MongoDB\", \"Socket.io\", \"Google Maps API\", \"Stripe / Flutterwave\", \"AWS\", \"Firebase Cloud Messaging\"],\n    link: \"https://www.bwangubwangu.com/\",\n    description: \"BwanguBwangu pickup N delivery is a registered and licensed courier and delivery company. Whose goal is to become the leading courier and delivery services company in \" + \"Zambia, we make sure that every service deliveries we handle competes favorably with the best in the industry in terms of time and safety.\"\n  }, {\n    name: \"BizVidya\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/bizvidya.png */ \"./src/assets/portfolio/bizvidya.png\")\n    }],\n    technologies: [\"NextJs\", \"React Native\", \"NodeJs\", \"PostgreSQL\", \"WebSockets\", \"Python (Analytics)\", \"AWS\", \"Docker\", \"Kubernetes\"],\n    link: \"https://bizvidya.com/\",\n    description: \"BizVidya is an India-based EdTech and consulting platform founded in 2022 that offers industry-driven learning courses, MSME consulting, and \" + \"college collaboration programs to enhance skills and bridge the gap between academia and real-world needs.\"\n  }, {\n    name: \"Groupe Orqual\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/orqual.png */ \"./src/assets/portfolio/orqual.png\")\n    }],\n    technologies: [\"Delphi\", \"Orthalis Connect\", \"AI & Automation\", \"Kitview\", \"Doctolib\", \"3Shape\", \"DentalMonitoring\", \"Spark\", \"Enterprise DB\"],\n    link: \"https://www.orqual.fr/en/\",\n    description: \"Orqual is a French software publisher specializing in orthodontic and dental practice management solutions, providing a suite of tools such as practice management, \" + \"digital imaging, cephalometric analysis, and intelligent photo libraries tailored for dental professionals. The company emphasizes innovation, customizable software, \" + \"and AI-enhanced features to streamline clinic workflows and patient care.\"\n  }, {\n    name: \"GO WFO\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/gowfo.png */ \"./src/assets/portfolio/gowfo.png\")\n    }],\n    technologies: [\"ReactJs\", \"NodeJs\", \"PostgreSQL\", \"WebSockets\", \"Web3 (Blockchain)\", \"Vercel\", \"AWS S3\"],\n    link: \"https://www.gowfo.com/\",\n    description: \"GO WFO is the ultimate playground for extreme sports enthusiasts. We're a community-driven network where fearless creators and influencers come together to fuel \" + \"the passion and excitement of the world's most daring athletes. As the first network built on the Autheo platform, we're revolutionizing the way extreme sports fans \" + \"connect, learn, and get inspired. Our network empowers the next generation of thrill-seekers, providing a platform for creators to share their stories, showcase their \" + \"skills, and push the limits of what's possible.\"\n  }, {\n    name: \"Hindustan Times\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/hindustantimes.png */ \"./src/assets/portfolio/hindustantimes.png\")\n    }],\n    technologies: [\"ReactJs\", \"Java Spring Boot\", \"Google Ads\", \"MoEngage / Outbrain\", \"PostgreSQL\", \"AWS\", \"Docker\", \"ELastic / Solr\", \"Custom CMS\", \"Cloudfare\"],\n    link: \"https://www.hindustantimes.com/\",\n    description: \"Hindustan Times is part of HT Media Ltd, a leading Indian media company whose digital arm (HT Digital Streams) runs English and regional language news platforms such as \" + \"Hindustantimes.com and LiveHindustan.com to reach diverse audiences across India. The language vertical delivers news in English, Hindi and other regional formats, \" + \"driving strong readership and engagement. On the monetization side, the company has recently expanded into affiliate-led shoppable content and commerce, \" + \"integrating affiliate partnerships and product recommendations to diversify beyond traditional advertising revenue. This content-to-commerce approach enables \" + \"performance-based revenue alongside display ads and subscriptions.\"\n  }, {\n    name: \"iGlobal Impluso\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/iglobal.png */ \"./src/assets/portfolio/iglobal.png\")\n    }],\n    technologies: [\"WordPress\", \"JavaScript\", \"PHP\", \"MySQL\", \"AWS\", \"HubSpot\", \"Zoom / Slack\"],\n    link: \"https://www.iglobalimpulso.com/\",\n    description: \"iGlobal Impulso provides managed, professionally trained virtual assistant services that integrate into a client’s workflow to handle admin, CRM, e-commerce, \" + \"and operational tasks so leaders can focus on core strategy. Their assistants act like productivity partners rather than freelancers, serving entrepreneurs, \" + \"startups, SMBs, and enterprise teams with flexible support plans.\"\n  }, {\n    name: \"JV EdTech Medovation\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/jvedtech.png */ \"./src/assets/portfolio/jvedtech.png\")\n    }],\n    technologies: [\"Angular\", \"NodeJs\", \"React Native\", \"MySQL\", \"AWS\", \"Firebase\", \"LMS / CMS\"],\n    link: \"https://jvedtech.com/\",\n    description: \"JV EdTech Medovation is a health-tech and education innovation company based in Mumbai focused on empowering individuals with quality healthcare solutions and \" + \"digital learning services. It offers e-learning development, digital marketing, and medical educational services to improve health outcomes and awareness.\"\n  }, {\n    name: \"KAItchens\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/kaitchens.png */ \"./src/assets/portfolio/kaitchens.png\")\n    }],\n    technologies: [\"NextJs\", \"NodeJs\", \"PostgreSQL\", \"GCP\", \"Docker / nginx\", \"Mixpanel\"],\n    link: \"https://kaitchens.com/\",\n    description: \"kAItchens is a Pune-based startup offering portable cloud kitchens (“Kitchen as a Service”) that help food brands scale operations with reduced capital and \" + \"operational costs. They provide tech-enabled kitchen infrastructure and services to culinary businesses.\"\n  }, {\n    name: \"Central Data Storage\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/centraldata.png */ \"./src/assets/portfolio/centraldata.png\")\n    }],\n    technologies: [\"VueJs\", \"Java\", \"VMWare\", \"PostgreSQL\", \"AWS\", \"Docker\"],\n    link: \"https://centraldatastorage.com/\",\n    description: \"Central Data Storage (CDS) is a U.S.-based managed data backup, disaster recovery, and protection provider focused on securing sensitive business data with \" + \"HIPAA-compliant solutions and private hybrid cloud infrastructure. Founded in 2008, it serves healthcare and other regulated industries with secure, automated \" + \"backups and rapid recovery services.\"\n  }, {\n    name: \"Park N Jet\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/parknjet.png */ \"./src/assets/portfolio/parknjet.png\")\n    }],\n    technologies: [\"Javascript / JQuery\", \"WordPress\", \"PHP\", \"Google Analytics\", \"AWS\", \"Docker / Kubernetes\"],\n    link: \"https://www.parknjetchicago.com/\",\n    description: \"Park N Jet is a family-owned off-site parking service near Chicago O’Hare International Airport (ORD) that provides secure, affordable long-term parking with \" + \"free shuttle transfers to and from the terminals. It has been serving travelers since 1997 and offers services like self-park, valet, and vehicle care (wash/detail).\"\n  }, {\n    name: \"Parenting Connections\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/parenting.png */ \"./src/assets/portfolio/parenting.png\")\n    }],\n    technologies: [\"Shopify\", \"JavaScript\", \"MySQL\", \"AWS\", \"Google Analytics\"],\n    link: \"https://www.parentingconnections.com.au/\",\n    description: \"Parenting Connections Australia (PCA) is a specialist parenting and psychology book and resource store, operating online and from our clinical psychology practice in Sydney. \" + \"Our Vision is to provide resources that support and inspire, and to reinvest in the parenting community through charitable donations.\"\n  }, {\n    name: \"UNBOX\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/unbox.png */ \"./src/assets/portfolio/unbox.png\")\n    }],\n    technologies: [\"JavaScript\", \"NodeJs\", \"LiveChat\", \"HubSpot\", \"Azure\", \"Google Analytics\"],\n    link: \"https://unboxinc.com/\",\n    description: \"UNBOX is a premium coworking and flexible workspace provider based in Dubai offering hot desks, private offices, meeting rooms, virtual offices, \" + \"and event spaces designed for freelancers, startups, and growing teams. It focuses on community, productivity, and flexible membership plans tailored to \" + \"diverse business needs.\"\n  }, {\n    name: \"Vastu Housing Finance\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/vastu.png */ \"./src/assets/portfolio/vastu.png\")\n    }],\n    technologies: [\"WordPress\", \"JQuery QI\", \"MySQL\", \"AWS\", \"Google Workspace\", \"Yoast\", \"GoDaddy\"],\n    link: \"https://www.vastuhfc.com/\",\n    description: \"Vastu Housing Finance is a Mumbai-based housing finance company focused on driving financial inclusion by offering affordable home loans and related credit products \" + \"across India, particularly to underserved and self-employed customers. It leverages proprietary digital technology and data analytics to enable a paperless, \" + \"streamlined lending experience.\"\n  }, {\n    name: \"Webdew\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/webdew.png */ \"./src/assets/portfolio/webdew.png\")\n    }],\n    technologies: [\"VueJs\", \"NodeJs\", \"MySQL\", \"AWS\", \"React Native\", \"WhatsApp API\", \"Google Analytics\"],\n    link: \"https://wedew.id/\",\n    description: \"Wedew is an Indonesian digital wedding platform that lets couples create personalized wedding websites and e-invitations with automated guest management, RSVPs, \" + \"cashless gifts, and sharing via WhatsApp or email. It simplifies wedding communication and guest tracking for events.\"\n  }, {\n    name: \"XPayBack\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/xpayback.png */ \"./src/assets/portfolio/xpayback.png\")\n    }],\n    technologies: [\"ReactJs\", \"Python\", \"PostgreSQL\", \"AWS\", \"React Native\", \"Google Analytics\"],\n    link: \"https://xpayback.com/\",\n    description: \"XPayBack is a FinTech rewards & cashback platform that lets users earn guaranteed cashback on online and in-store purchases while providing merchants with \" + \"tools to boost loyalty and sales. It offers cashback rewards, deals, prepaid card benefits, and merchant analytics through its app and payment solutions.\"\n  }, {\n    name: \"Find My Tuition\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/fmt.png */ \"./src/assets/portfolio/fmt.png\")\n    }],\n    technologies: [\"ReactJs\", \"NodeJs\", \"MySQL\", \"AWS\", \"JIRA\"],\n    link: \"http://www.findmytuition.com/\",\n    description: \"ind My Tuition is an education platform that connects students with qualified tutors and coaching services, offering personalized academic support and \" + \"a searchable tutor network to help with exam prep and ongoing study needs. The platform also has a mobile app published by Intelliteach Tech Study Help Private Limited.\"\n  }, {\n    name: \"Watch Your Health\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/watchyourhealth.png */ \"./src/assets/portfolio/watchyourhealth.png\")\n    }],\n    technologies: [\"JQuery\", \"NodeJs\", \"MySQL\", \"Apache\", \"Cloufare\", \"AWS & Nginx\", \"Vimeo / Gmail\", \"WhatsApp API\", \"Google Tag Manager & Analytics\"],\n    link: \"https://www.watchyourhealth.com/\",\n    description: \"WatchYourHealth is an Indian InsurTech & HealthTech SaaS platform that provides digital health engagement, personalized wellness tools, AI-driven health monitoring, \" + \"and patient engagement solutions to insurance companies, hospitals, and healthcare partners to improve health outcomes and policyholder retention. \" + \"It integrates wellness tracking, gamification, rewards, and AI-based assessments in its ecosystem.\"\n  }, {\n    name: \"InternGrad\",\n    pictures: [{\n      img: __webpack_require__(/*! ./src/assets/portfolio/interngrad.png */ \"./src/assets/portfolio/interngrad.png\")\n    }],\n    technologies: [\"JQuery\", \"PHP\", \"MySQL\", \"AWS\", \"React Native\", \"Google Analytics\", \"AI/ML\", \"Advanced LMS\", \"ATS\"],\n    link: \"https://interngrad.in/\",\n    description: \"InternGrad is an online e-learning and career skills platform offering industry-relevant courses and certification programs in areas like programming, \" + \"DevOps, data science, digital marketing, and HR fundamentals to help students and professionals upskill and prepare for careers. \" + \"It’s operated by InternGrad SkillUp Solutions Pvt Ltd with offices in Pune/Mumbai & Bengaluru.\"\n  }]\n};\n/* harmony default export */ __webpack_exports__[\"default\"] = (info);\n\n//# sourceURL=webpack:///./info.js?");
 
 /***/ }),
 
@@ -247,7 +247,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _hel
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _helpers_Card__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./helpers/Card */ \"./src/components/helpers/Card.vue\");\n/* harmony import */ var _helpers_Modal__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./helpers/Modal */ \"./src/components/helpers/Modal.vue\");\n/* harmony import */ var _info__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../info */ \"./info.js\");\n\n\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ({\n  name: \"Portfolio\",\n  components: {\n    Card: _helpers_Card__WEBPACK_IMPORTED_MODULE_0__[\"default\"],\n    Modal: _helpers_Modal__WEBPACK_IMPORTED_MODULE_1__[\"default\"]\n  },\n  props: {\n    nightMode: {\n      type: Boolean\n    }\n  },\n  data() {\n    return {\n      folio_info: _info__WEBPACK_IMPORTED_MODULE_2__[\"default\"].portfolio,\n      portfolio_info: [],\n      showModal: false,\n      modal_info: {},\n      number: 9,\n      showBtn: \"show more\",\n      shower: 0,\n      data: ['<div class=\"example-slide\">Slide 1</div>', '<div class=\"example-slide\">Slide 2</div>', '<div class=\"example-slide\">Slide 3</div>']\n    };\n  },\n  created() {\n    for (var i = 0; i < this.number; i++) {\n      this.portfolio_info.push(this.folio_info[i]);\n    }\n  },\n  watch: {\n    number() {\n      this.portfolio_info = [];\n      for (var i = 0; i < this.number; i++) {\n        this.portfolio_info.push(this.folio_info[i]);\n      }\n    }\n  },\n  mounted() {\n    window.addEventListener(\"keydown\", this.handleEsc);\n  },\n  beforeDestroy() {\n    window.removeEventListener(\"keydown\", this.handleEsc);\n  },\n  methods: {\n    next() {\n      this.$refs.flickity.next();\n    },\n    previous() {\n      this.$refs.flickity.previous();\n    },\n    closeModal() {\n      this.showModal = false;\n      document.getElementsByTagName(\"body\")[0].classList.remove(\"modal-open\");\n    },\n    showModalFn(portfolio) {\n      this.model_info = portfolio;\n      this.showModal = true;\n    },\n    showMore() {\n      if (this.number != this.folio_info.length) {\n        this.number += 9;\n        window.scrollBy({\n          top: document.getElementsByClassName(\"smcard\")[0].clientHeight,\n          behavior: \"smooth\"\n        });\n        if (this.number > this.folio_info.length) this.number = this.folio_info.length;\n      }\n      if (this.number == this.folio_info.length && this.shower == 0) {\n        this.shower = 1;\n        this.showBtn = \"show less\";\n      } else if (this.number == this.folio_info.length && this.shower == 1) {\n        var elementPosition = document.getElementById(\"portfolio\").offsetTop;\n        window.scrollTo({\n          top: elementPosition + 5,\n          behavior: \"smooth\"\n        });\n        this.shower = 0;\n        this.number = 3;\n        this.showBtn = \"show more\";\n      }\n    },\n    handleEsc(e) {\n      if (e.key === \"Escape\" && this.showModal) {\n        this.closeModal();\n      }\n    }\n  }\n});\n\n//# sourceURL=webpack:///./src/components/Portfolio.vue?./node_modules/cache-loader/dist/cjs.js??ref--12-0!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _helpers_Card__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./helpers/Card */ \"./src/components/helpers/Card.vue\");\n/* harmony import */ var _helpers_Modal__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./helpers/Modal */ \"./src/components/helpers/Modal.vue\");\n/* harmony import */ var _info__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../info */ \"./info.js\");\n\n\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ({\n  name: \"Portfolio\",\n  components: {\n    Card: _helpers_Card__WEBPACK_IMPORTED_MODULE_0__[\"default\"],\n    Modal: _helpers_Modal__WEBPACK_IMPORTED_MODULE_1__[\"default\"]\n  },\n  props: {\n    nightMode: {\n      type: Boolean\n    }\n  },\n  data() {\n    return {\n      folio_info: _info__WEBPACK_IMPORTED_MODULE_2__[\"default\"].portfolio,\n      portfolio_info: [],\n      showModal: false,\n      modal_info: {},\n      number: 30,\n      showBtn: \"show more\",\n      shower: 0,\n      data: ['<div class=\"example-slide\">Slide 1</div>', '<div class=\"example-slide\">Slide 2</div>', '<div class=\"example-slide\">Slide 3</div>']\n    };\n  },\n  created() {\n    for (var i = 0; i < this.number; i++) {\n      this.portfolio_info.push(this.folio_info[i]);\n    }\n  },\n  watch: {\n    number() {\n      this.portfolio_info = [];\n      for (var i = 0; i < this.number; i++) {\n        this.portfolio_info.push(this.folio_info[i]);\n      }\n    }\n  },\n  mounted() {\n    window.addEventListener(\"keydown\", this.handleEsc);\n  },\n  beforeDestroy() {\n    window.removeEventListener(\"keydown\", this.handleEsc);\n  },\n  methods: {\n    next() {\n      this.$refs.flickity.next();\n    },\n    previous() {\n      this.$refs.flickity.previous();\n    },\n    closeModal() {\n      this.showModal = false;\n      document.getElementsByTagName(\"body\")[0].classList.remove(\"modal-open\");\n    },\n    showModalFn(portfolio) {\n      this.model_info = portfolio;\n      this.showModal = true;\n    },\n    showMore() {\n      if (this.number != this.folio_info.length) {\n        this.number += 30;\n        window.scrollBy({\n          top: document.getElementsByClassName(\"smcard\")[0].clientHeight,\n          behavior: \"smooth\"\n        });\n        if (this.number > this.folio_info.length) this.number = this.folio_info.length;\n      }\n      if (this.number == this.folio_info.length && this.shower == 0) {\n        this.shower = 1;\n        this.showBtn = \"show less\";\n      } else if (this.number == this.folio_info.length && this.shower == 1) {\n        var elementPosition = document.getElementById(\"portfolio\").offsetTop;\n        window.scrollTo({\n          top: elementPosition + 5,\n          behavior: \"smooth\"\n        });\n        this.shower = 0;\n        this.number = 3;\n        this.showBtn = \"show more\";\n      }\n    },\n    handleEsc(e) {\n      if (e.key === \"Escape\" && this.showModal) {\n        this.closeModal();\n      }\n    }\n  }\n});\n\n//# sourceURL=webpack:///./src/components/Portfolio.vue?./node_modules/cache-loader/dist/cjs.js??ref--12-0!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options");
 
 /***/ }),
 
@@ -767,6 +767,50 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _nod
 
 /***/ }),
 
+/***/ "./src/assets/portfolio/acuitey.png":
+/*!******************************************!*\
+  !*** ./src/assets/portfolio/acuitey.png ***!
+  \******************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/acuitey.419b7a17.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/acuitey.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/adoredvintage.png":
+/*!************************************************!*\
+  !*** ./src/assets/portfolio/adoredvintage.png ***!
+  \************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/adoredvintage.34a95f7c.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/adoredvintage.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/allpha.png":
+/*!*****************************************!*\
+  !*** ./src/assets/portfolio/allpha.png ***!
+  \*****************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/allpha.fbe6f3bf.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/allpha.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/aqualogica.png":
+/*!*********************************************!*\
+  !*** ./src/assets/portfolio/aqualogica.png ***!
+  \*********************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("module.exports = \"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATwAAADpCAYAAAC5gYsuAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAypSURBVHhe7dt5bNf1HcfxH96N0zkyJx5xWTymc0anMZnsiFvcMueibuiMOt1iHEdLS/EAJwqCqCAqU1ARRUSYQhZP5JJLRVGQ/n7tr/21/fU+6EELtPT6/Xq+ls/nR2l/FbdsSzT2/Xz8I7/j+/39atJnPlcDAgAjAkOfAIDhiuABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4A0z20vbtGRb49CnvzIPranVMalZ/nsBXzWCN8xkrKzSyXeGtL+9Z+hLSbp6+tQSS35Pb1/yv3v7Bj0x6PnBz8a7+9Qe7x70TLJ/F7yKxrjiXb1Dn05yoKNHLbFedff2+e/T4/879F2f565rjX/+3u7aoT837CB4w8jupi59+85sBTJKtWDznqEve3sOdGnm6lr9fF5U338gV7curdLO8ja9H23RmEUlCu+OqaOzV399pUKPbahLurahpVu3v1ymv2+q949dPMYtr9Clcyv0erAp6b39vih4O8radOa0Qs1eW5v0fL+c6naNXVGts6bl6pz7c/Wr+VFdv6hUVz9Trimv71asq1eL3m/QXf+sVmf3QAGj9TGlvVals6bl6fzpeRqzuELLtu/1gXfezm7SOTOKNHlVlY8ibCF4w8jDa+sUGLtLR03M0yWz89U85Bc6r6ZDF8+O+iBePrdQqa9W6qLZhRo5OaTLHo0qMC6o9/JbfAhOygzpt08XJ11f1hjXCRlBjXmuxD9ui/dq1uoafe+BIo0YF9KGyIGk9zuHC17F3k6dPyNfgYwSjRgf1PJP9iZds624VSMnh3XE+KCufbZENzxfquPTgwpkVmjUlDxlrqrywbt6QbFOzAj5QDvr85p1yj25CqTl63cLi3XLkjKdOiXXf86c9Yl4r8lt1q+fLlcgvUhjX6lI+lwMfwRvmNjf3q0zpuToisejenxDnf+lf23n/kOvu6ngVU8VKZBWoAVbGv1jJ97dqwdX1yiQlqejJ2RpS2GLn/KdPiVHfzgYtn4uVKPuztYtL5b5x/0z3rrmuB+FXTQr8rlpZH/wPi5p9Y+bO7r1k7mFSskIa+Vn+3Tl/CKlTMrX1sJELNs7e3XZIwU6cXKeth+8xsmqbNeZ9xVo9Jz8QyO6654t0elTwn6kWX+gS2fel6+TpxRobe5AeBtbupT6apX+sWPg/4Vz31s1CkwIa8vBz4UNBG+YeP7DBj9qWfFpYvrmRjqXP1pwaL0rWNWuI8ft0h3Lyode6l2/qESB1Nz/Knj92uI9uunFcj8CW/lZclj6g7ejvM1/l1teKPHRfW3nPv96xd64zpleqNOm5qlqX6eK6mMKpEb0yGGmunPX1ykwbpd2VrT7x4ng5fh/r9ixX4H0Yq08eN//5NUd+/z73UjwMEuVGKYI3jDgRjwXzszz61bdBwdYM/2oLf/QNNOFIDAuS6uGBKnfgi17FJiQq00FXxy8yn1dOvWe5OC9nd2s82YV67SpEZ0ytVCj5xQc+g5Of/DcdHprtNV/p4fWJK8N7ixrVUpGnia+WuXf594zNJzO0o8bFRibpY35Lf6xC94ZU8M+WNPe2q2jJwS1u6lz6GVJShvi+v1zJUqZmKVzZ0R1bGpQ24o/v6GC4YngDQNvBJsUmFioaW/W+NGWW7v7tKxNKelhXftMYh3unZwmBcaHtPjDwx9ZeXRdnQ/e5kPBC+uPi5NHcpX7OjUyM6hbX0o8/+K2Rh2TUaCrFparpCGm595v8LF6K7v50DUueMelBZVd1a7Za2p9dOsOdA26a8IV8wp14cyIovVxfeeuHN24ODm2zjULi3TGlLD2tiZ2hfuD57h7HzEhR4V1sSFXDSjaE9N5MyJ+3c9tspQ2xHRCRsiPbmEDwfuac7MxvzaXWe53NC+dHdHFsyJ+08JtYByXHlZeTUyNrd36VmZIF83KV2NrcnDqmrt0wYyIRozP9lPajq4+nTE1R794Ipr0PvfaiLSI7ji42O8+z63b9XNTabeW97N5A9fNejcRvPDuDs3fWO+ns25HeDC3AXHe9Ij/bh1dvZq3IfE+t6kSqe1QYX3MH7cJTCrVlU8O3Lt/Dc/5oKjVR3/s8qpBd04o39upfW3deujdWr9uN/jzZ7xTqyNSw/77YfgjeF9zbjF/xPiQfjS7QH9aUu53NG9YVKobF5dqzKJSHw53xMTxa2CTSjX6sSJ9WNTqR0Mb8w/4kVVgYlQpaUE/BXZTRLe2FUiL6MmNdYrUxvzO6SWzC/w63djlifv98MGITr834keTNU1dyqps8+Fyu8DzN+3xR2DcyOvI8buUXd3hj4yckBnW2dML/Oe6awrqYrptaaXfSX1iY+IoTU+vNPPdOp0wKVcpE4N+FPbdv4V14axCP219PZiY7l7zTIlG3Z3jQ+vWB29+oVSByVW6bWmFH1EW1HVoTbhZ504v0Jx1dVq4tcH/nPM21PnRaklDXJmrqhW4q1ZXL3BHcojecEfwvubcetqxE8PK/YJf1l8+EdVxaSEV74mpt7dPD7xdo6NScxQYF9JJk0IKjM/WTx8r1O3LynVsapZW5ySmo7sq2/WDmVG/EfKN9JBS0rI0em5UI+8M688Hp7Tv5DTrlKn5SknP0dn35/kw/XhOVL95qliBSWX+vN/TWxp09PiBYylvhZo0amqBjpiQrbOn5eqkzBw/6nJn69wh5sFctBZu3aNFHzT4DY3a5k4dnx7SX5YmNl7cGqMb4fUfS2lq7/Gvufu5MH7T/XwTcnXBzEJ9UtqmvW09flfYvX7mvWGdPjVPJ9+ZrZuXlOv49Gz/fgxvBO9rbl1usz4qTp4iDlbeGPcbC9X7Bxbz3cbAwq2NenhtrVbuavZHQV7e3ujP4a0OD6y/uaMeL23fpyc31vtRnFvbcyO9nOqBuJY1xrTsk/1+JLcur9kfS3GbKG+EDmhrtEXV+7v0XqRFTYPOBFbujfv7PrSmRvM31ftDyEN1Dt75OKits9dH+qYXEsHNrYnpo5K2pF3Wvr4+P+p9anODHllbp9c+a1JT+8BfgrifdX2kxa9ZvrCt0YfUCVW165mtDQM3wrBE8OA96zYcxgX9qO2r5naSR88t0keDzuG1xns0adVuvynidmuB/wXBg/f05j1+ze7N0OH/ROzL5HZQ3cFjF+Drni31a5Nn3R/xsXNrbv2HpoH/FsGD587fufXAYOXh1wK/bG6q6aalbn3R/U3sHSuqtSmfv4rA/4fgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATCD4AEwg+ABMIPgATDjXyhKzIRa0c+UAAAAAElFTkSuQmCC\"\n\n//# sourceURL=webpack:///./src/assets/portfolio/aqualogica.png?");
+
+/***/ }),
+
 /***/ "./src/assets/portfolio/ara.png":
 /*!**************************************!*\
   !*** ./src/assets/portfolio/ara.png ***!
@@ -800,6 +844,17 @@ eval("module.exports = __webpack_require__.p + \"img/ayurvidya.c35aeae3.png\";\n
 
 /***/ }),
 
+/***/ "./src/assets/portfolio/barrierbreak.png":
+/*!***********************************************!*\
+  !*** ./src/assets/portfolio/barrierbreak.png ***!
+  \***********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/barrierbreak.026c8e14.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/barrierbreak.png?");
+
+/***/ }),
+
 /***/ "./src/assets/portfolio/bigship.png":
 /*!******************************************!*\
   !*** ./src/assets/portfolio/bigship.png ***!
@@ -811,6 +866,39 @@ eval("module.exports = __webpack_require__.p + \"img/bigship.38ae0d1c.png\";\n\n
 
 /***/ }),
 
+/***/ "./src/assets/portfolio/bizvidya.png":
+/*!*******************************************!*\
+  !*** ./src/assets/portfolio/bizvidya.png ***!
+  \*******************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/bizvidya.fafcef59.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/bizvidya.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/buyitcarl.png":
+/*!********************************************!*\
+  !*** ./src/assets/portfolio/buyitcarl.png ***!
+  \********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/buyitcarl.790e5955.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/buyitcarl.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/bwangu.png":
+/*!*****************************************!*\
+  !*** ./src/assets/portfolio/bwangu.png ***!
+  \*****************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/bwangu.5c1cc8f4.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/bwangu.png?");
+
+/***/ }),
+
 /***/ "./src/assets/portfolio/carmaldn.png":
 /*!*******************************************!*\
   !*** ./src/assets/portfolio/carmaldn.png ***!
@@ -819,6 +907,50 @@ eval("module.exports = __webpack_require__.p + \"img/bigship.38ae0d1c.png\";\n\n
 /***/ (function(module, exports, __webpack_require__) {
 
 eval("module.exports = __webpack_require__.p + \"img/carmaldn.87f5b4b6.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/carmaldn.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/centraldata.png":
+/*!**********************************************!*\
+  !*** ./src/assets/portfolio/centraldata.png ***!
+  \**********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/centraldata.74960e78.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/centraldata.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/cofetti.png":
+/*!******************************************!*\
+  !*** ./src/assets/portfolio/cofetti.png ***!
+  \******************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/cofetti.dc3e7638.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/cofetti.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/cpvauto.png":
+/*!******************************************!*\
+  !*** ./src/assets/portfolio/cpvauto.png ***!
+  \******************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/cpvauto.64d31374.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/cpvauto.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/curatedmedical.png":
+/*!*************************************************!*\
+  !*** ./src/assets/portfolio/curatedmedical.png ***!
+  \*************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/curatedmedical.9bd68c43.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/curatedmedical.png?");
 
 /***/ }),
 
@@ -844,6 +976,17 @@ eval("module.exports = __webpack_require__.p + \"img/drm.54e20570.png\";\n\n//# 
 
 /***/ }),
 
+/***/ "./src/assets/portfolio/edufarmers.png":
+/*!*********************************************!*\
+  !*** ./src/assets/portfolio/edufarmers.png ***!
+  \*********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/edufarmers.ffbfc812.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/edufarmers.png?");
+
+/***/ }),
+
 /***/ "./src/assets/portfolio/eduspark.png":
 /*!*******************************************!*\
   !*** ./src/assets/portfolio/eduspark.png ***!
@@ -863,6 +1006,61 @@ eval("module.exports = __webpack_require__.p + \"img/eduspark.8f9da1b6.png\";\n\
 /***/ (function(module, exports, __webpack_require__) {
 
 eval("module.exports = __webpack_require__.p + \"img/ekrishi.d36991c3.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/ekrishi.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/elevenflo.png":
+/*!********************************************!*\
+  !*** ./src/assets/portfolio/elevenflo.png ***!
+  \********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/elevenflo.29849b2c.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/elevenflo.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/eterna.png":
+/*!*****************************************!*\
+  !*** ./src/assets/portfolio/eterna.png ***!
+  \*****************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/eterna.c0553cd9.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/eterna.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/exoticgashouse.png":
+/*!*************************************************!*\
+  !*** ./src/assets/portfolio/exoticgashouse.png ***!
+  \*************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/exoticgashouse.d77a8279.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/exoticgashouse.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/fairatmos.png":
+/*!********************************************!*\
+  !*** ./src/assets/portfolio/fairatmos.png ***!
+  \********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/fairatmos.97f302eb.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/fairatmos.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/fmt.png":
+/*!**************************************!*\
+  !*** ./src/assets/portfolio/fmt.png ***!
+  \**************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/fmt.014051c8.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/fmt.png?");
 
 /***/ }),
 
@@ -888,6 +1086,28 @@ eval("module.exports = __webpack_require__.p + \"img/franchisedirect.b0227f03.pn
 
 /***/ }),
 
+/***/ "./src/assets/portfolio/godecor.png":
+/*!******************************************!*\
+  !*** ./src/assets/portfolio/godecor.png ***!
+  \******************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/godecor.5029c00d.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/godecor.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/gowfo.png":
+/*!****************************************!*\
+  !*** ./src/assets/portfolio/gowfo.png ***!
+  \****************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/gowfo.36866d9b.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/gowfo.png?");
+
+/***/ }),
+
 /***/ "./src/assets/portfolio/grassroot.png":
 /*!********************************************!*\
   !*** ./src/assets/portfolio/grassroot.png ***!
@@ -896,6 +1116,50 @@ eval("module.exports = __webpack_require__.p + \"img/franchisedirect.b0227f03.pn
 /***/ (function(module, exports, __webpack_require__) {
 
 eval("module.exports = __webpack_require__.p + \"img/grassroot.2698c725.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/grassroot.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/greenfutureproject.png":
+/*!*****************************************************!*\
+  !*** ./src/assets/portfolio/greenfutureproject.png ***!
+  \*****************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/greenfutureproject.7752f4de.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/greenfutureproject.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/haladoc.png":
+/*!******************************************!*\
+  !*** ./src/assets/portfolio/haladoc.png ***!
+  \******************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/haladoc.381daa2f.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/haladoc.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/happyskin.png":
+/*!********************************************!*\
+  !*** ./src/assets/portfolio/happyskin.png ***!
+  \********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/happyskin.8451af67.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/happyskin.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/hindustantimes.png":
+/*!*************************************************!*\
+  !*** ./src/assets/portfolio/hindustantimes.png ***!
+  \*************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/hindustantimes.e833a41c.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/hindustantimes.png?");
 
 /***/ }),
 
@@ -910,6 +1174,28 @@ eval("module.exports = __webpack_require__.p + \"img/hmis.f6f6c608.png\";\n\n//#
 
 /***/ }),
 
+/***/ "./src/assets/portfolio/hunnit.png":
+/*!*****************************************!*\
+  !*** ./src/assets/portfolio/hunnit.png ***!
+  \*****************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/hunnit.fe67b5a3.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/hunnit.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/iglobal.png":
+/*!******************************************!*\
+  !*** ./src/assets/portfolio/iglobal.png ***!
+  \******************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/iglobal.3752ad7e.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/iglobal.png?");
+
+/***/ }),
+
 /***/ "./src/assets/portfolio/imaginecup.png":
 /*!*********************************************!*\
   !*** ./src/assets/portfolio/imaginecup.png ***!
@@ -921,6 +1207,105 @@ eval("module.exports = __webpack_require__.p + \"img/imaginecup.65d604d5.png\";\
 
 /***/ }),
 
+/***/ "./src/assets/portfolio/interngrad.png":
+/*!*********************************************!*\
+  !*** ./src/assets/portfolio/interngrad.png ***!
+  \*********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/interngrad.0dc04859.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/interngrad.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/jumia.png":
+/*!****************************************!*\
+  !*** ./src/assets/portfolio/jumia.png ***!
+  \****************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/jumia.69d7bbc8.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/jumia.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/jvedtech.png":
+/*!*******************************************!*\
+  !*** ./src/assets/portfolio/jvedtech.png ***!
+  \*******************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/jvedtech.bcaedbc5.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/jvedtech.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/kaitchens.png":
+/*!********************************************!*\
+  !*** ./src/assets/portfolio/kaitchens.png ***!
+  \********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/kaitchens.87a87986.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/kaitchens.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/kidoriman.png":
+/*!********************************************!*\
+  !*** ./src/assets/portfolio/kidoriman.png ***!
+  \********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/kidoriman.dfc37146.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/kidoriman.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/kupainc.png":
+/*!******************************************!*\
+  !*** ./src/assets/portfolio/kupainc.png ***!
+  \******************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/kupainc.c32abb59.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/kupainc.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/lexiai.png":
+/*!*****************************************!*\
+  !*** ./src/assets/portfolio/lexiai.png ***!
+  \*****************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/lexiai.814d87ae.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/lexiai.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/louise.png":
+/*!*****************************************!*\
+  !*** ./src/assets/portfolio/louise.png ***!
+  \*****************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/louise.3409f595.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/louise.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/loversai.png":
+/*!*******************************************!*\
+  !*** ./src/assets/portfolio/loversai.png ***!
+  \*******************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/loversai.4d3b4755.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/loversai.png?");
+
+/***/ }),
+
 /***/ "./src/assets/portfolio/mhcet.png":
 /*!****************************************!*\
   !*** ./src/assets/portfolio/mhcet.png ***!
@@ -929,6 +1314,17 @@ eval("module.exports = __webpack_require__.p + \"img/imaginecup.65d604d5.png\";\
 /***/ (function(module, exports, __webpack_require__) {
 
 eval("module.exports = __webpack_require__.p + \"img/mhcet.5fe4b697.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/mhcet.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/moraze.png":
+/*!*****************************************!*\
+  !*** ./src/assets/portfolio/moraze.png ***!
+  \*****************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/moraze.3cd359e8.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/moraze.png?");
 
 /***/ }),
 
@@ -954,6 +1350,72 @@ eval("module.exports = __webpack_require__.p + \"img/nsic.775b9f97.png\";\n\n//#
 
 /***/ }),
 
+/***/ "./src/assets/portfolio/orqual.png":
+/*!*****************************************!*\
+  !*** ./src/assets/portfolio/orqual.png ***!
+  \*****************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/orqual.c18f36c8.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/orqual.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/paperid.png":
+/*!******************************************!*\
+  !*** ./src/assets/portfolio/paperid.png ***!
+  \******************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/paperid.88dfdf18.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/paperid.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/parenting.png":
+/*!********************************************!*\
+  !*** ./src/assets/portfolio/parenting.png ***!
+  \********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/parenting.6ed44f0c.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/parenting.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/parknjet.png":
+/*!*******************************************!*\
+  !*** ./src/assets/portfolio/parknjet.png ***!
+  \*******************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/parknjet.ff2669e0.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/parknjet.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/petschoice.png":
+/*!*********************************************!*\
+  !*** ./src/assets/portfolio/petschoice.png ***!
+  \*********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/petschoice.58d109ea.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/petschoice.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/pillows.png":
+/*!******************************************!*\
+  !*** ./src/assets/portfolio/pillows.png ***!
+  \******************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/pillows.2e4dd7dd.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/pillows.png?");
+
+/***/ }),
+
 /***/ "./src/assets/portfolio/rns.png":
 /*!**************************************!*\
   !*** ./src/assets/portfolio/rns.png ***!
@@ -962,6 +1424,17 @@ eval("module.exports = __webpack_require__.p + \"img/nsic.775b9f97.png\";\n\n//#
 /***/ (function(module, exports, __webpack_require__) {
 
 eval("module.exports = __webpack_require__.p + \"img/rns.9f1c4d62.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/rns.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/ruutiq.png":
+/*!*****************************************!*\
+  !*** ./src/assets/portfolio/ruutiq.png ***!
+  \*****************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/ruutiq.6b11ff45.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/ruutiq.png?");
 
 /***/ }),
 
@@ -1020,6 +1493,39 @@ eval("module.exports = __webpack_require__.p + \"img/simplifypi.3082ee75.png\";\
 
 /***/ }),
 
+/***/ "./src/assets/portfolio/simplyherbal.png":
+/*!***********************************************!*\
+  !*** ./src/assets/portfolio/simplyherbal.png ***!
+  \***********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/simplyherbal.ab425977.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/simplyherbal.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/solelands.png":
+/*!********************************************!*\
+  !*** ./src/assets/portfolio/solelands.png ***!
+  \********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/solelands.ad745ad7.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/solelands.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/sorta.png":
+/*!****************************************!*\
+  !*** ./src/assets/portfolio/sorta.png ***!
+  \****************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/sorta.bb2d0d12.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/sorta.png?");
+
+/***/ }),
+
 /***/ "./src/assets/portfolio/studentkare.png":
 /*!**********************************************!*\
   !*** ./src/assets/portfolio/studentkare.png ***!
@@ -1042,6 +1548,17 @@ eval("module.exports = __webpack_require__.p + \"img/telemedicine.de3e5c95.png\"
 
 /***/ }),
 
+/***/ "./src/assets/portfolio/theshed.png":
+/*!******************************************!*\
+  !*** ./src/assets/portfolio/theshed.png ***!
+  \******************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/theshed.a8403cf4.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/theshed.png?");
+
+/***/ }),
+
 /***/ "./src/assets/portfolio/thread.png":
 /*!*****************************************!*\
   !*** ./src/assets/portfolio/thread.png ***!
@@ -1050,6 +1567,28 @@ eval("module.exports = __webpack_require__.p + \"img/telemedicine.de3e5c95.png\"
 /***/ (function(module, exports, __webpack_require__) {
 
 eval("module.exports = __webpack_require__.p + \"img/thread.be96d8af.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/thread.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/unbox.png":
+/*!****************************************!*\
+  !*** ./src/assets/portfolio/unbox.png ***!
+  \****************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/unbox.f319f053.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/unbox.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/vastu.png":
+/*!****************************************!*\
+  !*** ./src/assets/portfolio/vastu.png ***!
+  \****************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/vastu.8e0c53fc.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/vastu.png?");
 
 /***/ }),
 
@@ -1064,6 +1603,50 @@ eval("module.exports = __webpack_require__.p + \"img/vlc.b04ef19f.png\";\n\n//# 
 
 /***/ }),
 
+/***/ "./src/assets/portfolio/waayu.png":
+/*!****************************************!*\
+  !*** ./src/assets/portfolio/waayu.png ***!
+  \****************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/waayu.6f2d956b.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/waayu.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/walkent.png":
+/*!******************************************!*\
+  !*** ./src/assets/portfolio/walkent.png ***!
+  \******************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/walkent.de2901fd.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/walkent.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/watchyourhealth.png":
+/*!**************************************************!*\
+  !*** ./src/assets/portfolio/watchyourhealth.png ***!
+  \**************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/watchyourhealth.68b63ab0.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/watchyourhealth.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/webdew.png":
+/*!*****************************************!*\
+  !*** ./src/assets/portfolio/webdew.png ***!
+  \*****************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/webdew.d8f33952.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/webdew.png?");
+
+/***/ }),
+
 /***/ "./src/assets/portfolio/wp21.png":
 /*!***************************************!*\
   !*** ./src/assets/portfolio/wp21.png ***!
@@ -1072,6 +1655,28 @@ eval("module.exports = __webpack_require__.p + \"img/vlc.b04ef19f.png\";\n\n//# 
 /***/ (function(module, exports, __webpack_require__) {
 
 eval("module.exports = __webpack_require__.p + \"img/wp21.8c1533d1.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/wp21.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/xpayback.png":
+/*!*******************************************!*\
+  !*** ./src/assets/portfolio/xpayback.png ***!
+  \*******************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/xpayback.c88f0e14.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/xpayback.png?");
+
+/***/ }),
+
+/***/ "./src/assets/portfolio/xtreeme.png":
+/*!******************************************!*\
+  !*** ./src/assets/portfolio/xtreeme.png ***!
+  \******************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/xtreeme.c52a37af.png\";\n\n//# sourceURL=webpack:///./src/assets/portfolio/xtreeme.png?");
 
 /***/ }),
 
