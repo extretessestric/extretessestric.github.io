@@ -1266,7 +1266,7 @@ let info = {
           img: require("./src/assets/portfolio/louise.png"),
         },
       ],
-      technologies: [        
+      technologies: [
         "JavaScript",
         "Python",
         "AI/ML",
@@ -1290,13 +1290,7 @@ let info = {
           img: require("./src/assets/portfolio/edufarmers.png"),
         },
       ],
-      technologies: [        
-        "JavaScript",
-        "WordPress",
-        "PHP",
-        "MySQL",
-        "AWS",        
-      ],
+      technologies: ["JavaScript", "WordPress", "PHP", "MySQL", "AWS"],
       link: "https://www.edufarmers.org/",
       description:
         "EduFarmers is a community and education platform for farmers, focused on agricultural learning, training, and sustainable farming practices to help farmers " +
@@ -1309,13 +1303,7 @@ let info = {
           img: require("./src/assets/portfolio/happyskin.png"),
         },
       ],
-      technologies: [        
-        "JavaScript",
-        "Shopify",
-        "PHP",
-        "MySQL",
-        "AWS",        
-      ],
+      technologies: ["JavaScript", "Shopify", "PHP", "MySQL", "AWS"],
       link: "https://happyskincosmetics.com/",
       description:
         "Happy Skin Cosmetics is a Philippines-based beauty and skincare brand that offers makeup and skincare products formulated for modern lifestyles, " +
@@ -1328,13 +1316,7 @@ let info = {
           img: require("./src/assets/portfolio/buyitcarl.png"),
         },
       ],
-      technologies: [        
-        "JavaScript",
-        "Shopify",
-        "PHP",
-        "MySQL",
-        "AWS",        
-      ],
+      technologies: ["JavaScript", "Shopify", "PHP", "MySQL", "AWS"],
       link: "https://buyitcarl.com/",
       description:
         "BuyItCarl appears to be an e-commerce retail site selling various consumer products (electronics, accessories, home goods, etc.) " +
@@ -1347,13 +1329,13 @@ let info = {
           img: require("./src/assets/portfolio/xtreeme.png"),
         },
       ],
-      technologies: [        
+      technologies: [
         "JavaScript",
         "Python",
         "AI/ML",
         "MongoDB",
         "AWS",
-        "Docker"     
+        "Docker",
       ],
       link: "https://xtreemetech.com/",
       description:
@@ -1367,13 +1349,7 @@ let info = {
           img: require("./src/assets/portfolio/kidoriman.png"),
         },
       ],
-      technologies: [        
-        "JavaScript",
-        "Shopify",
-        "Mixpanel",
-        "MySQL",
-        "AWS",
-      ],
+      technologies: ["JavaScript", "Shopify", "Mixpanel", "MySQL", "AWS"],
       link: "https://kidoriman.com/",
       description:
         "Kidoriman is a kids footwear brand/store offering a range of children’s shoes and related products online, focusing on comfort, style, and quality for " +
@@ -1386,7 +1362,7 @@ let info = {
           img: require("./src/assets/portfolio/elevenflo.png"),
         },
       ],
-      technologies: [        
+      technologies: [
         "ReactJs",
         "Anthropic Claude",
         "Google Gemini",
@@ -1408,13 +1384,7 @@ let info = {
           img: require("./src/assets/portfolio/cofetti.png"),
         },
       ],
-      technologies: [        
-        "JavaScript",
-        "Python",
-        "OpenAI",
-        "Managed DB",
-        "AWS",
-      ],
+      technologies: ["JavaScript", "Python", "OpenAI", "Managed DB", "AWS"],
       link: "https://cofetti.ai/",
       description:
         "Cofetti.ai is an AI-powered web app for creating and sending personalized greeting cards and invitations using natural language prompts — " +
@@ -1427,13 +1397,13 @@ let info = {
           img: require("./src/assets/portfolio/acuitey.png"),
         },
       ],
-      technologies: [        
+      technologies: [
         "JavaScript",
         "Wordpress",
         "PHP",
         "MySQL",
         "AWS",
-        "Amplitude"
+        "Amplitude",
       ],
       link: "https://acuiteysolutions.com/",
       description:
@@ -1447,15 +1417,15 @@ let info = {
           img: require("./src/assets/portfolio/waayu.png"),
         },
       ],
-      technologies: [        
+      technologies: [
         "React Native",
         "Java Spring Boot",
         "WEbSockets",
         "ONDC",
-        "GIS",        
+        "GIS",
         "MongoDB",
         "AWS",
-        "Amplitude"
+        "Amplitude",
       ],
       link: "https://waayu.app/",
       description:
@@ -1469,13 +1439,13 @@ let info = {
           img: require("./src/assets/portfolio/loversai.png"),
         },
       ],
-      technologies: [        
+      technologies: [
         "JavaScript",
         "OpenAI / Gemini / Midjourney",
         "PHP",
         "MySQL",
         "AWS",
-        "Google Analytics"
+        "Google Analytics",
       ],
       link: "https://www.theloversai.co.in/",
       description:
@@ -1490,14 +1460,14 @@ let info = {
           img: require("./src/assets/portfolio/cpvauto.png"),
         },
       ],
-      technologies: [        
+      technologies: [
         "ReactJs",
         "Python",
         "AI/ML",
         "OCR + NLP",
         "MongoDB",
         "AWS",
-        "Google Analytics"
+        "Google Analytics",
       ],
       link: "https://www.cpvauto.com/",
       description:
@@ -1511,7 +1481,7 @@ let info = {
           img: require("./src/assets/portfolio/ruutiq.png"),
         },
       ],
-      technologies: [        
+      technologies: [
         "JavaScript",
         "React Native",
         "NodeJs",
@@ -1519,7 +1489,7 @@ let info = {
         "AWS",
         "GraphQL",
         "ERP / CRM",
-        "AI/ML"
+        "AI/ML",
       ],
       link: "https://www.ruutiq.com/",
       description:
@@ -1533,14 +1503,14 @@ let info = {
           img: require("./src/assets/portfolio/barrierbreak.png"),
         },
       ],
-      technologies: [        
+      technologies: [
         "JavaScript",
         "A11yNow",
         "A11yInspect",
         "AI-Powered Solutions",
         "Web Accessibility",
         "VPAT / ACR",
-        "WCAG / ADA / EAA / RPWD",        
+        "WCAG / ADA / EAA / RPWD",
       ],
       link: "https://www.barrierbreak.com/",
       description:
@@ -1557,7 +1527,7 @@ let info = {
           img: require("./src/assets/portfolio/bwangu.png"),
         },
       ],
-      technologies: [        
+      technologies: [
         "Flutter",
         "NextJs",
         "NodeJs",
@@ -1566,7 +1536,7 @@ let info = {
         "Google Maps API",
         "Stripe / Flutterwave",
         "AWS",
-        "Firebase Cloud Messaging"
+        "Firebase Cloud Messaging",
       ],
       link: "https://www.bwangubwangu.com/",
       description:
@@ -1580,16 +1550,16 @@ let info = {
           img: require("./src/assets/portfolio/bizvidya.png"),
         },
       ],
-      technologies: [        
+      technologies: [
         "NextJs",
-        "React Native",        
+        "React Native",
         "NodeJs",
         "PostgreSQL",
         "WebSockets",
-        "Python (Analytics)",       
+        "Python (Analytics)",
         "AWS",
         "Docker",
-        "Kubernetes"
+        "Kubernetes",
       ],
       link: "https://bizvidya.com/",
       description:
@@ -1603,16 +1573,16 @@ let info = {
           img: require("./src/assets/portfolio/orqual.png"),
         },
       ],
-      technologies: [        
+      technologies: [
         "Delphi",
-        "Orthalis Connect",        
+        "Orthalis Connect",
         "AI & Automation",
         "Kitview",
         "Doctolib",
         "3Shape",
         "DentalMonitoring",
         "Spark",
-        "Enterprise DB",        
+        "Enterprise DB",
       ],
       link: "https://www.orqual.fr/en/",
       description:
@@ -1627,9 +1597,9 @@ let info = {
           img: require("./src/assets/portfolio/gowfo.png"),
         },
       ],
-      technologies: [        
+      technologies: [
         "ReactJs",
-        "NodeJs",        
+        "NodeJs",
         "PostgreSQL",
         "WebSockets",
         "Web3 (Blockchain)",
@@ -1650,17 +1620,17 @@ let info = {
           img: require("./src/assets/portfolio/hindustantimes.png"),
         },
       ],
-      technologies: [        
+      technologies: [
         "ReactJs",
-        "Java Spring Boot",        
+        "Java Spring Boot",
         "Google Ads",
         "MoEngage / Outbrain",
-        "PostgreSQL",        
+        "PostgreSQL",
         "AWS",
         "Docker",
         "ELastic / Solr",
         "Custom CMS",
-        "Cloudfare"
+        "Cloudfare",
       ],
       link: "https://www.hindustantimes.com/",
       description:
@@ -1677,9 +1647,9 @@ let info = {
           img: require("./src/assets/portfolio/iglobal.png"),
         },
       ],
-      technologies: [        
+      technologies: [
         "WordPress",
-        "JavaScript",        
+        "JavaScript",
         "PHP",
         "MySQL",
         "AWS",
@@ -1699,9 +1669,9 @@ let info = {
           img: require("./src/assets/portfolio/jvedtech.png"),
         },
       ],
-      technologies: [        
+      technologies: [
         "Angular",
-        "NodeJs",        
+        "NodeJs",
         "React Native",
         "MySQL",
         "AWS",
@@ -1720,9 +1690,9 @@ let info = {
           img: require("./src/assets/portfolio/kaitchens.png"),
         },
       ],
-      technologies: [        
+      technologies: [
         "NextJs",
-        "NodeJs",      
+        "NodeJs",
         "PostgreSQL",
         "GCP",
         "Docker / nginx",
@@ -1740,14 +1710,7 @@ let info = {
           img: require("./src/assets/portfolio/centraldata.png"),
         },
       ],
-      technologies: [        
-        "VueJs",
-        "Java",        
-        "VMWare",
-        "PostgreSQL",
-        "AWS",
-        "Docker",        
-      ],
+      technologies: ["VueJs", "Java", "VMWare", "PostgreSQL", "AWS", "Docker"],
       link: "https://centraldatastorage.com/",
       description:
         "Central Data Storage (CDS) is a U.S.-based managed data backup, disaster recovery, and protection provider focused on securing sensitive business data with " +
@@ -1761,13 +1724,13 @@ let info = {
           img: require("./src/assets/portfolio/parknjet.png"),
         },
       ],
-      technologies: [        
+      technologies: [
         "Javascript / JQuery",
-        "WordPress",        
+        "WordPress",
         "PHP",
         "Google Analytics",
         "AWS",
-        "Docker / Kubernetes",        
+        "Docker / Kubernetes",
       ],
       link: "https://www.parknjetchicago.com/",
       description:
@@ -1781,12 +1744,12 @@ let info = {
           img: require("./src/assets/portfolio/parenting.png"),
         },
       ],
-      technologies: [        
+      technologies: [
         "Shopify",
-        "JavaScript",        
+        "JavaScript",
         "MySQL",
         "AWS",
-        "Google Analytics",        
+        "Google Analytics",
       ],
       link: "https://www.parentingconnections.com.au/",
       description:
@@ -1800,13 +1763,13 @@ let info = {
           img: require("./src/assets/portfolio/unbox.png"),
         },
       ],
-      technologies: [        
+      technologies: [
         "JavaScript",
         "NodeJs",
-        "LiveChat",        
+        "LiveChat",
         "HubSpot",
         "Azure",
-        "Google Analytics",        
+        "Google Analytics",
       ],
       link: "https://unboxinc.com/",
       description:
@@ -1821,14 +1784,14 @@ let info = {
           img: require("./src/assets/portfolio/vastu.png"),
         },
       ],
-      technologies: [        
+      technologies: [
         "WordPress",
-        "JQuery QI",        
+        "JQuery QI",
         "MySQL",
         "AWS",
         "Google Workspace",
         "Yoast",
-        "GoDaddy",       
+        "GoDaddy",
       ],
       link: "https://www.vastuhfc.com/",
       description:
@@ -1843,14 +1806,14 @@ let info = {
           img: require("./src/assets/portfolio/webdew.png"),
         },
       ],
-      technologies: [        
+      technologies: [
         "VueJs",
-        "NodeJs",        
+        "NodeJs",
         "MySQL",
         "AWS",
         "React Native",
         "WhatsApp API",
-        "Google Analytics",        
+        "Google Analytics",
       ],
       link: "https://wedew.id/",
       description:
@@ -1864,13 +1827,13 @@ let info = {
           img: require("./src/assets/portfolio/xpayback.png"),
         },
       ],
-      technologies: [        
+      technologies: [
         "ReactJs",
-        "Python",        
+        "Python",
         "PostgreSQL",
         "AWS",
         "React Native",
-        "Google Analytics",        
+        "Google Analytics",
       ],
       link: "https://xpayback.com/",
       description:
@@ -1884,13 +1847,7 @@ let info = {
           img: require("./src/assets/portfolio/fmt.png"),
         },
       ],
-      technologies: [        
-        "ReactJs",
-        "NodeJs",        
-        "MySQL",
-        "AWS",
-        "JIRA",
-      ],
+      technologies: ["ReactJs", "NodeJs", "MySQL", "AWS", "JIRA"],
       link: "http://www.findmytuition.com/",
       description:
         "ind My Tuition is an education platform that connects students with qualified tutors and coaching services, offering personalized academic support and " +
@@ -1903,16 +1860,16 @@ let info = {
           img: require("./src/assets/portfolio/watchyourhealth.png"),
         },
       ],
-      technologies: [        
+      technologies: [
         "JQuery",
-        "NodeJs",        
+        "NodeJs",
         "MySQL",
         "Apache",
         "Cloufare",
         "AWS & Nginx",
         "Vimeo / Gmail",
         "WhatsApp API",
-        "Google Tag Manager & Analytics",        
+        "Google Tag Manager & Analytics",
       ],
       link: "https://www.watchyourhealth.com/",
       description:
@@ -1927,9 +1884,9 @@ let info = {
           img: require("./src/assets/portfolio/interngrad.png"),
         },
       ],
-      technologies: [        
+      technologies: [
         "JQuery",
-        "PHP",        
+        "PHP",
         "MySQL",
         "AWS",
         "React Native",
@@ -1943,6 +1900,243 @@ let info = {
         "InternGrad is an online e-learning and career skills platform offering industry-relevant courses and certification programs in areas like programming, " +
         "DevOps, data science, digital marketing, and HR fundamentals to help students and professionals upskill and prepare for careers. " +
         "It’s operated by InternGrad SkillUp Solutions Pvt Ltd with offices in Pune/Mumbai & Bengaluru.",
+    },
+    {
+      name: "Sid's Farm",
+      pictures: [
+        {
+          img: require("./src/assets/portfolio/sidsfarm.png"),
+        },
+      ],
+      technologies: [
+        "HTML + JS",
+        "Shopify",
+        "PHP",
+        "MySQL",
+        "AWS",
+        "Disqus",
+        "React Native",
+        "Google Analytics",
+      ],
+      link: "https://sidsfarm.com/",
+      description:
+        "Sid’s Farm is a premium direct-to-consumer dairy brand based in Hyderabad that delivers pure, rigorously tested milk and other dairy products (free from antibiotics, " +
+        "hormones, and additives) to customers’ doorsteps. It controls quality via stringent multi-parameter tests and supports local farmers as part of its supply chain.",
+    },
+    {
+      name: "Mareana",
+      pictures: [
+        {
+          img: require("./src/assets/portfolio/mareana.png"),
+        },
+      ],
+      technologies: [
+        "HTML + JS",
+        "ReactJs + Redux",
+        "Python",
+        "AWS",
+        "SAP",
+        "Oracle",
+        "Jda",
+        "Infor",
+        "AI/ML",
+      ],
+      link: "https://mareana.com/",
+      description:
+        "Mareana is an AI-powered enterprise software company that provides advanced manufacturing intelligence and data-integration platforms for pharmaceutical, biotechnology, " +
+        "and supply chain operations, helping organizations streamline compliance, accelerate batch releases, and gain actionable insights from complex data. " +
+        "Its flagship offerings (e.g., Mareana Connect™, CPV, CMC, VSM) combine analytics, machine learning, and contextualized data to improve operational efficiency and " +
+        "regulatory compliance.",
+    },
+    {
+      name: "Lavino Kapur",
+      pictures: [
+        {
+          img: require("./src/assets/portfolio/lavinokapur.png"),
+        },
+      ],
+      technologies: [
+        "ReactJs",
+        "Java Spring Boot",
+        "SAP B1",
+        "MSSQL",
+        "AWS",
+        "Power BI",
+      ],
+      link: "https://lavinokapur.com/",
+      description:
+        "Lavino-Kapur Cottons is an Indian cotton products manufacturer specializing in 100% absorbent cotton and finished products like cotton pads, balls, pleats, rolls, " +
+        "and buds for global export markets, with a vertically integrated processing facility near Mumbai. It has over four decades of industry leadership with certifications " +
+        "like ISO 9001:2015, BRC, and GOTS.",
+    },
+    {
+      name: "MyCloud Hospitality",
+      pictures: [
+        {
+          img: require("./src/assets/portfolio/mycloud.png"),
+        },
+      ],
+      technologies: [
+        "ReactJs",
+        "React Native",
+        "Python",
+        "SaaS",
+        "MongoDB",
+        "AWS",
+        "Google Analytics",
+        "OTA",
+        "CRM",
+      ],
+      link: "https://www.mycloudhospitality.com/",
+      description:
+        "MyCloud Hospitality is a cloud-based hotel management software platform developed by Prologic First that helps hotels (small to enterprise) automate operations " +
+        "like reservations, PMS, POS, back office, guest engagement, and distribution to channels—all from the cloud. It’s trusted by thousands of properties globally for " +
+        "streamlining operations and boosting revenue.",
+    },
+    {
+      name: "Enso Webworks",
+      pictures: [
+        {
+          img: require("./src/assets/portfolio/enso.png"),
+        },
+      ],
+      technologies: [
+        "VueJs",
+        "NodeJs",
+        "Flutter",
+        "MySQL",
+        "Azure",
+        "Google Analytics",
+      ],
+      link: "https://www.ensowebworks.com/",
+      description:
+        "Enso Webworks is the digital innovation arm of the Enso Group focused on building user-centric, privacy-first digital experiences and products such as " +
+        "InfoProfile (digital professional networking), InfoPhone (secure communication), and InfoQueries (AI-powered knowledge assistant). It aims to simplify digital " +
+        "connection and communication across web and mobile platforms.",
+    },
+    {
+      name: "Dr. Arora's Clinic",
+      pictures: [
+        {
+          img: require("./src/assets/portfolio/drarora.png"),
+        },
+      ],
+      technologies: [
+        "ReactJs",
+        "WordPress",
+        "PHP",
+        "MySQL",
+        "AWS",
+        "Google Analytics",
+      ],
+      link: "https://www.draroras.com/",
+      description:
+        "Dr. Arora’s Clinic specializes in sexual wellness, infertility, and psychological counseling for men and women. Based in India, the clinic offers both in-person and " +
+        "teleconsultation services, focusing on discreet, expert care under the leadership of Dr. S.K. Arora.",
+    },
+    {
+      name: "Sigmoid",
+      pictures: [
+        {
+          img: require("./src/assets/portfolio/sigmoid.png"),
+        },
+      ],
+      technologies: [
+        "ReactJs",
+        "Python + Java",
+        "AWS + Azure + GCp",
+        "Spark, Kafka, Airflow, Hadoop",
+        "TensorFlow, PyTorch, Scala",
+        "SQL, Tableau, Power BI",
+        "Docker, Kubernetes, Terraform, Jenkins",
+        "Google Analytics / Tag Manager",
+      ],
+      link: "https://www.draroras.com/",
+      description:
+        "Sigmoid is a leading data engineering, AI, and analytics solutions company that helps large enterprises accelerate digital transformation using real-time data pipelines, " +
+        "cloud data platforms, and machine learning. Headquartered in the U.S. with delivery centers in India, it serves clients in CPG, retail, BFSI, and manufacturing.",
+    },
+    {
+      name: "I-Brokers",
+      pictures: [
+        {
+          img: require("./src/assets/portfolio/ibrokers.png"),
+        },
+      ],
+      technologies: [
+        "ReactJs",
+        "WordPress",
+        "PHP",
+        "CRM",
+        "AWS",
+        "MySQL",
+        "Google Analytics",
+      ],
+      link: "https://www.i-brokers.com/",
+      description:
+        "i-Brokers is a global digital insurance brokerage offering health, life, travel, and corporate insurance solutions for individuals, families, and businesses. " +
+        "Based in Hong Kong, they partner with leading insurers to provide multilingual, multi-country coverage with expert advisory and digital policy management.",
+    },
+    {
+      name: "EduBay",
+      pictures: [
+        {
+          img: require("./src/assets/portfolio/edubay.png"),
+        },
+      ],
+      technologies: [
+        "ReactJs",
+        "NodeJs",
+        "AWS",
+        "LMS",
+        "PostgreSQL",
+        "Google Analytics",
+      ],
+      link: "https://edubay.com.au/",
+      description:
+        "EduBay is an Australian online education platform that partners with universities and institutions to offer globally accessible, industry-relevant short courses, " +
+        "certificates, and degrees. It aims to make education flexible and affordable through a fully digital, self-paced model.",
+    },
+    {
+      name: "Everdure",
+      pictures: [
+        {
+          img: require("./src/assets/portfolio/everdure.png"),
+        },
+      ],
+      technologies: [
+        "Flutter",
+        "Java Spring Boot",
+        "AWS",
+        "PostgreSQL",
+        "Bluetooth",
+        "Google Analytics",
+      ],
+      link: "https://everdure.com/",
+      description:
+        "Everdure is a premium outdoor cooking brand founded in collaboration with chef Heston Blumenthal, offering a range of innovative barbecues, grills, and " +
+        "cooking accessories. The brand blends modern design with cutting-edge technology for charcoal and gas cooking enthusiasts.",
+    },
+    {
+      name: "OctopusBot.ai",
+      pictures: [
+        {
+          img: require("./src/assets/portfolio/octopusbot.png"),
+        },
+      ],
+      technologies: [
+        "ReactJs",
+        "Python",
+        "AWS",
+        "PostgreSQL",
+        "AI/ML",
+        "Google Analytics",
+      ],
+      link: "https://octopusbot.ai/",
+      description:
+        "OctopusBot.ai is an AI-powered WhatsApp sales and automation platform that enables businesses to automate customer engagement, " +
+        "lead generation, and personalized campaigns through conversational commerce. It offers integration with CRMs, team inboxes, and analytics dashboards tailored for " +
+        "D2C brands and service businesses.",
     },
   ],
 };
