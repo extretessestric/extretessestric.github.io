@@ -271,7 +271,7 @@ export function App() {
             </p>
             <p className="hero__location">
               <MapPin aria-hidden="true" weight="duotone" />
-              Gaurav Jain — Mumbai / Global
+              Mumbai, Maharashtra, India
             </p>
             <div className="hero__actions">
               <button className="button button--primary" type="button" onClick={() => scrollToId("#impact-atlas")}>
