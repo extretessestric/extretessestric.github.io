@@ -1022,7 +1022,7 @@ main,
   aspect-ratio: 2.22;
 }
 
-.featured-grid .project-card:nth-child(5) {
+.featured-grid .project-card:nth-child(6) {
   grid-column: span 2;
 }
 
@@ -2122,7 +2122,7 @@ main,
   }
 
   .featured-grid .project-card:first-child,
-  .featured-grid .project-card:nth-child(5) {
+  .featured-grid .project-card:nth-child(6) {
     grid-column: auto;
   }
 

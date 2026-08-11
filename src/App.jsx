@@ -342,8 +342,8 @@ export function App() {
           <SectionHeading
             eyebrow="Selected systems"
             title="Impact in context"
-            count="09"
-            text="Nine portfolio anchors show how strategy, architecture, product thinking, program governance, and delivery connect to real operating systems."
+            count="10"
+            text="Ten portfolio anchors show how strategy, architecture, product thinking, program governance, and delivery connect to real operating systems."
           />
           <div className="featured-grid">
             {featuredProjects.map((project) => (

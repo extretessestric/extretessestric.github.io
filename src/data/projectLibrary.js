@@ -228,6 +228,19 @@ const featuredDetails = {
     ],
     lenses: ["CTO", "Program", "Project"],
   },
+  "Digitization for Grassroot Governance": {
+    shortTitle: "Grassroot Governance",
+    kicker: "Rural digital infrastructure",
+    summary:
+      "A connected-governance program extending reliable digital access from state headquarters to Gram Panchayats through VSAT, broadband, applications, and command-center coordination.",
+    scale: "Village-to-state connectivity",
+    responsibilities: [
+      "Shaped the hub-and-spoke delivery model across village connectivity, applications, on-premises infrastructure, and command-center operations.",
+      "Coordinated technology and governance dependencies spanning VSAT, broadband, rural e-services, and state-level monitoring.",
+      "Translated inclusive-access goals into phased delivery, operational controls, and measurable service readiness.",
+    ],
+    lenses: ["CTO", "Program", "Project"],
+  },
   Scallop: {
     shortTitle: "Scallop / E Money",
     kicker: "BankFi + PayFi",
@@ -397,6 +410,7 @@ const featuredOrder = [
   "Telemedicine Services - NHM, MP Govt.",
   "Disaster & Rescue Management - Uttrakhand Govt.",
   "Scallop",
+  "Digitization for Grassroot Governance",
   "HMIS - MP Govt.",
   "ArealYou.ai",
   "Paper ID",
