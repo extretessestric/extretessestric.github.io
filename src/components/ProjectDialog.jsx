@@ -44,7 +44,9 @@ export function ProjectDialog({ project, activeLens, onClose }) {
         </button>
 
         <div className="project-dialog__image-wrap">
-          <img src={project.image} alt="" className="project-dialog__image" />
+          <div className="project-dialog__media-frame">
+            <img src={project.image} alt="" className="project-dialog__image" decoding="async" />
+          </div>
           <span className={`domain-badge domain-badge--${project.accent}`}>{project.domain}</span>
         </div>
 

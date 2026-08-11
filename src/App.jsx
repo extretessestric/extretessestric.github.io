@@ -84,10 +84,6 @@ const technologyGroups = [
   },
 ];
 
-function scrollToId(id) {
-  document.querySelector(id)?.scrollIntoView({ behavior: "smooth", block: "start" });
-}
-
 function movePortrait(event) {
   const bounds = event.currentTarget.getBoundingClientRect();
   const horizontal = ((event.clientX - bounds.left) / bounds.width - 0.5) * 2;
@@ -271,10 +267,10 @@ export function App() {
               Mumbai, Maharashtra, India
             </p>
             <div className="hero__actions">
-              <button className="button button--primary" type="button" onClick={() => scrollToId("#impact-atlas")}>
-                Explore the atlas
+              <a className="button button--primary" href="#projects">
+                Explore projects
                 <ArrowRight aria-hidden="true" />
-              </button>
+              </a>
               <a className="button button--secondary" href="/resumes/gaurav-jain-resume.pdf" download>
                 <DownloadSimple aria-hidden="true" />
                 Download résumé
