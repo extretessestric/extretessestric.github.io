@@ -3,6 +3,7 @@ import {
   ArrowSquareOut,
   CheckCircle,
   Stack,
+  Tag,
   X,
 } from "@phosphor-icons/react";
 
@@ -47,7 +48,10 @@ export function ProjectDialog({ project, activeLens, onClose }) {
           <div className="project-dialog__media-frame">
             <img src={project.image} alt="" className="project-dialog__image" decoding="async" />
           </div>
-          <span className={`domain-badge domain-badge--${project.accent}`}>{project.domain}</span>
+          <span className={`domain-badge domain-badge--${project.accent}`}>
+            <Tag aria-hidden="true" weight="duotone" />
+            {project.domain}
+          </span>
         </div>
 
         <div className="project-dialog__content">
