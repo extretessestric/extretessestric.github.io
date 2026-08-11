@@ -897,12 +897,14 @@ main,
 }
 
 .project-card__button {
-  display: block;
+  display: flex;
   width: 100%;
+  height: 100%;
   padding: 0;
   border: 0;
   background: transparent;
   cursor: pointer;
+  flex-direction: column;
   text-align: left;
 }
 
@@ -941,7 +943,10 @@ main,
 }
 
 .project-card__body {
+  display: flex;
+  flex: 1;
   padding: 1.5rem;
+  flex-direction: column;
 }
 
 .project-card__meta {
@@ -996,30 +1001,19 @@ main,
 }
 
 .project-card__footer {
+  display: flex;
+  margin-top: auto;
   padding-top: 0.9rem;
   border-top: 1px solid var(--line);
   color: #646b70;
+  justify-content: flex-end;
   font-size: 0.58rem;
   line-height: 1.45;
+  text-align: right;
 }
 
-.project-card__stack {
-  display: flex;
-  align-items: baseline;
-  flex-wrap: wrap;
-  gap: 0.32rem;
-}
-
-.project-card__stack strong {
-  color: var(--ink);
-  font-size: inherit;
-  font-weight: 800;
-  letter-spacing: 0.07em;
-  text-transform: uppercase;
-}
-
-.project-card__stack > span:first-of-type {
-  color: var(--orange);
+.project-card__footer > span {
+  max-width: 100%;
 }
 
 .featured-grid .project-card:first-child {
@@ -1228,6 +1222,21 @@ main,
   border-top: 1px solid var(--line-strong);
   border-bottom: 1px solid var(--line-strong);
   background: #efe5d8;
+}
+
+.landscape-heading {
+  margin-bottom: 2.4rem;
+  align-items: start;
+}
+
+.landscape-heading__details {
+  display: grid;
+  gap: 1.35rem;
+}
+
+.landscape-heading .landscape-note {
+  margin-bottom: 0;
+  grid-template-columns: 7.4rem minmax(0, 1fr);
 }
 
 .landscape-note {
@@ -1903,17 +1912,34 @@ main,
   background: var(--orange);
 }
 
-.technology-list {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
+.project-stack-grid {
+  display: grid;
+  border-top: 1px solid var(--line-strong);
+  border-left: 1px solid var(--line-strong);
+  grid-template-columns: repeat(2, minmax(0, 1fr));
 }
 
-.technology-list span {
-  padding: 0.55rem 0.7rem;
-  border: 1px solid var(--line-strong);
-  border-radius: 999px;
-  font-size: 0.62rem;
+.project-stack-group {
+  min-height: 6.25rem;
+  padding: 1rem;
+  border-right: 1px solid var(--line-strong);
+  border-bottom: 1px solid var(--line-strong);
+}
+
+.project-stack-group h4 {
+  margin: 0 0 0.7rem;
+  color: var(--orange-dark);
+  font-size: 0.58rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.project-stack-group p {
+  margin: 0;
+  color: #343a3e;
+  font-size: 0.68rem;
+  line-height: 1.65;
 }
 
 .project-dialog__footer {
@@ -2376,6 +2402,10 @@ main,
     padding-left: 0;
     border-top: 1px solid var(--line);
     border-left: 0;
+  }
+
+  .project-stack-grid {
+    grid-template-columns: 1fr;
   }
 
   .project-dialog__footer {

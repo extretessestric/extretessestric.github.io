@@ -16,11 +16,7 @@ export function ProjectCard({ project, onOpen, compact = false }) {
           <h3>{project.shortTitle}</h3>
           <p>{project.summary}</p>
           <div className="project-card__footer">
-            <span className="project-card__stack">
-              <strong>Tech stack</strong>
-              <span aria-hidden="true">—</span>
-              <span>{project.technologies.slice(0, 3).join(" · ")}</span>
-            </span>
+            <span>{project.technologies.join(" · ")}</span>
           </div>
         </div>
       </button>

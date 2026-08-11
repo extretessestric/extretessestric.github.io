@@ -38,15 +38,95 @@ const technologyAliases = new Map([
   ["google cloud", "Google Cloud"],
   ["gcp", "Google Cloud"],
   ["cloudfare", "Cloudflare"],
+  ["cloufare", "Cloudflare"],
   ["websockets", "WebSockets"],
   ["github actions", "GitHub Actions"],
   ["jira", "Jira"],
   ["wordpress", "WordPress"],
+  ["elasticsearch", "Elasticsearch"],
 ]);
 
 function normalizeTechnology(value) {
   const cleaned = cleanText(value).trim();
   return technologyAliases.get(cleaned.toLowerCase()) ?? cleaned;
+}
+
+const technologyExpansions = new Map([
+  ["stripe / flutterwave", ["Stripe", "Flutterwave"]],
+  ["docker & kubernetes", ["Docker", "Kubernetes"]],
+  ["docker / kubernetes", ["Docker", "Kubernetes"]],
+  ["docker / nginx", ["Docker", "Nginx"]],
+  ["docker, kubernetes, terraform, jenkins", ["Docker", "Kubernetes", "Terraform", "Jenkins"]],
+  ["sql, tableau, power bi", ["SQL", "Tableau", "Power BI"]],
+  ["tensorflow, pytorch, scala", ["TensorFlow", "PyTorch", "Scala"]],
+  ["spark, kafka, airflow, hadoop", ["Spark", "Kafka", "Airflow", "Hadoop"]],
+  ["aws + azure + gcp", ["AWS", "Azure", "Google Cloud"]],
+  ["aws & nginx", ["AWS", "Nginx"]],
+  ["python + java", ["Python", "Java"]],
+  ["python + fastapi", ["Python", "FastAPI"]],
+  ["ocr + nlp", ["OCR", "NLP"]],
+  ["javascript / jquery", ["JavaScript", "jQuery"]],
+  ["reactjs + redux", ["React", "Redux"]],
+  ["lms / cms", ["LMS", "CMS"]],
+  ["erp / crm", ["ERP", "CRM"]],
+  ["elastic / solr", ["Elasticsearch", "Solr"]],
+  ["google analytics / tag manager", ["Google Analytics", "Google Tag Manager"]],
+  ["google tag manager & analytics", ["Google Tag Manager", "Google Analytics"]],
+  ["moengage / outbrain", ["MoEngage", "Outbrain"]],
+  ["zoom / slack", ["Zoom", "Slack"]],
+  ["vimeo / gmail", ["Vimeo", "Gmail"]],
+  ["livechat / zopim", ["LiveChat", "Zopim"]],
+  ["mautic / ahrefs", ["Mautic", "Ahrefs"]],
+  ["native ios & android", ["Native iOS", "Native Android"]],
+  ["llm apis / image generation apis", ["LLM APIs", "Image Generation APIs"]],
+]);
+
+function expandTechnology(value) {
+  const cleaned = cleanText(value).trim();
+  const expanded = technologyExpansions.get(cleaned.toLowerCase()) ?? [cleaned];
+  return expanded.map(normalizeTechnology);
+}
+
+const stackCategoryRules = [
+  {
+    label: "Frontend & mobile",
+    match: /react|redux|angular|vue|next\.js|preact|javascript|jquery|html|bootstrap|handlebars|liquid|day\.js|flutter|native ios|native android|jsp/i,
+  },
+  {
+    label: "Backend & APIs",
+    match: /spring boot|\bjava\b|node\.js|\bpython\b|django|fastapi|\bphp\b|\.net|\bgo\b|graphql|websockets|socket\.io|delphi|rest api/i,
+  },
+  {
+    label: "Data & AI",
+    match: /mysql|postgres|\bsql\b|mongodb|redis|oracle|mssql|enterprise db|managed db|bigquery|elasticsearch|solr|spark|kafka|airflow|hadoop|ai\/ml|ai-powered|ai & automation|generative ai|\bllm\b|llm api|image generation|\bnlp\b|\bocr\b|icr|opencv|tensorflow|pytorch|vertex ai|gemini|claude|agent orchestration|python \(analytics\)/i,
+  },
+  {
+    label: "Cloud & infrastructure",
+    match: /\baws\b|aws s3|azure|google cloud|cloudflare|docker|kubernetes|terraform|nginx|apache|vercel|on-prem|data center|vmware|virtualbox|envoy|cedexis|godaddy|hosted/i,
+  },
+  {
+    label: "Integrations & payments",
+    match: /stripe|flutterwave|paypal|payu|razorpay|mastercard|metamask|smart contract|\bdefi\b|\bondc\b|whatsapp api|google maps api|firebase cloud messaging|disqus|moengage|outbrain|zoom|slack|livechat|zopim|vimeo|gmail|hubspot|google workspace|orthalis|doctolib|3shape|dentalmonitoring|kitview|\busps\b|webengage|chatwoot/i,
+  },
+  {
+    label: "Delivery, quality & analytics",
+    match: /jira|trello|asana|path\(pm tool\)|jenkins|github actions|azure devops|confluence|clickup|notion|google analytics|tag manager|mixpanel|amplitude|new relic|junit|lombok|a11y|wcag|vpat|web accessibility|ahrefs|mautic|meta pixels|google ads|webtrekk|power bi|tableau|yoast|lead generation/i,
+  },
+];
+
+function buildStackGroups(technologies) {
+  const buckets = new Map(stackCategoryRules.map(({ label }) => [label, []]));
+  const platformLabel = "Platforms & domain technology";
+  buckets.set(platformLabel, []);
+
+  technologies.forEach((technology) => {
+    const category = stackCategoryRules.find(({ match }) => match.test(technology))?.label ?? platformLabel;
+    buckets.get(category).push(technology);
+  });
+
+  return [...buckets.entries()]
+    .filter(([, items]) => items.length)
+    .map(([label, items]) => ({ label, items }));
 }
 
 const domainRules = [
@@ -291,7 +371,7 @@ export const projects = portfolioSource.projects.map((sourceProject) => {
     ...sourceProject,
     name: cleanText(sourceProject.name),
     description: cleanText(sourceProject.description),
-    technologies: [...new Set((sourceProject.technologies ?? []).map(normalizeTechnology))],
+    technologies: [...new Set((sourceProject.technologies ?? []).flatMap(expandTechnology))],
   };
   const domain = inferDomain(project);
   const featured = featuredDetails[project.name];
@@ -307,6 +387,7 @@ export const projects = portfolioSource.projects.map((sourceProject) => {
     shortTitle: featured?.shortTitle ?? project.name,
     kicker: featured?.kicker ?? domain,
     scale: featured?.scale ?? `${project.technologies.length} technology touchpoints`,
+    stackGroups: buildStackGroups(project.technologies),
     featured: Boolean(featured),
   };
 });

@@ -35,12 +35,10 @@ import {
   lensConfig,
   projectDomains,
   projects,
-  resumeVariants,
 } from "./data/projectLibrary.js";
 
 const navigation = [
   { label: "Profile", href: "#profile" },
-  { label: "Impact atlas", href: "#impact-atlas" },
   { label: "Projects", href: "#projects" },
   { label: "Landscape", href: "#landscape" },
   { label: "Capabilities", href: "#capabilities" },
@@ -262,7 +260,6 @@ export function App() {
       <main>
         <section id="profile" className="hero section-anchor">
           <div className="hero__copy">
-            <p className="eyebrow eyebrow--orange">Impact atlas</p>
             <h1>
               Building the systems behind real-world change<span>.</span>
             </h1>
@@ -441,16 +438,21 @@ export function App() {
         </section>
 
         <section id="landscape" className="landscape section-block section-anchor">
-          <SectionHeading
-            eyebrow="Extended landscape"
-            title="Products beyond the archive"
-            count={String(landscapeProjects.length).padStart(2, "0")}
-            text="The additional companies and products supplied for this portfolio, researched and organized by public product domain."
-          />
-
-          <div className="landscape-note">
-            <span>Source boundary</span>
-            <p>{landscapeMethod}</p>
+          <div className="section-heading landscape-heading">
+            <div>
+              <p className="eyebrow">Extended landscape</p>
+              <h2>Products beyond the archive<span>.</span></h2>
+            </div>
+            <div className="landscape-heading__details">
+              <div className="section-heading__support">
+                <span className="section-count">{String(landscapeProjects.length).padStart(2, "0")}</span>
+                <p>The additional companies and products supplied for this portfolio, researched and organized by public product domain.</p>
+              </div>
+              <div className="landscape-note">
+                <span>Source boundary</span>
+                <p>{landscapeMethod}</p>
+              </div>
+            </div>
           </div>
 
           <div className="landscape-toolbar">
@@ -554,28 +556,6 @@ export function App() {
                 </section>
               ))}
             </div>
-          </div>
-        </section>
-
-        <section className="resume-section section-block">
-          <div className="resume-section__intro">
-            <p className="eyebrow">Choose the lens</p>
-            <h2>One career.<br />Five résumé views<span>.</span></h2>
-            <p>
-              Start with the cross-role profile or download the version aligned to the leadership mandate you are hiring for.
-            </p>
-          </div>
-          <div className="resume-list">
-            {resumeVariants.map((resume, index) => (
-              <a key={resume.href} href={resume.href} download>
-                <span>{String(index + 1).padStart(2, "0")}</span>
-                <div>
-                  <strong>{resume.title}</strong>
-                  <p>{resume.subtitle}</p>
-                </div>
-                <DownloadSimple aria-hidden="true" />
-              </a>
-            ))}
           </div>
         </section>
 

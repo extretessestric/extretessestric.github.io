@@ -81,9 +81,12 @@ export function ProjectDialog({ project, activeLens, onClose }) {
               <Stack aria-hidden="true" weight="duotone" />
               <h3 id="stack-heading">Technology context</h3>
             </div>
-            <div className="technology-list">
-              {project.technologies.map((technology) => (
-                <span key={technology}>{technology}</span>
+            <div className="project-stack-grid">
+              {project.stackGroups.map((group) => (
+                <article className="project-stack-group" key={group.label}>
+                  <h4>{group.label}</h4>
+                  <p>{group.items.join(" · ")}</p>
+                </article>
               ))}
             </div>
           </section>
