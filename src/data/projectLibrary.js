@@ -400,6 +400,8 @@ export const projects = portfolioSource.projects.map((sourceProject) => {
     shortTitle: featured?.shortTitle ?? project.name,
     kicker: featured?.kicker ?? domain,
     scale: featured?.scale ?? `${project.technologies.length} technology touchpoints`,
+    imagePresentation:
+      project.name === "Digitization for Grassroot Governance" ? "artwork" : "logo",
     stackGroups: buildStackGroups(project.technologies),
     featured: Boolean(featured),
   };

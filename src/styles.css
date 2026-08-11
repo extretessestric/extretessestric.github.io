@@ -747,10 +747,10 @@ main,
 
 .section-heading {
   display: grid;
-  margin-bottom: clamp(3rem, 6vw, 5.75rem);
-  grid-template-columns: minmax(300px, 0.82fr) minmax(360px, 1.18fr);
-  gap: clamp(2rem, 6vw, 7rem);
-  align-items: end;
+  margin-bottom: clamp(3rem, 5vw, 4.75rem);
+  grid-template-columns: minmax(300px, 0.92fr) minmax(360px, 1.08fr);
+  gap: clamp(2.5rem, 6vw, 7rem);
+  align-items: center;
 }
 
 .section-heading h2 {
@@ -765,9 +765,11 @@ main,
 
 .section-heading__support {
   display: flex;
+  width: 100%;
   border-top: 1px solid var(--line-strong);
   padding-top: 1.3rem;
   align-items: flex-start;
+  align-self: center;
   gap: 1.5rem;
 }
 
@@ -1794,6 +1796,27 @@ main,
   object-fit: contain;
 }
 
+.project-dialog__image-wrap--artwork {
+  padding: clamp(1rem, 2vw, 1.75rem);
+  background-color: #dfe5de;
+}
+
+.project-dialog__media-frame--artwork {
+  width: min(100%, calc(90vh - 5rem));
+  max-width: 34rem;
+  max-height: calc(90vh - 5rem);
+  border-color: rgba(9, 36, 58, 0.22);
+  border-radius: 1.35rem;
+  aspect-ratio: 1;
+  background: #dfe5de;
+  box-shadow: 0 28px 70px rgba(9, 36, 58, 0.22);
+}
+
+.project-dialog__image--artwork {
+  padding: 0;
+  object-fit: cover;
+}
+
 .domain-badge {
   --domain-accent: var(--navy);
   --domain-surface: rgba(9, 36, 58, 0.08);
@@ -2382,9 +2405,19 @@ main,
     aspect-ratio: 16 / 9;
   }
 
+  .project-dialog__media-frame--artwork {
+    width: min(100%, 32rem);
+    margin-inline: auto;
+    aspect-ratio: 1;
+  }
+
   .project-dialog__image {
     min-height: 0;
     padding: 1rem;
+  }
+
+  .project-dialog__image--artwork {
+    padding: 0;
   }
 
   .project-dialog__close {

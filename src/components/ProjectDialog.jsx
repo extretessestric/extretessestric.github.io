@@ -44,9 +44,14 @@ export function ProjectDialog({ project, activeLens, onClose }) {
           <X aria-hidden="true" />
         </button>
 
-        <div className="project-dialog__image-wrap">
-          <div className="project-dialog__media-frame">
-            <img src={project.image} alt="" className="project-dialog__image" decoding="async" />
+        <div className={`project-dialog__image-wrap project-dialog__image-wrap--${project.imagePresentation}`}>
+          <div className={`project-dialog__media-frame project-dialog__media-frame--${project.imagePresentation}`}>
+            <img
+              src={project.image}
+              alt=""
+              className={`project-dialog__image project-dialog__image--${project.imagePresentation}`}
+              decoding="async"
+            />
           </div>
           <span className={`domain-badge domain-badge--${project.accent}`}>
             <Tag aria-hidden="true" weight="duotone" />
