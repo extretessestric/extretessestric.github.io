@@ -1,0 +1,1077 @@
+{
+  "candidateCount": 107,
+  "duplicateCount": 4,
+  "possibleDuplicateCount": 3,
+  "candidates": [
+    {
+      "sourceOrder": 1,
+      "candidate": "Freightos",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.444,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 2,
+      "candidate": "Ascent Business",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.333,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 3,
+      "candidate": "Inextrix",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.4,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 4,
+      "candidate": "Network Handlers",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.375,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 5,
+      "candidate": "Circles.Life",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.5,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 6,
+      "candidate": "ComUnus",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.333,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 7,
+      "candidate": "Bitkraft Technologies",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.364,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 8,
+      "candidate": "Cloud 9 Infosystem",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.333,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 9,
+      "candidate": "ONI",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.333,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 10,
+      "candidate": "T D Newton",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.35,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 11,
+      "candidate": "Rexera",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.429,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 12,
+      "candidate": "Saasvaap",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.375,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 13,
+      "candidate": "OMYA",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.25,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 14,
+      "candidate": "GoodWorkLabs",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.333,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 15,
+      "candidate": "Microsec",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.375,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 16,
+      "candidate": "Liquify",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.4,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 17,
+      "candidate": "Luxoft",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.333,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 18,
+      "candidate": "Markowate",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.444,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 19,
+      "candidate": "Shobi Group",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.286,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 20,
+      "candidate": "Venpa Staffing Services",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.35,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 21,
+      "candidate": "Fintegrator",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.455,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 22,
+      "candidate": "Hexpress Healthcare Softech",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.37,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 23,
+      "candidate": "Entoss Technologies",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.333,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 24,
+      "candidate": "Wobot.ai",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.538,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 25,
+      "candidate": "InstaaCoders",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.417,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 26,
+      "candidate": "Wits Innovation",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.45,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 27,
+      "candidate": "Sieva Networks",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.5,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 28,
+      "candidate": "Hyre Global Service",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.368,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 29,
+      "candidate": "Systango Technologies",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.333,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 30,
+      "candidate": "Sciative",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.375,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 31,
+      "candidate": "LearningMate",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.333,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 32,
+      "candidate": "Jignect Technologies",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.286,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 33,
+      "candidate": "Techolution",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.45,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 34,
+      "candidate": "WriteSea",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.333,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 35,
+      "candidate": "RSDI Enterprise",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.4,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 36,
+      "candidate": "Autoaid",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.4,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 37,
+      "candidate": "Sankey Solutions",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.429,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 38,
+      "candidate": "SimplyFI",
+      "matchStatus": "possible-duplicate",
+      "matchedOldProject": "SimplifyPI",
+      "similarity": 0.7,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 39,
+      "candidate": "RapidBrains",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.364,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 40,
+      "candidate": "Stellar Innovation",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.45,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 41,
+      "candidate": "Jaarvis Technologies",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.375,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 42,
+      "candidate": "Technology Next",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.333,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 43,
+      "candidate": "Interactive Bees",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.313,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 44,
+      "candidate": "Vistaar Digital",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.333,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 45,
+      "candidate": "e-Zest",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.333,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 46,
+      "candidate": "Sid's Farm",
+      "matchStatus": "duplicate",
+      "matchedOldProject": "Sid's Farm",
+      "similarity": 1,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 47,
+      "candidate": "iAcuity Telco Solutions",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.462,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 48,
+      "candidate": "Neurowyzr",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.238,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 49,
+      "candidate": "Tracxn",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.3,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 50,
+      "candidate": "Anlage",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.357,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 51,
+      "candidate": "Illumine",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.273,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 52,
+      "candidate": "Techxperts",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.308,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 53,
+      "candidate": "dox2u",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.222,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 54,
+      "candidate": "Qode World",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.5,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 55,
+      "candidate": "KnowledgeWorks",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.5,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 56,
+      "candidate": "Adavantmed",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.4,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 57,
+      "candidate": "Rubis Software Solutions",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.429,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 58,
+      "candidate": "Meta Design Solutions",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.35,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 59,
+      "candidate": "Dotsquares",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.3,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 60,
+      "candidate": "Vayuz",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.4,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 61,
+      "candidate": "Codaemon",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.5,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 62,
+      "candidate": "ProArch",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.333,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 63,
+      "candidate": "Cuddles Foundation",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.4,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 64,
+      "candidate": "EnRisk",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.25,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 65,
+      "candidate": "Closeloop",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.364,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 66,
+      "candidate": "Intelli Savvy",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.385,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 67,
+      "candidate": "InternGrad",
+      "matchStatus": "duplicate",
+      "matchedOldProject": "InternGrad",
+      "similarity": 1,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 68,
+      "candidate": "BigStep Technologies",
+      "matchStatus": "possible-duplicate",
+      "matchedOldProject": "BigShip",
+      "similarity": 0.714,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 69,
+      "candidate": "Quantum BSO",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.286,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 70,
+      "candidate": "Watch Your Health",
+      "matchStatus": "duplicate",
+      "matchedOldProject": "Watch Your Health",
+      "similarity": 1,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 71,
+      "candidate": "Simple Works",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.538,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 72,
+      "candidate": "Nedsoft",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.3,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 73,
+      "candidate": "Find My Tuition",
+      "matchStatus": "duplicate",
+      "matchedOldProject": "Find My Tuition",
+      "similarity": 1,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 74,
+      "candidate": "IDfy",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.333,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 75,
+      "candidate": "Volkswagen",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.364,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 76,
+      "candidate": "ITOrizon",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.556,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 77,
+      "candidate": "General Mills",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.4,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 78,
+      "candidate": "Hidden Brains",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.333,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 79,
+      "candidate": "Qrata",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.429,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 80,
+      "candidate": "TryMasaj / Resilut",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.313,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 81,
+      "candidate": "Mphasis",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.313,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 82,
+      "candidate": "York Solutions",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.273,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 83,
+      "candidate": "DBSync",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.25,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 84,
+      "candidate": "NOVAC",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.333,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 85,
+      "candidate": "Wizergos",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.333,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 86,
+      "candidate": "Search for Health",
+      "matchStatus": "possible-duplicate",
+      "matchedOldProject": "Watch Your Health",
+      "similarity": 0.706,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 87,
+      "candidate": "Reloy",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.364,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 88,
+      "candidate": "Serve First",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.364,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 89,
+      "candidate": "BridgeSoft",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.4,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 90,
+      "candidate": "First Living Space",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.478,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 91,
+      "candidate": "Motivity Labs",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.313,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 92,
+      "candidate": "LifeCell",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.333,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 93,
+      "candidate": "Cutting Edge Research",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.524,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 94,
+      "candidate": "Visionary",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.3,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 95,
+      "candidate": "Wagons Learning Limited",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.267,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 96,
+      "candidate": "Khelo Tech",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.5,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 97,
+      "candidate": "Ravan.ai",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.455,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 98,
+      "candidate": "Applikon",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.3,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 99,
+      "candidate": "Prestige Constructions",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.636,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 100,
+      "candidate": "ProductNova",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.364,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 101,
+      "candidate": "Revorra",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.385,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 102,
+      "candidate": "Adler & Pfau / Wings49",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.318,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 103,
+      "candidate": "YourVRO",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.3,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 104,
+      "candidate": "3S Logics / Biznext",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.353,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 105,
+      "candidate": "Biospec",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.429,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 106,
+      "candidate": "ELISA for Life",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.429,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    },
+    {
+      "sourceOrder": 107,
+      "candidate": "Voicera.io",
+      "matchStatus": "new-candidate",
+      "matchedOldProject": null,
+      "similarity": 0.4,
+      "publicSourceStatus": "unresearched",
+      "involvementStatus": "user-confirmation-required",
+      "publishStatus": "hold"
+    }
+  ]
+}

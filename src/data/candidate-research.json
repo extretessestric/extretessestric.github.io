@@ -1,0 +1,234 @@
+{
+  "asOf": "2026-08-11",
+  "method": "Public product facts are sourced from official company pages. They describe the product, not Gaurav Jain's involvement. Role, responsibility, outcome, and technology claims remain on hold until corroborated by a resume, existing portfolio entry, local project evidence, or explicit user confirmation.",
+  "records": [
+    {
+      "candidate": "Freightos",
+      "officialProduct": "Freightos digital freight platform",
+      "domains": ["LogisticsTech", "Marketplace", "Supply chain", "B2B SaaS"],
+      "publicSummary": "Digital infrastructure connecting carriers, forwarders, and shippers across freight procurement, booking, payments, visibility, and market intelligence. Public products include Freightos Marketplace and modular Freightos Enterprise capabilities.",
+      "sourceUrls": [
+        "https://www.freightos.com/",
+        "https://www.freightos.com/about-us/"
+      ],
+      "publicSourceStatus": "verified",
+      "involvementStatus": "user-confirmation-required",
+      "technologyClaimStatus": "not-verified",
+      "publishStatus": "hold"
+    },
+    {
+      "candidate": "Circles.Life",
+      "officialProduct": "Circles digital telco platform and Circles.Life",
+      "domains": ["Telecom", "SaaS", "CPaaS", "eSIM"],
+      "publicSummary": "Circles operates a SaaS platform for launching and refreshing digital telco brands; its public businesses include Circles.Life, Circles Aspire, and Jetpac travel eSIM.",
+      "sourceUrls": ["https://circles.co/about"],
+      "publicSourceStatus": "verified",
+      "involvementStatus": "user-confirmation-required",
+      "technologyClaimStatus": "not-verified",
+      "publishStatus": "hold"
+    },
+    {
+      "candidate": "Wobot.ai",
+      "officialProduct": "Wobot AI video intelligence platform",
+      "domains": ["Computer vision", "Video analytics", "RetailTech", "Operations"],
+      "publicSummary": "Transforms existing camera feeds into operational insights, alerts, compliance checks, and reporting for hospitality, retail, food operations, and other physical environments.",
+      "sourceUrls": ["https://wobot.ai/"],
+      "publicSourceStatus": "verified",
+      "involvementStatus": "user-confirmation-required",
+      "technologyClaimStatus": "not-verified",
+      "publishStatus": "hold"
+    },
+    {
+      "candidate": "Neurowyzr",
+      "officialProduct": "Digital Brain Function Screen",
+      "domains": ["HealthTech", "MedTech", "Digital assessment", "Brain health"],
+      "publicSummary": "A medical-device brain-health screening platform supporting early detection, diagnosis, therapy, and monitoring of cognitive decline.",
+      "sourceUrls": [
+        "https://neurowyzr.com/",
+        "https://neurowyzr.com/solutions/"
+      ],
+      "publicSourceStatus": "verified",
+      "involvementStatus": "user-confirmation-required",
+      "technologyClaimStatus": "not-verified",
+      "publishStatus": "hold"
+    },
+    {
+      "candidate": "Tracxn",
+      "officialProduct": "Tracxn private-market intelligence platform",
+      "domains": ["Data intelligence", "Private markets", "AI", "FinTech"],
+      "publicSummary": "AI-assisted, analyst-verified intelligence for company research, market intelligence, funding analysis, competitive benchmarking, investor discovery, and trend analysis.",
+      "sourceUrls": [
+        "https://tracxn.com/",
+        "https://help.tracxn.com/en/articles/15432122-tracxn-ai-assistant-overview"
+      ],
+      "publicSourceStatus": "verified",
+      "involvementStatus": "user-confirmation-required",
+      "technologyClaimStatus": "not-verified",
+      "publishStatus": "hold"
+    },
+    {
+      "candidate": "IDfy",
+      "officialProduct": "IDfy TrustStack and integrated identity platform",
+      "domains": ["Identity", "KYC", "Fraud prevention", "RegTech"],
+      "publicSummary": "Enterprise identity, integrity, intent, income, and influence risk signals, including KYC APIs, document checks, face match, liveness, and fraud assessment.",
+      "sourceUrls": [
+        "https://www.idfy.com/",
+        "https://www.idfy.com/solutions-overview/"
+      ],
+      "publicSourceStatus": "verified",
+      "involvementStatus": "user-confirmation-required",
+      "technologyClaimStatus": "not-verified",
+      "publishStatus": "hold"
+    },
+    {
+      "candidate": "dox2u",
+      "officialProduct": "dox2U document management system",
+      "domains": ["Document management", "Enterprise SaaS", "Compliance", "Workflow"],
+      "publicSummary": "Centralized document management with transaction- or process-oriented Dockets, Smart Cabinets, capture, checklists, auto-tagging, and deep search.",
+      "sourceUrls": ["https://www.dox2u.com/document-management/"],
+      "publicSourceStatus": "verified",
+      "involvementStatus": "user-confirmation-required",
+      "technologyClaimStatus": "not-verified",
+      "publishStatus": "hold"
+    },
+    {
+      "candidate": "Sciative",
+      "officialProduct": "Sciative AI dynamic-pricing platform and BRIO",
+      "domains": ["Pricing", "AI", "RetailTech", "TravelTech"],
+      "publicSummary": "Real-time AI pricing optimization across retail, travel, transport, and hospitality; BRIO is positioned as a pricing-intelligence and dynamic-price-automation platform.",
+      "sourceUrls": [
+        "https://sciative.com/",
+        "https://sciative.com/research-articles/translate-retail-data-and-dynamic-pricing-into-sales"
+      ],
+      "publicSourceStatus": "verified",
+      "involvementStatus": "user-confirmation-required",
+      "technologyClaimStatus": "not-verified",
+      "publishStatus": "hold"
+    },
+    {
+      "candidate": "LearningMate",
+      "officialProduct": "LearningMate education technology and Kadal AI platform",
+      "domains": ["EdTech", "AI", "Learning platforms", "Data"],
+      "publicSummary": "Education-first technology, content, AI, data, and workflow solutions. Public product references include the Kadal education-centric AI platform and Clarity Data Platform.",
+      "sourceUrls": [
+        "https://learningmate.com/",
+        "https://learningmate.com/k-12/"
+      ],
+      "publicSourceStatus": "verified",
+      "involvementStatus": "user-confirmation-required",
+      "technologyClaimStatus": "not-verified",
+      "publishStatus": "hold"
+    },
+    {
+      "candidate": "Techolution",
+      "officialProduct": "BPA 4.0 AI Platform",
+      "domains": ["Enterprise AI", "Automation", "Data", "Cloud"],
+      "publicSummary": "An enterprise business-process-automation platform positioned around converting AI investment into measurable operational ROI.",
+      "sourceUrls": ["https://www.techolution.com/"],
+      "publicSourceStatus": "verified",
+      "involvementStatus": "user-confirmation-required",
+      "technologyClaimStatus": "not-verified",
+      "publishStatus": "hold"
+    },
+    {
+      "candidate": "Systango Technologies",
+      "officialProduct": "YLabs intelligent document processing and generative BI",
+      "domains": ["AI", "Data", "Document intelligence", "Product engineering"],
+      "publicSummary": "Digital product engineering and AI/data services, with public marketplace solutions including YLabs IDP and YLabs Generative BI.",
+      "sourceUrls": [
+        "https://www.systango.com/",
+        "https://www.systango.com/investors/corporate-announcement/Intimation-of-Google-Cloud-Marketplace-Solutions-Ylabs-IDP-and-Ylabs-Generative-BI.pdf"
+      ],
+      "publicSourceStatus": "verified",
+      "involvementStatus": "user-confirmation-required",
+      "technologyClaimStatus": "not-verified",
+      "publishStatus": "hold"
+    },
+    {
+      "candidate": "Luxoft",
+      "officialProduct": "Luxoft Analytics platform",
+      "domains": ["Enterprise analytics", "Data", "Financial services", "Automotive"],
+      "publicSummary": "LXA is an enterprise analytics platform combining data ingestion and storage, analytics, and application-layer visualization; Luxoft also publishes product-engineering and industry platforms.",
+      "sourceUrls": ["https://www.luxoft.com/lxa-platform"],
+      "publicSourceStatus": "verified",
+      "involvementStatus": "user-confirmation-required",
+      "technologyClaimStatus": "not-verified",
+      "publishStatus": "hold"
+    },
+    {
+      "candidate": "Mphasis",
+      "officialProduct": "NeoIP AI platform",
+      "domains": ["Enterprise AI", "IT operations", "Automation", "Financial services"],
+      "publicSummary": "Mphasis describes NeoIP as an AI platform orchestrating multiple AI platforms and solutions across the enterprise IT value chain.",
+      "sourceUrls": ["https://www.mphasis.com/home/corporate/about-mphasis.html"],
+      "publicSourceStatus": "verified",
+      "involvementStatus": "user-confirmation-required",
+      "technologyClaimStatus": "not-verified",
+      "publishStatus": "hold"
+    },
+    {
+      "candidate": "ProArch",
+      "officialProduct": "ProArch Vector",
+      "domains": ["FinOps", "Microsoft", "Cloud", "AI"],
+      "publicSummary": "An AI-powered platform centralizing Microsoft licensing, billing, renewals, usage, and Azure-spend data into an actionable management view.",
+      "sourceUrls": ["https://www.proarch.com/vector"],
+      "publicSourceStatus": "verified",
+      "involvementStatus": "user-confirmation-required",
+      "technologyClaimStatus": "not-verified",
+      "publishStatus": "hold"
+    },
+    {
+      "candidate": "3S Logics / Biznext",
+      "officialProduct": "BizNext One integrated business management platform",
+      "domains": ["ERP", "Business management", "FinTech", "Enterprise SaaS"],
+      "publicSummary": "A modular integrated business-management platform spanning finance, inventory, production, HR, sales, analytics, integrations, and multiple industry workflows. 3S Logics also publicly lists Febi.ai as an AI accounting platform.",
+      "sourceUrls": [
+        "https://www.3slogics.com/",
+        "https://www.biznextone.com/"
+      ],
+      "publicSourceStatus": "verified",
+      "involvementStatus": "local-workspace-evidence-present-needs-publication-review",
+      "technologyClaimStatus": "project-specific-local-evidence-available",
+      "publishStatus": "review"
+    },
+    {
+      "candidate": "Adler & Pfau / Wings49",
+      "officialProduct": "Wings49 digital talent-mobility platform",
+      "domains": ["HRTech", "Talent mobility", "AI matching", "Trust and verification"],
+      "publicSummary": "A multi-sided platform connecting international candidates, German employers, verified recruiters, and training institutions through transparent skilled-migration workflows.",
+      "sourceUrls": [
+        "https://www.wings49.com/who-we-are",
+        "https://wings49.com/how-it-works"
+      ],
+      "publicSourceStatus": "verified",
+      "involvementStatus": "prior-work-artifacts-present-needs-publication-review",
+      "technologyClaimStatus": "project-specific-evidence-needs-revalidation",
+      "publishStatus": "review"
+    },
+    {
+      "candidate": "YourVRO",
+      "officialProduct": "VRO curated men's lifestyle marketplace",
+      "domains": ["Commerce", "Fashion", "Health and wellness", "Personalization"],
+      "publicSummary": "A curated men's marketplace spanning fashion, grooming, health, nutrition, and fitness, with guided discovery such as curated looks, routines, and search prompts.",
+      "sourceUrls": ["https://yourvro.com/"],
+      "publicSourceStatus": "verified",
+      "involvementStatus": "user-confirmation-required",
+      "technologyClaimStatus": "not-verified",
+      "publishStatus": "hold"
+    },
+    {
+      "candidate": "Voicera.io",
+      "officialProduct": "Voicera Sincerity API",
+      "domains": ["Multimodal AI", "Behavioral intelligence", "API platform", "TrustTech"],
+      "publicSummary": "An API-first multimodal AI data layer that analyzes audio, video, and composite behavioral signals to return structured sincerity and credibility outputs for high-trust workflows.",
+      "sourceUrls": [
+        "https://voicera.io/",
+        "https://voicera.io/about"
+      ],
+      "publicSourceStatus": "verified",
+      "involvementStatus": "user-confirmation-required",
+      "technologyClaimStatus": "not-verified",
+      "publishStatus": "hold"
+    }
+  ]
+}

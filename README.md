@@ -1,38 +1,26 @@
-## Portfolio
+# Gaurav Jain — Impact Atlas portfolio
 
-[https://extretessestric.github.io/](https://extretessestric.github.io/)
+An editorial, interactive portfolio presenting technology leadership across CTO, technical product, program, and project mandates.
 
-## Installation 
+Live site: [https://extretessestric.github.io/](https://extretessestric.github.io/)
 
-### Dependencies
-These are the local dependencies that are needed for development,
+## Local development
 
-- npm
-- git
-
-### Clone
-
-Get this repo to your local machine using,
-```shell
-$ git clone https://github.com/extretessestric/extretessestric.github.io
+```bash
+npm ci
+npm run dev
 ```
 
-### Setup 
+## Production build
 
-To install the node packages used in the project:
-
-```shell
-$ cd portfolio-template
-$ npm install
+```bash
+npm run build
 ```
 
-Compiles and hot-reloads for development
+The deploy workflow builds the Vite application and publishes `dist/client` to GitHub Pages after a push to `main`.
 
-```shell
-$ npm run serve
-```
+## Content boundaries
 
-Compiles and minifies for production
-```shell
-$ npm run build
-```
+- The project library preserves the 94 projects published in the previous portfolio.
+- The extended landscape is a separately labeled, public-source research layer and does not assert personal involvement or private implementation details.
+- Identity-ambiguous entities remain outside the published landscape until a canonical source is available.
