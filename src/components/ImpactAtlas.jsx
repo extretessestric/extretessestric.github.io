@@ -1,11 +1,11 @@
-import { useMemo } from "react";
+import { Fragment, useMemo } from "react";
 import {
   ReactFlow,
   Handle,
   Position,
 } from "@xyflow/react";
 import {
-  ArrowRight,
+  ArrowDown,
   CreditCard,
   FirstAidKit,
   Scales,
@@ -30,10 +30,12 @@ function CenterNode({ data }) {
       <span>{data.eyebrow}</span>
       <strong>
         {data.lines.map((line, index) => (
-          <span key={line}>
-            {line}
-            {index < data.lines.length - 1 ? <ArrowRight aria-hidden="true" /> : null}
-          </span>
+          <Fragment key={line}>
+            <span>{line}</span>
+            {index < data.lines.length - 1 ? (
+              <ArrowDown className="atlas-center__pipeline-arrow" aria-hidden="true" weight="bold" />
+            ) : null}
+          </Fragment>
         ))}
       </strong>
     </div>
