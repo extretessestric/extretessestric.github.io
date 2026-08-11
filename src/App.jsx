@@ -73,7 +73,7 @@ const metrics = [
 
 const technologyGroups = [
   {
-    label: "Platforms",
+    label: "Application platforms",
     items: ["Java & Spring Boot", "Python & FastAPI", "Node.js", "React", "Angular", "Flutter"],
   },
   {
@@ -81,7 +81,7 @@ const technologyGroups = [
     items: ["AWS", "Azure", "Google Cloud", "Docker", "Kubernetes", "CI/CD"],
   },
   {
-    label: "Systems",
+    label: "Architecture & systems",
     items: ["REST APIs", "Data platforms", "AI/ML & LLM", "Payments", "IoT", "SAP / ERP / CRM"],
   },
 ];
@@ -548,9 +548,9 @@ export function App() {
               {technologyGroups.map((group) => (
                 <section key={group.label}>
                   <h4>{group.label}</h4>
-                  <div>
-                    {group.items.map((item) => <span key={item}>{item}</span>)}
-                  </div>
+                  <ul>
+                    {group.items.map((item) => <li key={item}>{item}</li>)}
+                  </ul>
                 </section>
               ))}
             </div>
