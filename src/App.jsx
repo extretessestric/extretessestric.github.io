@@ -283,14 +283,19 @@ export function App() {
                 onPointerMove={movePortrait}
                 onPointerLeave={resetPortrait}
               >
-                <div className="portrait-motion__surface" aria-hidden="true">
-                  <img src="/assets/atlas-paper-texture.png" alt="" />
+                <div className="portrait-motion__surface">
+                  <img
+                    className="portrait-motion__texture"
+                    src="/assets/atlas-paper-texture.png"
+                    alt=""
+                    aria-hidden="true"
+                  />
+                  <img
+                    className="portrait-motion__person"
+                    src="/assets/gaurav-jain-cutout.png"
+                    alt="Gaurav Jain"
+                  />
                 </div>
-                <img
-                  className="portrait-motion__person"
-                  src="/assets/gaurav-jain-cutout.png"
-                  alt="Gaurav Jain"
-                />
               </div>
               <div className="identity-card__caption">
                 <span aria-hidden="true" />

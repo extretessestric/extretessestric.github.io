@@ -338,13 +338,13 @@ main,
   border: 1px solid #202b31;
   border-radius: 1.1rem 3.5rem 1.1rem 1.1rem;
   background: var(--orange);
-  box-shadow: 0 1rem 2.15rem rgba(9, 36, 58, 0.13);
+  box-shadow: -0.85rem 0.85rem 0 var(--navy);
   overflow: hidden;
   transform: translate3d(calc(var(--portrait-x) * -4px), calc(var(--portrait-y) * -3px), -18px);
   transition: transform 220ms ease-out;
 }
 
-.portrait-motion__surface img {
+.portrait-motion__texture {
   width: 160%;
   max-width: none;
   height: 130%;
@@ -357,21 +357,16 @@ main,
 .portrait-motion__person {
   position: absolute;
   z-index: 2;
-  right: -5%;
-  bottom: -0.25rem;
-  left: -5%;
-  width: 110%;
+  right: auto;
+  bottom: -0.45rem;
+  left: 50%;
+  width: auto;
+  height: 100%;
   max-width: none;
   margin: auto;
-  filter: drop-shadow(0 11px 12px rgba(4, 18, 28, 0.13));
-  transform: translate3d(calc(var(--portrait-x) * 7px), calc(var(--portrait-y) * 5px), 26px);
+  transform: translate3d(calc(-50% + var(--portrait-x) * 7px), calc(var(--portrait-y) * 5px), 26px);
   transform-origin: 50% 100%;
   animation: portraitFloat 6.4s ease-in-out infinite;
-  transition: filter 220ms ease-out;
-}
-
-.portrait-motion:hover .portrait-motion__person {
-  filter: drop-shadow(0 15px 16px rgba(4, 18, 28, 0.18));
 }
 
 @keyframes portraitFloat {
